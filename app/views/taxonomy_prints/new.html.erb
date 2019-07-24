@@ -1,0 +1,32 @@
+<h1>The whole damn taxonomy</h1>
+<h3>Explanation</h3>
+<p>This shows the tree structure with metrics, colour coded to easily show more, or less, "healthy" taxons, key for each entry as follows</p>
+<p>Taxon name (eg Entering and staying in the UK)</p>
+<p>"# tagged to it" The number of content items tagged directly to that taxon (eg 283)</p>
+<p>"# tagged to it + chldrn" The number of content items tagged to it and all its descendants (eg 4947)</p>
+<p>"coarseness" The total number of content items tagged to it and all its descendants, divided by the total depth of all it's descendants (where, for example, 2 level 5 taxons 'score' 10) (eg 0)</p>
+<p>"coarseness score" A score from 0 to 2 (lower is better) against all other taxons on the same level, a score of 2 says its in the worst third (ie highest coarseness scores), 1 in the middle third and 0 says it's in the bottom third (ie lowest coarseness scores)</p>
+<p>"percentage tagged to level" the percentage of content tagged to that taxon compared to it's siblings (eg 0)</p>
+<p>"percentage difference to level" the difference between the percentage tagged to that level compared to what we'd expect (so if a taxon has 3 siblings, we'd expect 25% to be tagged to each, if a taxon has only 10% this would be 15%. It's an absolute score so 10% or 40% it would be 15% either way)</p>
+<p>"percentage tagged to level score"A score from 0 to 2 (lower is better) against all other taxons on the same level, a score of 2 says its in the worst third (ie highest percentage difference), 1 in the middle third and 0 says it's in the bottom third (ie lowest percentage differences)</p>
+
+<h3>Colouring</h3>
+<p>Each taxon is colour coded, as you might expect, red is the worst, black is neutral and green is good (although these are relative scores so green might still be less than ideal)</p>
+<p>There are two colours, the top half is for the coarseness score and the bottom half for the percentage score). This is because sometimes the coarseness score is a better measure but I wanted to keep the percentage score around to see how useful it is. If in doubt, probably best to ignore the percentage score and colour</p>
+
+
+<%= link_to raw("<button type='submit' class='no-print'>Download PDF</button>"), taxonomy_print_path(id: 0), { remote: true, method: :get } %>
+<p class="no-print"><%= @height_mm %> mm high</p>
+<p class="no-print"><%= @width_mm %> mm wide</p>
+<%= render "show" %>
+
+
+<style>
+  @media print
+  {
+    .no-print, .no-print *
+    {
+      display: none !important;
+    }
+  }
+</style>
