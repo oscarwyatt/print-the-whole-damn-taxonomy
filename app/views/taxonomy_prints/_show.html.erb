@@ -13,8 +13,10 @@
 
   for (var i = 0; i < treeData.length; i++) {
     var node = treeData[i];
-    var text = addText(r, node.x, node.y, node.name, node.coarseness_colour, 100);
-    var percentageText = addText(r, node.x, node.y + (text.getBBox().height / 2), node.percentage_text, node.percentage_colour, 100);
+    var text = addText(r, node.x, node.y, node.name, "#000", 100);
+    var coarsenessText = addText(r, node.x, node.y + (text.getBBox().height / 4), node.coarseness_text, node.coarseness_colour, 100);
+    var percentageText = addText(r, node.x, node.y + (text.getBBox().height / 4) + coarsenessText.getBBox().height, node.percentage_text, node.percentage_colour, 100);
+    var homogeneityText = addText(r, node.x, node.y + (text.getBBox().height / 2) + coarsenessText.getBBox().height + percentageText.getBBox().height, node.homogeneity_text, node.homogeneity_colour, 100);
     if(node.print_lines) {
       r.path("M" + node.parent_x + "," + node.parent_y + " L" + node.x + "," + (node.y - <%= Config.y_difference_for_lines * 2 %>));
     }

@@ -26,7 +26,8 @@ class TaxonomyPrintsController < ActionController::Base
 private
   def build_tree
     tree_csv = CSV.read("tree.csv")
-    @tree_presenter = TaxonomyPresenter.new(tree_csv)
+    homogeneity_scores = CSV.read("taxon_homogeneity.csv")
+    @tree_presenter = TaxonomyPresenter.new(tree_csv, homogeneity_scores)
     @tree = @tree_presenter.present.to_json
     @height = @tree_presenter.height
     @width = @tree_presenter.width

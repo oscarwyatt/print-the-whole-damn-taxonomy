@@ -1,0 +1,1266 @@
+,taxon_id,taxon_size,mean_cosine_score,taxon_base_path,taxon_level,level1taxon,fewer_than_or_equal_5items,more_than_0_5_diversity
+0,668cd623-c7a8-4159-9575-90caac36d4b4,5166,0.5954901576042175,/society-and-culture/community-and-society,2,Society and culture,0,1
+246,f9e476ef-654d-41ec-97d9-2b6842d4361d,786,0.5890252590179443,/society-and-culture/sports-and-leisure,2,Society and culture,0,1
+48,495afdb6-47be-4df1-8b38-91c8adb1eefc,8136,0.5715098977088928,/business-and-industry,1,Business and industry,0,1
+833,fc5f468f-a3ba-4fde-9c1d-ed2dd17cfd82,31,0.5712053775787354,/housing-local-and-community/housing-local-services-safety-environment,3,"Housing, local and community",0,1
+18,b29cf14b-54c6-402c-a9f0-77218602d1af,2333,0.5696437358856201,/society-and-culture/arts-and-culture,2,Society and culture,0,1
+38,e491505c-77ae-45b2-84be-8c94b94f6a2b,4917,0.562597393989563,/defence-and-armed-forces,1,Defence and armed forces,0,1
+133,b297e49c-7da4-4bc1-8714-da80fa0758d3,2332,0.5621165633201599,/society-and-culture/equality-rights-and-citizenship,2,Society and culture,0,1
+58,8a98b827-82ad-49b4-819e-82c208c551c4,9471,0.5603833198547363,/government/national-security,2,Government,0,1
+123,78c2148c-a7cd-448b-8105-9f78ded119d1,1785,0.5598940849304199,/government/emergency-preparation-reponse-and-recovery,2,Government,0,1
+49,68ad6c84-49fd-4871-95bc-5bd48c0f81e1,2062,0.556106686592102,/regional-and-local-government/wales,2,Regional and local government,0,1
+34,52ff5c99-a17b-42c4-a9d7-2cc92cccca39,2435,0.5555601716041565,/environment/food-and-farming,2,Environment,0,1
+10,e48ab80a-de80-4e83-bf59-26316856a5f9,142,0.5536430478096008,/government/all,1,Government,0,1
+696,ed952e5a-2ea7-44c0-aed9-c97ffe58993b,41,0.5526235103607178,/crime-justice-and-law/rights,2,"Crime, justice and law",0,1
+117,4ef6d013-ec2d-4ae8-a1a0-5a984e6e6c42,444,0.5503163933753967,/business-and-industry/media-and-communications,2,Business and industry,0,1
+4,9fb30a53-70fb-4f1c-878b-0064b202d1ba,2424,0.5490978360176086,/international/international-aid-and-development,2,International,0,1
+519,95d06252-5d75-42fb-9c5c-038ab6b482e4,27,0.5487273335456848,/government/democracy,2,Government,0,1
+99,e2aac912-93c5-4b19-bd3d-9c12676e985c,1529,0.5480577945709229,/regional-and-local-government/scotland,2,Regional and local government,0,1
+20,a1e4659c-dc15-48be-bc4f-6c609ae061dc,8025,0.5444251298904419,/business-and-industry/uk-economy,2,Business and industry,0,1
+408,37d0fa26-abed-4c74-8835-b3b51ae1c8b2,57,0.5440725684165955,/international,1,International,0,1
+124,da0bc015-f8e5-492c-8d81-6fbf9b18947c,628,0.5439633131027222,/business-and-industry/consumer-rights-and-issues,3,Business and industry,0,1
+62,3dbeb4a3-33c0-4bda-bd21-b721b0f8736f,1749,0.5418309569358826,/going-and-being-abroad/british-nationals-overseas,2,Going and being abroad,0,1
+35,695dc6f2-27cc-4d8b-adc4-8d07c2bff748,1472,0.5337048768997192,/environment/wildlife-animals-biodiversity-and-ecosystems,2,Environment,0,1
+409,092348a4-b896-4f8f-a0dc-e6d4605a4904,45,0.5322802066802979,/employment/working,2,Work,0,1
+53,ed2ca1f7-5463-4eda-9324-b597e269e242,7389,0.5320103764533997,/business-and-industry/trade-and-investment,2,Business and industry,0,1
+139,e2ca2f1a-0ff3-43ce-b813-16645ff27904,248,0.5311047434806824,/society-and-culture,1,Society and culture,0,1
+110,b534a486-dcf9-48fd-9419-d99811e54558,524,0.5309723615646362,/society-and-culture/community-integration,3,Society and culture,0,1
+786,9597c30a-605a-4e36-8bc1-47e5cdae41b3,14,0.5304023027420044,/going-and-being-abroad,1,Going and being abroad,0,1
+90,6acc9db4-780e-4a46-92b4-1812e3c2c48a,2138,0.5238144993782043,/money,1,Money,0,1
+507,15191831-40b4-4f6e-ade3-e82d7c775afd,73,0.521409809589386,/regional-and-local-government/local-councils,2,Regional and local government,0,1
+47,a1e624ed-e268-44ab-ac3f-4d3cb2bb8cb5,1257,0.5213391184806824,/regional-and-local-government/northern-ireland,2,Regional and local government,0,1
+167,a544d48b-1e9e-47fb-b427-7a987c658c14,687,0.5208284258842468,/corporate-information,1,Corporate information,0,1
+203,165bfd10-8402-4719-b38e-62ca618d3b8f,873,0.5195132493972778,/crime-justice-and-law/counter-terrorism,2,"Crime, justice and law",0,1
+935,503c5bc7-809a-47b9-83e2-bd0c212dbabb,9,0.517748236656189,/regional-and-local-government,1,Regional and local government,0,1
+498,20086ead-41fc-49cf-8a62-d4e1126f41fc,6,0.5165402293205261,/life-circumstances,1,Life circumstances,0,1
+128,ccb77bcc-56b4-419a-b5ce-f7c2234e0546,3385,0.5151935815811157,/business-and-industry/science-and-innovation,2,Business and industry,0,1
+621,0bb6e269-4c6d-432d-96b6-f2b343a7603c,113,0.5149402618408203,/society-and-culture/charities-honours,2,Society and culture,0,1
+1160,fe0b40e6-f742-45b0-9b2c-2cb976ce18ad,5,0.5137720704078674,/life-circumstances/marriage-divorce,2,Life circumstances,1,1
+549,8758d11e-3c6f-4b81-99e6-791a99e44363,47,0.5136504173278809,/business-and-industry/business-licensing,3,Business and industry,0,1
+417,a8914bfb-2b86-4550-86c3-6dd55a331012,105,0.5122669339179993,/environment/waste-management,3,Environment,0,1
+1086,c39ac533-be2c-4460-93ba-e656793568ef,29,0.5120972394943237,/business-and-industry/sale-goods-services-data,3,Business and industry,0,1
+70,ba951b09-5146-43be-87af-44075eac3ae9,4121,0.5120872855186462,/crime-justice-and-law,1,"Crime, justice and law",0,1
+61,dded88e2-f92e-424f-b73e-6ad24a839c51,1294,0.5120596289634705,/welfare,1,Welfare,0,1
+730,16bb50c0-2ca2-49e9-8b21-088789e66d5e,26,0.51185542345047,/society-and-culture/digital-inclusion-and-accessibility,2,Society and culture,0,1
+112,62e08e6f-9161-42c6-b9dd-0cf8fcab2c69,3379,0.5102326273918152,/environment/climate-change-energy,2,Environment,0,1
+874,54e4169c-2ccc-411a-9736-ff7ec65927f5,24,0.5084608197212219,/business-and-industry/business-auditing-accounting-reporting,3,Business and industry,0,1
+141,e2559668-cf36-47fc-8a77-2e760e12a812,664,0.5082380771636963,/environment/food-and-farming-industry,3,Environment,0,1
+295,c8f01be4-435b-46d1-b6d2-7fc4cebc0518,421,0.508233904838562,/business-and-industry/media-and-creative-industries,3,Business and industry,0,1
+353,4b9f1f6f-0c16-4a99-94e5-e58a3fba461f,164,0.508149266242981,/defence/military-recruitment-training-operations,2,Defence and armed forces,0,1
+1,d0f1e5a3-c8f4-4780-8678-994f19104b21,1869,0.5068933367729187,/work,1,Work,0,1
+142,7f4eaf37-60f8-4d8c-a968-7829098e05ff,815,0.5063381791114807,/crime-justice-and-law/crime-prevention,2,"Crime, justice and law",0,1
+350,aa0a52d8-72e3-4901-bdcf-f91ac3fa9b1e,67,0.506101131439209,/business/business-tax-import-export-rules-for-specific-goods-and-services,4,Business and industry,0,1
+36,75efcbd0-4f01-4ce2-b151-01a58f8fb7a9,701,0.5051355957984924,/society-and-culture/equality,3,Society and culture,0,1
+849,383f2d71-b239-4d90-b89b-600340b34332,31,0.5019301176071167,/government/public-services,2,Government,0,1
+14,4ad66168-274d-4d83-9195-f4ab0ccc97cb,2636,0.5017698407173157,/housing-local-and-community/housing,2,"Housing, local and community",0,1
+732,8f37d5c2-47d8-479d-837d-6db44714277e,56,0.5007737874984741,/environment/cattle-identification-registration-movements,4,Environment,0,1
+376,f0aaf5e3-c820-4229-ac1e-6a484aa4f0a2,263,0.5005651712417603,/society-and-culture/conservation-of-historic-buildings-and-monuments,3,Society and culture,0,1
+395,2687579f-e20c-43cb-af77-f3d002951747,259,0.500053346157074,/business/consumer-protection,4,Business and industry,0,1
+499,21083c28-2138-49a9-9642-becc0cd2b9e8,135,0.499681293964386,/society-and-culture/elite-sports-performance,3,Society and culture,0,0
+410,262e9ea7-90fc-4ac8-8aa7-fc294282a1d4,169,0.49900832772254944,/entering-staying-uk/border-control,2,Entering and staying in the UK,0,0
+488,3506d46e-62d7-4602-93f5-fcb9bb2aade8,206,0.4988040030002594,/society-and-culture/national-events-and-ceremonies,2,Society and culture,0,0
+475,b48b3d72-68e4-4d17-9846-c5b2bbc028d5,349,0.4986947774887085,/society-and-culture/museums-and-galleries,3,Society and culture,0,0
+351,277fd1ce-61c3-46a4-9172-3101fda02111,150,0.4977700412273407,/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods,4,Business and industry,0,0
+254,bc962246-c8d5-43ba-97c3-08ed5f3f66ba,536,0.4973823130130768,/environment/animal-and-plant-health,3,Environment,0,0
+71,9949c2c1-ff96-4b4f-b584-c700e316c9de,979,0.4964876174926758,/environment/rural-and-countryside,2,Environment,0,0
+193,726973fd-94af-4ca3-9293-82871baab436,247,0.49560630321502686,/international/governance-in-developing-countries,3,International,0,0
+50,d6a4884e-769d-4b81-8ba5-b64394362d92,6269,0.4950931668281555,/health-and-social-care/public-health,2,Health and social care,0,0
+431,c58fdadd-7743-46d6-9629-90bb3ccc4ef0,185,0.4939948618412018,/education,1,"Education, training and skills",0,0
+69,d6dba75a-42bd-4e1e-984c-2bddb6b41951,1930,0.49128422141075134,/international/foreign-affairs,2,International,0,0
+247,96c479bc-9b6c-49d3-8e86-3821f43a6fb0,262,0.49084702134132385,/society-and-culture/tourism,2,Society and culture,0,0
+743,c3bc9a54-2d49-4236-962a-8414c6c33a86,29,0.49063366651535034,/business-and-industry/limited-companies-and-partnerships,3,Business and industry,0,0
+367,d34ba9b3-28d8-40d5-a2d3-f52d216c2590,79,0.48916468024253845,/business-and-industry/manufacturing,2,Business and industry,0,0
+82,e3147d4f-4bd5-4a14-a386-4ba7ccb058b4,1683,0.4886760711669922,/housing-local-and-community/planning-and-building,2,"Housing, local and community",0,0
+775,1ea328f0-cf82-4163-943d-8293c0d3c740,26,0.487821489572525,/environment/producing-distributing-food-import-export,4,Environment,0,0
+345,e4b9e05a-6c04-4e18-945f-4584c08c4628,135,0.4875219762325287,/defence/support-services-military-defence-personnel-families,2,Defence and armed forces,0,0
+174,54758e13-1f51-4413-833c-70254776b06f,730,0.4872063994407654,/business/uk-economic-growth,3,Business and industry,0,0
+432,1da20ae5-526d-4313-b93d-fed4491f8ed8,99,0.4848860502243042,/business/business-exports-commodity-codes-and-reporting,4,Business and industry,0,0
+189,5d0b158c-7c31-41f8-84ae-8e4e950c1f0c,1039,0.4847344160079956,/money/tax-agent-guidance,3,Money,0,0
+56,c7db8692-d5a3-4d09-a7f6-3d1c0ab2f4ae,270,0.48347121477127075,/environment/animal-welfare,3,Environment,0,0
+317,62fcbba5-3a75-4d15-85a6-d8a80b03d57c,75,0.4821901023387909,/welfare/universal-credit,2,Welfare,0,0
+1057,3e4df71e-474d-4a40-bd6a-b3072affa151,23,0.48173341155052185,/transport/freight-and-cargo,2,Transport,0,0
+140,8f589b76-f3ee-4eca-adf6-2ad70807ad8c,1388,0.4813632071018219,/defence/armed-forces-and-ministry-of-defence-reform,2,Defence and armed forces,0,0
+97,bf53bd19-433e-46c5-b6a9-f3a690130a75,291,0.48102137446403503,/society-and-culture/sports-participation,3,Society and culture,0,0
+106,efa9782b-a3d0-4ca0-9c92-3b89748175b7,177,0.4804653227329254,/business-and-industry/exporting,3,Business and industry,0,0
+472,55e8ea89-9ba8-4439-a703-7d26723a4ec0,52,0.47997063398361206,/employment/recruiting-hiring,3,Work,0,0
+282,a60247cb-f081-4ec2-ab01-da1465766b7d,266,0.4799383282661438,/international/economic-growth-in-developing-countries,3,International,0,0
+41,28262ae3-599c-4259-ae30-3c83a5ec02a1,522,0.47888001799583435,/money/business-tax,2,Money,0,0
+494,090c16bc-7b3e-42cd-b93c-645ab43fae30,58,0.47853636741638184,/environment/waste-environment,3,Environment,0,0
+517,8aa41155-58ff-4d7d-a11a-7e3ef42863dd,77,0.4778851270675659,/business-and-industry/running-a-business,2,Business and industry,0,0
+831,b83f3fc7-4057-4aee-a9db-4d5fb8b49e2a,18,0.4766472280025482,/work/health-safety-at-work,2,Work,0,0
+104,36fba1a2-75e5-4041-942e-6d5eac7dd83c,316,0.47636380791664124,/international/health-in-developing-countries,3,International,0,0
+664,dbbf7f4d-78aa-46ac-8e67-d937fe9a8c69,50,0.4759634733200073,/transport/vehicle-ownership-approval-and-standards,3,Transport,0,0
+22,3b1f1d58-dcd5-4d7e-adb6-fcc4c56324d0,241,0.47530293464660645,/transport/road-safety-driving-rules-and-penalties,3,Transport,0,0
+770,cade4e7d-0397-459d-a880-3d2753dd39c2,41,0.4750799834728241,/crime-justice-and-law/law-practice,2,"Crime, justice and law",0,0
+7,951ece54-c6df-4fbc-aa18-1bc629815fe2,9283,0.4748821556568146,/transport/air-accidents-and-serious-incidents,3,Transport,0,0
+184,fd64b5ec-ac60-47fa-8d29-ceced4444b3c,178,0.4747636616230011,/society-and-culture/poverty-and-social-justice,3,Society and culture,0,0
+152,8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8,475,0.4746723473072052,/health-and-social-care,1,Health and social care,0,0
+950,15ddf138-3989-4997-b79c-1aa0ae496b26,25,0.47428759932518005,/health-and-social-care/disabilities-equipment,3,Health and social care,0,0
+9,f3f4b5d3-49c4-487b-bd5b-be75f11ec8c5,16348,0.47351643443107605,/government/government-efficiency-transparency-and-accountability,2,Government,0,0
+232,0ee0e4df-7b06-47e4-8f1c-242603e16577,25,0.4729922413825989,/employment/rights-trade-unions,3,Work,0,0
+561,0f5a550a-39ad-4a60-b1e8-c93bd173dd62,113,0.47243592143058777,/international/education-in-developing-countries,3,International,0,0
+280,429bf677-b514-4c10-8a89-c0eee4acc7ec,160,0.47206664085388184,/business-and-industry/scientific-research-and-development,3,Business and industry,0,0
+65,f6b0aa9d-2aa6-43ed-b72a-85f22affb506,522,0.47181642055511475,/business/competition-law,4,Business and industry,0,0
+871,c195d3e6-5924-4def-b1c2-24a685a0b210,37,0.47152239084243774,/business-and-industry/recruiting-hiring,4,Business and industry,0,0
+267,6dbae400-2416-4bdc-8b70-c32d303e7613,106,0.4711686670780182,/business/gambling-regulation,4,Business and industry,0,0
+722,c7b0c302-6c2d-4ba0-b7ff-106ba2261491,165,0.4709509015083313,/health-and-social-care/healthy-eating,4,Health and social care,0,0
+715,536f83c0-8c67-47a3-88a4-d5b1eda591ed,86,0.47079241275787354,/welfare/entitlement,2,Welfare,0,0
+931,cefad480-c674-46c9-8bd6-8d71beb3e372,11,0.4696865379810333,/housing-local-and-community/neighours-noise-pests,3,"Housing, local and community",0,0
+33,8ffb6190-125b-4ada-833a-8428eae135f5,475,0.46941888332366943,/environment/marine-fisheries,3,Environment,0,0
+1077,4133cff8-c12d-49eb-8c1a-31ec179a0dbf,8,0.4687485098838806,/environment/keeping-farmed-animals,3,Environment,0,0
+433,9bedcc51-0f02-4310-ad19-fa54338912e1,62,0.468513548374176,/business/business-imports-commodity-codes-and-reporting,4,Business and industry,0,0
+716,21bfd8f6-3360-43f9-be42-b00002982d70,47,0.4681856334209442,/employment/finding-job,3,Work,0,0
+168,1c17540f-f4a3-435b-a5b2-5c36e4200be8,460,0.4680522382259369,/government/fire-prevention-and-rescue,3,Government,0,0
+296,11e420a6-87aa-46e3-a7f0-4c06fd5afe58,80,0.4679272472858429,/society-and-culture/national-lottery-funding,3,Society and culture,0,0
+640,cebc01ee-f70a-4397-a552-622e10b62508,169,0.4662896394729614,/health-and-social-care/medicines-medical-devices-blood,2,Health and social care,0,0
+207,f137663b-cdf5-4065-ac94-976ddacdf300,324,0.46599939465522766,/business/communications-and-telecomms,3,Business and industry,0,0
+1024,90c9b9f1-0a4f-4639-b1e9-2bfb23d611bd,14,0.46563950181007385,/government/government-technology-and-digital-services,2,Government,0,0
+120,42fdd045-cadf-474b-b8a6-ca20a77c43bb,184,0.46541738510131836,/environment/marine,2,Environment,0,0
+437,fa5b3b7e-682a-49fd-bf99-d2cfe3e16a26,39,0.4651930630207062,/crime-justice-and-law/reporting-crimes-compensation,2,"Crime, justice and law",0,0
+386,23469a75-889a-47cc-a216-2d2096ab847c,53,0.4650430977344513,/business/business-tax-import-export-get-goods-through-customs,4,Business and industry,0,0
+808,0a018d28-e3a8-4db7-a593-c8a0bfb57319,52,0.4649982750415802,/life-circumstances/child-adoption,2,Life circumstances,0,0
+810,d48ad4df-f65a-4386-b041-ff4f936ac546,45,0.46438658237457275,/transport/roads-and-the-environment,3,Transport,0,0
+284,7c75c541-403f-4cb1-9b34-4ddde816a80d,323,0.4641869068145752,/education/school-curriculum,2,"Education, training and skills",0,0
+305,ae747de8-96ad-4f66-9d6d-4d5c357e9956,266,0.46349531412124634,/society-and-culture/young-people,2,Society and culture,0,0
+278,9f183c2c-2256-42d7-a12d-ced7b7f24195,882,0.4629964530467987,/defence/international-defence-commitments,2,Defence and armed forces,0,0
+197,542654d1-8006-4aa0-b85f-f243f14c1700,144,0.46212518215179443,/environment/rural-economy-and-community,4,Environment,0,0
+377,b20215a9-25fb-4fa6-80a3-42e23f5352c2,266,0.46185338497161865,/money/dealing-with-hmrc,2,Money,0,0
+268,544a5fe2-b97c-4239-a6be-620469146a8b,238,0.46184179186820984,/business-and-industry/corporate-governance,2,Business and industry,0,0
+172,33bc0eed-62c7-4b0b-9a93-626c9e10c025,314,0.461293488740921,/business-and-industry/business-regulation,2,Business and industry,0,0
+840,ebeaf804-c1b1-40cd-920f-319aa2b56ba3,36,0.4612025022506714,/employment/time-off,3,Work,0,0
+484,eb09af12-3310-4c84-9a06-3e8895ce95e3,139,0.46080008149147034,/international/hunger-and-malnutrition-in-developing-countries,3,International,0,0
+46,7d67047c-bf22-4c34-b566-b46d6973f961,1972,0.4606424868106842,/health-and-social-care/social-care,2,Health and social care,0,0
+941,12be2e2c-505b-412d-bff1-ba301465c116,60,0.46042677760124207,/money/business-tax-reform,3,Money,0,0
+593,206b7f3a-49b5-476f-af0f-fd27e2a68473,35,0.46022748947143555,/childcare-parenting,1,"Parenting, childcare and children's services ",0,0
+211,6126d57d-df55-4f31-86ec-6d4388b513b1,422,0.46015557646751404,/government/civil-service-reform,3,Government,0,0
+520,38e63219-ca99-4f48-b4c2-ca75402fee14,196,0.4598178267478943,/society-and-culture/social-mobility,3,Society and culture,0,0
+17,d7e02519-b7ba-4297-80a8-01cd0e5f2cb2,930,0.4596553146839142,/business-and-industry/financial-services,2,Business and industry,0,0
+177,5a8b6318-79d7-4ac0-81a3-f8e2b6ab7cf5,437,0.4596154987812042,/health-and-social-care/patient-safety,3,Health and social care,0,0
+231,fa13521f-9285-45b0-bd65-4a472a8037e7,200,0.459126353263855,/entering-staying-uk/immigration-offences,2,Entering and staying in the UK,0,0
+105,c93961e3-7980-4c8f-b318-d4557a16566f,296,0.45861032605171204,/international/women-and-girls-in-developing-countries,3,International,0,0
+365,bbaa61d0-88a8-4fb4-a3ac-a4c33724c1de,61,0.45850467681884766,/business/designs,4,Business and industry,0,0
+149,ac5d432a-11a9-40e1-bb83-0de26106b9d6,94,0.45829179883003235,/defence/military-equipment-logistics-technology,2,Defence and armed forces,0,0
+306,756613a3-522d-4402-beb9-532b5708ba74,353,0.4579468369483948,/crime-justice-and-law/violence-against-women-and-girls,2,"Crime, justice and law",0,0
+957,68cc0b3c-7f80-4869-9dc7-b2ceef5f4f08,28,0.4568641185760498,/business/premises-rates,3,Business and industry,0,0
+40,ff10faa5-1bc0-41a4-8629-d528915ad7e4,1150,0.4566804766654968,/crime-justice-and-law/policing,2,"Crime, justice and law",0,0
+80,c914fd40-dd0a-45c4-a6ff-bce0cda31bde,2765,0.4565803110599518,/regional-and-local-government/local-government,2,Regional and local government,0,0
+687,c858776d-6763-4071-9d30-1804f31c5dca,162,0.4564700126647949,/money/personal-tax-reform,3,Money,0,0
+122,d1b7471b-bdd1-4719-9376-b79d2f854807,199,0.45635586977005005,/crime-justice-and-law/victims-of-crime,2,"Crime, justice and law",0,0
+942,6cbc4c56-f412-4116-bd2f-66dfbdcd94ae,26,0.4562690258026123,/crime-justice-and-law/criminal-record-disclosure,2,"Crime, justice and law",0,0
+95,f3caf326-fe33-410f-b7f4-553f4011c81e,2524,0.45606961846351624,/government/government-spending,3,Government,0,0
+183,13fb7519-c48e-4577-90f8-aaf483fa0c03,1002,0.4559912085533142,/business-and-industry/business-and-the-environment,2,Business and industry,0,0
+312,a8db9a70-1365-4611-a754-ed5dcfe6fac4,877,0.4558304250240326,/international/overseas-aid-effectiveness,3,International,0,0
+3,8f75f298-8126-47d4-8da1-ed67c4ecb39c,508,0.45569732785224915,/environment/biodiversity-and-ecosystems,3,Environment,0,0
+500,27b9c5cd-b390-4332-89be-73491df35a41,158,0.45513227581977844,/going-and-being-abroad/passports,2,Going and being abroad,0,0
+477,6e85c12f-f52b-41b3-93ad-59e5f19d64f6,8,0.45480644702911377,/entering-staying-uk/rights-foreign-nationals-uk,2,Entering and staying in the UK,0,0
+279,bac7acc0-48aa-4889-ad2a-e0f5a138e6b0,586,0.4544219672679901,/environment/radioactive-and-nuclear-substances-and-waste,3,Environment,0,0
+550,35a34e76-77fc-42b4-b8de-c587d30ff39a,56,0.45383042097091675,/money/gambling-duties,3,Money,0,0
+361,f0dcb0b9-2f2c-46b0-adea-42a4fe608170,112,0.4534621238708496,/education/inspections-and-performance-of-education-providers,2,"Education, training and skills",0,0
+236,2f9dba8b-83a2-4d99-b61b-a8738fa4e855,259,0.45326799154281616,/transport/road-freight,3,Transport,0,0
+603,77df2bda-e5e3-402c-a4c4-f3bdda5d6051,262,0.45314207673072815,/environment/forests-and-woodland,3,Environment,0,0
+799,02a5bdc0-9a62-4286-9128-c923845fa1c5,31,0.45311516523361206,/transport/transport-security,2,Transport,0,0
+423,1bc7e8d6-e609-489c-b215-1c318b0b40bd,106,0.45268166065216064,/money/alcohol-duties,3,Money,0,0
+1120,64f9fbaa-16f3-407f-b233-c1591a0753be,15,0.45258694887161255,/transport/animals-on-roads,3,Transport,0,0
+545,1dd3f25a-9237-4143-b2d2-cd7f6863c9c0,129,0.45246875286102295,/crime-justice-and-law/prisons-probation,2,"Crime, justice and law",0,0
+309,afd65c1c-dee0-4f5b-8bd6-4f502e4870af,718,0.4523140788078308,/crime-justice-and-law/justice-system-transparency,2,"Crime, justice and law",0,0
+622,f4f28e9d-2050-45fb-ab76-78c0345670da,52,0.45209968090057373,/health-and-social-care/medicines-medical-devices-blood-marketing-authorisations-variations-licensing,3,Health and social care,0,0
+16,4c18a195-9b74-4882-8d11-bf224ceb8292,637,0.4511527121067047,/employment/labour-market-reform,2,Work,0,0
+115,7d9a81dd-c0f9-479f-b048-a4111f1e74ec,16,0.4508844316005707,/money/personal-tax-capital-gains-tax-business,4,Money,0,0
+143,74f7449e-08f8-4325-b8db-3703cb99f4d0,633,0.4503537118434906,/business-and-industry/industrial-strategy,2,Business and industry,0,0
+225,5984199c-d85c-4ffc-b13a-c5f2482d2258,845,0.45034098625183105,/business-and-industry/customs-declarations-duties-tariffs,3,Business and industry,0,0
+201,d949275c-88f8-4623-a44b-eb3706651e10,476,0.45017823576927185,/business/intellectual-property,3,Business and industry,0,0
+26,3afd1d79-597d-4f97-bc7a-83766dcab2f4,1416,0.4496920704841614,/government/europe,2,Government,0,0
+354,0990f0d5-b8d9-431b-b252-66ab664acf1b,33,0.4495355188846588,/environment/pets,3,Environment,0,0
+675,590c9109-d334-4ce8-b58d-7c9355979766,16,0.4492511749267578,/crime-justice-and-law/intellectual-property-law-practice-designs,3,"Crime, justice and law",0,0
+164,1a045007-0eaf-4429-8240-ec034ee6e9d8,902,0.4492453932762146,/business-and-industry/research-and-development,3,Business and industry,0,0
+751,8953ca7a-ed45-49a9-93af-87d55e69f910,53,0.4491930305957794,/environment/wildlife-habitat-conservation,3,Environment,0,0
+316,35f5b496-add7-4263-8084-8510461881fe,218,0.4488864243030548,/business-and-industry/employing-people,3,Business and industry,0,0
+313,7dbd6d59-0a26-473f-a6ef-70504a30b157,58,0.44866058230400085,/employment/older-people,3,Work,0,0
+462,584eeb89-a08e-4a93-a5ac-3540bada1c23,101,0.4485916197299957,/business/trade-marks,4,Business and industry,0,0
+43,76b03d8c-e5cc-4ba0-8630-c7cc71fb87ad,1337,0.44823548197746277,/welfare/welfare-reform,2,Welfare,0,0
+180,106f6502-c289-436f-999a-2983f8530c99,74,0.4477907717227936,/business/access-to-financial-services,3,Business and industry,0,0
+166,8db04387-9076-4287-ab46-6a6695b593d7,591,0.44742488861083984,/business/competition,3,Business and industry,0,0
+529,587fd3ee-c009-4a49-8b30-557300c55bd1,121,0.4466167986392975,/crime-justice-and-law/knife-gun-and-gang-crime,2,"Crime, justice and law",0,0
+656,1f21cce7-fc86-433c-a79b-1a4f0acb5a3a,151,0.44589754939079285,/defence/support-services-veterans-families,2,Defence and armed forces,0,0
+195,d96e4efc-9c26-4d9b-9fa7-a036b5c11a65,365,0.44580692052841187,/going-and-being-abroad/travel-abroad,2,Going and being abroad,0,0
+626,3b4d6319-fcef-4637-b35a-e3df76321894,240,0.44568392634391785,/transport/local-transport,2,Transport,0,0
+146,37b6102b-20e3-4039-b332-84de8d2351ef,343,0.4454173743724823,/childcare-parenting/childrens-health,3,"Parenting, childcare and children's services ",0,0
+1192,7b2a45e2-2f20-4331-a2b6-de512b007a52,5,0.44530701637268066,/crime-justice-and-law/intellectual-property-law-practice-copyright,3,"Crime, justice and law",1,0
+102,268c139d-8d58-43ed-85f4-19c511e283e7,422,0.4449579119682312,/defence-and-armed-forces/armed-forces-covenant,2,Defence and armed forces,0,0
+153,dd767840-363e-43ad-8835-c9ab516633de,818,0.44465070962905884,/education/further-and-higher-education-skills-and-vocational-training,2,"Education, training and skills",0,0
+23,4919a97c-3249-496c-8485-b7c8d36d6ef0,513,0.44418108463287354,/crime-justice-and-law/legal-aid-for-providers,2,"Crime, justice and law",0,0
+119,4a9ab4d7-0d03-4c61-9e16-47787cbf53cd,341,0.44357621669769287,/transport/maritime-and-shipping,2,Transport,0,0
+557,d6af3ac9-e252-4e13-a673-405125797219,44,0.44347184896469116,/environment/coal,3,Environment,0,0
+2,f3dcc290-752f-4bbe-b379-9155d919a58d,6664,0.4433622360229492,/health-and-social-care/national-health-service,2,Health and social care,0,0
+917,855ff797-b717-49b1-ab48-eeeef0ab6432,60,0.44333380460739136,/business/copyright,4,Business and industry,0,0
+374,05a9527b-e6e9-4a68-8dd7-7d84e6a24eef,77,0.44319072365760803,/welfare/disability,2,Welfare,0,0
+24,a1efce91-28c3-4a33-a2fd-48364b1119a4,882,0.44317150115966797,/environment/pollution-and-environmental-quality,2,Environment,0,0
+170,d956c72a-246d-4787-af39-00bf58b2ea66,438,0.4431617558002472,/going-and-being-abroad/living-abroad,2,Going and being abroad,0,0
+988,47fbdb87-b4ff-432a-a4cf-a2f2468ff6d4,55,0.4431580901145935,/childcare-parenting/preventing-neglect-abuse-and-exploitation,4,"Parenting, childcare and children's services ",0,0
+248,8c5b3892-26cf-4254-b5e8-23c6e7d39c46,468,0.4430931806564331,/society-and-culture/2012-olympic-and-paralympic-legacy,3,Society and culture,0,0
+369,d74faafc-781d-4087-8e0c-be4216180059,92,0.44293761253356934,/business-and-industry/importing,3,Business and industry,0,0
+349,5bfde35c-eefb-4bae-b608-72e0e41a3fb2,368,0.44264382123947144,/society-and-culture/social-action,3,Society and culture,0,0
+206,a4038b29-b332-4f13-98b1-1c9709e216bc,368,0.4424768388271332,/transport,1,Transport,0,0
+655,6eff5cae-d700-42a4-8812-dae6e246faed,17,0.44219499826431274,/business-and-industry/import-controls,4,Business and industry,0,0
+221,86f769e5-f0a9-4d6c-8fbc-602dd5f13ad8,276,0.4421631693840027,/money/paye,3,Money,0,0
+684,24e91c04-21cb-479a-8f23-df0eaab31788,78,0.4421263635158539,/employment/self-employed,2,Work,0,0
+525,940e7a57-171a-4dad-b6eb-e2a5a87c9cec,221,0.4416983723640442,/education/inspection-and-performance-of-schools,3,"Education, training and skills",0,0
+294,1906f68c-2d10-4182-9a0f-31a1f7d77c29,192,0.44164174795150757,/crime-justice-and-law/legal-aid-reform,2,"Crime, justice and law",0,0
+205,cb7db7bb-d0b4-4e22-9f0b-58a28c2db38c,1638,0.4414936304092407,/international/human-rights-internationally,2,International,0,0
+63,6df55cf4-d25c-41d2-aec9-824c67a9eb51,884,0.4410784840583801,/employment/pensions-and-ageing-society,2,Work,0,0
+373,b6cf9b52-74b4-46ea-be56-43e6e222bd87,20,0.44021379947662354,/environment/producing-distributing-food-meat-production,4,Environment,0,0
+464,82e9e133-20aa-424d-bc61-f30b29e2d05b,97,0.43968069553375244,/transport/transport-planning,2,Transport,0,0
+134,1327984f-95e0-4ca7-94c7-c63e69c30924,799,0.4391086995601654,/business-and-industry/regulation-reform,3,Business and industry,0,0
+397,6e11db64-8195-40f1-91b2-5f2bdd10a723,37,0.4387684166431427,/housing-local-and-community/recycling-rubbish,3,"Housing, local and community",0,0
+32,7172945a-aed5-4fa1-af6b-9ae09a584ad8,513,0.4384859502315521,/environment/marine-environment,3,Environment,0,0
+93,5f76fe36-e3a8-4443-b17b-3ea12ad54230,84,0.4384065866470337,/transport/aviation-safety-and-security,3,Transport,0,0
+194,35136812-221c-4ba2-8ed1-46e409ca5e10,373,0.438401997089386,/money/tax-evasion-and-avoidance,2,Money,0,0
+852,23a712ff-23b3-4f5a-83f1-44ac679fe615,32,0.4382826089859009,/employment/contract-working-hours,3,Work,0,0
+245,092c86a5-717e-4bea-be43-4a5d8695a113,499,0.4381602108478546,/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation,3,Business and industry,0,0
+565,5b9686c9-eaf8-48bd-9351-5fac0e721a02,57,0.43727949261665344,/employment/work,2,Work,0,0
+731,2e444a6b-c6b5-4c7b-a66a-d7e059914979,15,0.43722593784332275,/society-and-culture/loneliness,2,Society and culture,0,0
+706,e6017952-1324-4e3c-98d4-226ac0492a03,53,0.4368698000907898,/education/adult-and-community-learning,3,"Education, training and skills",0,0
+144,f4e9e92d-9192-4e17-90c6-553339bc04c3,1171,0.4362627863883972,/environment/waste-and-recycling,2,Environment,0,0
+590,4fa23fdb-c407-468e-a1b4-4ed443dda6e2,23,0.43591129779815674,/environment/fishing-quota-and-catch-limits,4,Environment,0,0
+297,b9cc1cf1-73a6-4855-9da6-25b6b763589e,160,0.43562400341033936,/international/government-topics-foreign-affairs-uk-overseas-territories,3,International,0,0
+81,80cb30f4-0361-49ea-ad84-bc10910318bf,700,0.4354979991912842,/business-and-industry/charities-and-social-enterprises,2,Business and industry,0,0
+302,2ae1b18a-142b-41b8-b6b2-5d023a363e07,401,0.43534713983535767,/international/overseas-aid-transparency,3,International,0,0
+441,8ff5779f-5825-4aed-8a5f-6b99bc4654db,110,0.43526577949523926,/transport/hgv-and-goods-carriage-vehicle-licensing,5,Transport,0,0
+701,1218dda2-9279-4fec-840c-1321cb1a8934,40,0.4350983500480652,/environment/oil-gas-coal,2,Environment,0,0
+487,ccadca16-a0e8-4ae2-adb0-990d93ff3445,76,0.4346863329410553,/education/spiritual-moral-social-and-cultural-development,3,"Education, training and skills",0,0
+382,db605204-0f03-441b-837f-16613c6b3f8f,80,0.4339676797389984,/education/pupil-wellbeing-behaviour-and-attendance,2,"Education, training and skills",0,0
+787,f1126ffb-e352-4129-bb33-8e4dfdbee9ac,41,0.43392816185951233,/environment/producing-distributing-food-food-labelling,4,Environment,0,0
+669,326022e0-8146-496c-9de5-6e390ff9e406,41,0.43387266993522644,/international/water-and-sanitation-in-developing-countries,3,International,0,0
+298,ff00b8b2-dcdb-4659-93c2-291c9be354f3,165,0.4337598383426666,/education/teaching-and-leadership,2,"Education, training and skills",0,0
+435,0fffa994-b76d-4539-8bf9-2a6c6751580d,104,0.4337225556373596,/life-circumstances/death,2,Life circumstances,0,0
+25,d6c2de5d-ef90-45d1-82d4-5f2438369eea,1179,0.4334232807159424,/government/brexit,2,Government,0,0
+328,58747b8d-6bf7-4470-8f71-c3568132bba2,202,0.4332912862300873,/society-and-culture/library-services,3,Society and culture,0,0
+83,d44bcec9-4da8-4fa4-b548-993a826c5327,718,0.4332044720649719,/business/uk-energy-security,3,Business and industry,0,0
+671,d2158a98-5f85-4672-ab5e-2ff232a657b4,36,0.43316367268562317,/education/school-trips-and-extracurricular-activity,3,"Education, training and skills",0,0
+781,e33ce727-bb6b-47a2-894b-b7174cb7faee,21,0.4331441819667816,/defence/ministry-of-defence-estate,2,Defence and armed forces,0,0
+591,8189aedf-2c87-46d4-b913-a598822ce3df,22,0.4330286383628845,/environment/environmental-management-marine-sea-fishing,3,Environment,0,0
+366,7a1ba896-b85a-4137-81d9-ab05b7ce67dd,85,0.4328254759311676,/welfare/child-benefit,2,Welfare,0,0
+490,edb9b4a6-b804-4348-beee-81827c86bf0b,224,0.43280258774757385,/money/self-assessment,3,Money,0,0
+86,5b021981-2999-4da1-9a4e-03c64b70168c,39,0.43222421407699585,/education/careers-guidance-in-further-and-higher-education,3,"Education, training and skills",0,0
+632,23100f5c-25d2-4d3f-8a63-f32e619a32d5,155,0.43176770210266113,/crime-justice-and-law/criminal-justice-reform,2,"Crime, justice and law",0,0
+342,b1f50b85-b576-4273-95ef-49b80825a882,24,0.4317581057548523,/environment/climate-change-energy-emissions,3,Environment,0,0
+430,9fb5e890-c4c2-4237-bad6-a1e04c5f72f6,128,0.4307006001472473,/government/funding-programmes,4,Government,0,0
+451,253c217e-5d8e-4ec6-acfb-e5165674cac5,211,0.4303852915763855,/defence-and-armed-forces/armed-forces-support-for-activities-in-the-uk,2,Defence and armed forces,0,0
+27,900ee60d-32ed-4dba-9834-09f54de01d5d,1735,0.4303121566772461,/business/competition-competition-act-cartels,4,Business and industry,0,0
+73,6bb7a2d2-1693-4682-a52c-a17d7fca9c3e,762,0.4301547706127167,/housing-local-and-community/household-energy,2,"Housing, local and community",0,0
+92,13b3a4e4-7254-4650-819d-d9c6e26e01b3,109,0.4300524592399597,/business-and-industry/alcohol-sales,3,Business and industry,0,0
+31,8c19f8a6-35c0-4e00-98fd-870fe219affd,1692,0.42979422211647034,/business/competition-consumer-protection,4,Business and industry,0,0
+903,49f5ab15-d6fe-4a8e-8e56-44878798e7d6,33,0.4290042817592621,/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts,3,Health and social care,0,0
+570,46f0975c-86c4-4599-aeb0-e465a546c005,63,0.4288894236087799,/education/set-up-or-convert-to-an-academy,4,"Education, training and skills",0,0
+147,4dae005c-26cf-4ae7-96f8-70c3f75b38a7,141,0.4288199245929718,/health-and-social-care/smoking,4,Health and social care,0,0
+196,13d01427-33b5-4ca4-bf7a-68425f54e236,118,0.42875513434410095,/transport/rail,2,Transport,0,0
+467,42c7ab56-125d-4328-b1c9-88564d94fef1,290,0.4283559024333954,/regional-and-local-government/northern-ireland-political-stability,3,Regional and local government,0,0
+897,a937271d-25d1-4ebc-a2dd-eb94947c2122,5,0.427837610244751,/environment/producing-distributing-food,3,Environment,1,0
+135,4794066e-e3cc-425e-8cc4-e7ff3edb4c39,829,0.4275752604007721,/housing-local-and-community,1,"Housing, local and community",0,0
+29,fe8630e2-cc33-4b72-a180-d1875e860b58,1732,0.4274619519710541,/business/competition-markets,4,Business and industry,0,0
+1036,10cdffc5-6704-4635-b52b-536f08bdb9a4,18,0.4271728992462158,/transport/vans-and-minibuses,3,Transport,0,0
+674,17342ebc-04f8-434b-bcd6-be533238d02d,34,0.427092969417572,/education/personal-social-health-and-economic-education,3,"Education, training and skills",0,0
+1030,d304dcea-c3f6-4b56-859c-6409a8712111,13,0.4270631670951843,/environment/wildlife-and-animal-welfare,3,Environment,0,0
+760,637f0195-79ef-44b6-8cac-8a23cc0d0975,24,0.42697349190711975,/environment/protected-sites-species,3,Environment,0,0
+249,42c49174-29b9-4bd8-b62b-b1c6b434ec7f,42,0.42669349908828735,/money/construction-industry-scheme,3,Money,0,0
+330,b1846db8-acab-4fc2-b1ad-b98250c78c62,310,0.42635685205459595,/housing-local-and-community/housing-for-older-and-vulnerable-people,3,"Housing, local and community",0,0
+74,2389dfd4-a0c4-4bd2-b7e6-06f465463d22,49,0.426129013299942,/childcare-parenting/childrens-health-and-welfare,2,"Parenting, childcare and children's services ",0,0
+192,71a02800-becf-40d7-a135-1277345ca8a2,301,0.4258311688899994,/business-and-industry/export-controls,4,Business and industry,0,0
+12,2b15ade6-cfcb-4088-bcde-0ab4e29c26ac,585,0.4257277250289917,/environment/greenhouse-gas-emissions,3,Environment,0,0
+98,cb162b48-ae42-4c51-9497-7df37e1f5320,121,0.425382137298584,/business/patents,4,Business and industry,0,0
+610,51efa3dd-e9bc-42b2-aa26-06bf5f543015,125,0.4252595007419586,/transport/aviation,2,Transport,0,0
+733,912b6d4b-73c5-4d34-a756-dc6b0ce16eae,7,0.4247853755950928,/transport/inland-waterways,3,Transport,0,0
+757,059e1b97-c18b-4043-94a5-59004df8282d,36,0.42473921179771423,/education/school-buildings-and-land,3,"Education, training and skills",0,0
+375,2a1bd1b1-5025-4313-9e5b-8352dd46f1d6,44,0.424677312374115,/welfare/jobseekers-allowance,2,Welfare,0,0
+391,84a394d2-b388-4e4e-904e-136ca3f5dd7d,307,0.4240691661834717,/transport/driving-and-road-transport,2,Transport,0,0
+321,6d0d07e8-a3f8-4ccb-8311-553a68947acf,22,0.4240352213382721,/environment/environmental-management-marine-marine-protection-and-wildlife,3,Environment,0,0
+218,e14845ba-fdad-478d-b1ce-a74111132671,217,0.42327064275741577,/health-and-social-care/drug-misuse-and-dependency,4,Health and social care,0,0
+45,08899d00-fd62-43ce-9704-0e71796d063b,50,0.4231945276260376,/health-and-social-care/carers-health,3,Health and social care,0,0
+270,d376bc0d-6c47-4399-b1bf-d9adefa47df0,968,0.42319414019584656,/international/uk-prosperity-and-security-asia-latin-america-and-africa,2,International,0,0
+303,be87a790-f8b0-40ee-9fba-0c0d07e3f8e8,91,0.42266976833343506,/environment/economic-growth-in-rural-areas,4,Environment,0,0
+457,b62699b6-6963-41f1-8bfd-4db36375e232,12,0.4222528636455536,/transport/fleet-management,4,Transport,0,0
+356,52872ecc-6996-4af0-9fae-6897e6a1d86c,29,0.42219796776771545,/environment/producing-distributing-food-crops-horticulture,4,Environment,0,0
+28,a3773f5e-f05e-48b0-b79a-46374dabbc30,1873,0.4220649003982544,/business/competition-mergers,4,Business and industry,0,0
+583,d6fc8b39-351d-4d3f-a938-4a86f38906bc,73,0.4218565821647644,/defence-and-armed-forces/uk-nuclear-deterrent,2,Defence and armed forces,0,0
+617,d5c3d032-2c12-4bb3-8340-3cc5084ccba7,35,0.4217463433742523,/childcare-parenting/children-and-young-people-leaving-care,4,"Parenting, childcare and children's services ",0,0
+739,ee1214e7-d14d-4975-9e08-b304642ab112,36,0.42167040705680847,/employment/tax-minimum-wage,3,Work,0,0
+1062,b0796445-6b5b-4110-9808-459287a89cf2,18,0.42161130905151367,/environment/environmental-management-wildlife-habitat-conservation-fish-and-shellfish,4,Environment,0,0
+839,29dbee2a-5865-489b-860f-7eef54a5165a,36,0.42134198546409607,/welfare/families,2,Welfare,0,0
+241,5812ef82-6a5c-43b8-9d76-b3f7d8019945,881,0.42133036255836487,/environment/low-carbon-technologies,3,Environment,0,0
+873,9101cc52-aaf3-429b-9bad-da16dc6f0a01,15,0.42132508754730225,/housing-local-and-community/planning-permission-appeals,3,"Housing, local and community",0,0
+338,761b3ded-bc40-498e-8964-d31c9664970a,165,0.42109259963035583,/defence-and-armed-forces/weapons-proliferation,2,Defence and armed forces,0,0
+274,459b36eb-65f0-43a6-95ab-f3fb0bdaff50,403,0.4209442436695099,/crime-justice-and-law/reoffending-and-rehabilitation,2,"Crime, justice and law",0,0
+222,20eb4e84-98ee-404b-a4bd-fe8a36d5d71d,315,0.42070090770721436,/childcare-parenting/safeguarding-and-social-care-for-children,2,"Parenting, childcare and children's services ",0,0
+699,bfa7817d-35b9-4c67-9cb1-c6a74313e9ee,108,0.42021751403808594,/environment/keeping-farmed-animals-veterinary-medicines,4,Environment,0,0
+907,2466c429-d4bc-46ca-ae90-b3545a74238c,36,0.4201407730579376,/international/government-topics-foreign-affairs-piracy-off-the-coast-of-somalia,3,International,0,0
+605,326e92c5-253d-4ab9-bdef-bffa0985fa7b,34,0.42013227939605713,/health-and-social-care/medicines-medical-devices-blood-good-practice,3,Health and social care,0,0
+606,f441e630-2bba-4bbd-8c1b-22ae61cc00c2,26,0.42005929350852966,/health-and-social-care/medicines-medical-devices-blood-manufacturing-wholesaling-importing-exporting-medicines,3,Health and social care,0,0
+250,e04c9a5c-88e8-46e5-91d9-add405e098fb,311,0.42001840472221375,/money/vat,3,Money,0,0
+42,a5c88a77-03ba-4100-bd33-7ee2ce602dc8,400,0.4197826087474823,/money/personal-tax,2,Money,0,0
+285,5bdb7e5c-bc3b-4b44-bd4a-959973281535,162,0.4193587303161621,/government/constitutional-reform,3,Government,0,0
+30,8d110d4f-4c9b-424a-8c75-de0a15bbeaac,1628,0.41927623748779297,/business/competition-regulatory-appeals-references,4,Business and industry,0,0
+837,6dde8c8b-2d2a-4b45-b838-d9af448c713b,25,0.4189137816429138,/health-and-social-care/health-protection-radiation,3,Health and social care,0,0
+227,cff00c83-21a5-4d43-b0fb-7363fd5443f0,552,0.41890814900398254,/environment/access-to-the-countryside,4,Environment,0,0
+257,4f88ed20-7697-4d64-8562-0fda4e7c4c67,153,0.4184027910232544,/regional-and-local-government/northern-ireland-community-relations,3,Regional and local government,0,0
+299,682af17f-bb27-47f5-8775-9040cf06984d,174,0.41835057735443115,/environment/freshwater-fisheries,3,Environment,0,0
+521,dcc6762c-ccba-4d65-9816-7c867bcedf69,28,0.41807425022125244,/money/capital-allowances,3,Money,0,0
+387,d2cf4a8f-19b7-4749-bd4e-f8a40a1369a7,125,0.41755038499832153,/health-and-social-care/harmful-drinking,4,Health and social care,0,0
+709,869e0a09-33a3-4db4-a95a-0c27c6234b21,99,0.4173334538936615,/regional-and-local-government/northern-ireland-security,3,Regional and local government,0,0
+226,02b042bb-b875-4362-ba13-41cbfb70f242,131,0.4173326790332794,/money/tax-compliance,3,Money,0,0
+52,58bebb74-fae7-4c97-878b-61ff543d9d12,211,0.41687577962875366,/education/further-and-higher-education-courses-and-qualifications,3,"Education, training and skills",0,0
+566,26b27157-a062-4ba0-8c98-7b29e59bd58e,75,0.4167793393135071,/environment/common-agricultural-policy-reform,3,Environment,0,0
+87,e390c88f-b232-4973-8742-60b8e1ebebf8,16,0.4166773557662964,/environment/species-protection-and-marine-conservation,3,Environment,0,0
+823,ba7a0379-3dc8-4ee9-acb5-ace8e6dd42b9,23,0.41667044162750244,/education/school-planning,3,"Education, training and skills",0,0
+717,b4e41212-77b8-44ba-8fb5-6aa479b20d36,55,0.4165889322757721,/transport/professional-driving-of-lorries-buses-and-coaches,3,Transport,0,0
+768,82730dd2-4ead-4ae6-943b-2c910e758279,122,0.41597113013267517,/housing-local-and-community/land-registration,2,"Housing, local and community",0,0
+289,5dc8d0fa-0c04-4066-9ecb-2e262d6d878f,202,0.4157886505126953,/money/dealing-with-hmrc-software-development,3,Money,0,0
+77,5af6180c-d5db-4cc1-a68e-7bd066908132,167,0.41577497124671936,/childcare-parenting/safeguarding-child-protection,3,"Parenting, childcare and children's services ",0,0
+486,85f606cf-741b-4aa3-8480-f92fcce7b3b8,140,0.4157365560531616,/business-and-industry/animal-research-and-testing,3,Business and industry,0,0
+1079,8c32ec4f-bb34-45c4-9483-8bfd1248fada,8,0.4154227375984192,/money/dealing-with-hmrc-paying-hmrc-gambling-duties,4,Money,0,0
+383,394b93e1-eeb7-421d-91e1-c478cc3d635e,51,0.41482600569725037,/education/health-safety-and-wellbeing-in-schools,3,"Education, training and skills",0,0
+713,41ae5900-f8e5-4840-b58f-734631029fd6,12,0.4146471619606018,/education/becoming-an-intern-or-trainee,4,"Education, training and skills",0,0
+493,4e83f852-1e37-4329-910e-ab63eb00210a,85,0.41454264521598816,/transport/public-service-vehicles-licensing,5,Transport,0,0
+91,076e3cdd-d2a4-47a6-b6c2-07ad2793e9bc,87,0.4144981801509857,/transport/drink-and-drug-driving,4,Transport,0,0
+405,c23e2747-a59e-476e-be65-2add5c896f13,85,0.41447195410728455,/transport/road-transport-and-the-environment,3,Transport,0,0
+1094,a83ce24e-0ef4-476e-bac6-d18061e0a22e,8,0.41444647312164307,/money/personal-tax-living-working-abroad-offshore-living-and-working-abroad,4,Money,0,0
+572,7899db1e-2b8b-4982-a46a-18c6e43742c0,55,0.41431230306625366,/business-and-industry/regional-growth-fund,3,Business and industry,0,0
+638,5a9e6b26-ae64-4129-93ee-968028381e83,66,0.41359344124794006,/childcare-parenting/adoption-fostering-and-surrogacy,2,"Parenting, childcare and children's services ",0,0
+676,62562899-fed3-4876-ba61-80264d140009,16,0.41308608651161194,/childcare-parenting/finding-childcare,3,"Parenting, childcare and children's services ",0,0
+190,104ee859-8278-406b-80cb-5727373e0198,217,0.4123336374759674,/money/income-tax,3,Money,0,0
+1207,a08b8273-e7f5-472c-b8f1-8fafd2c3ccaf,4,0.41224151849746704,/business-and-industry/community-interest-companies,3,Business and industry,1,0
+582,30ba2d05-d0d6-4978-a5d6-707511894111,97,0.4121359884738922,/health-and-social-care/health-protection,2,Health and social care,0,0
+229,64aa6eec-48b5-481d-9131-9c8b6326eea1,77,0.4120467007160187,/education/student-grants-bursaries-scholarships,3,"Education, training and skills",0,0
+512,e3cb8b57-6331-419a-b344-7a8148d561cb,33,0.4118328392505646,/education/school-procurement,3,"Education, training and skills",0,0
+961,37a65d37-4137-43c1-86e5-028927be1f23,13,0.41120445728302,/environment/climate-change-energy-energy-security,3,Environment,0,0
+101,d39a3eae-b358-4472-83e2-2e17a86e2ad8,1281,0.41118162870407104,/transport/corporate-and-operational-information-transport,2,Transport,0,0
+132,9a77decd-1dd8-4407-b3c0-5c77c3dba808,59,0.411063015460968,/transport/rail-safety-and-security,3,Transport,0,0
+575,f875c256-b84a-417a-b2b5-ff7e301a41c7,31,0.4108377993106842,/life-circumstances/register-offices,2,Life circumstances,0,0
+940,04b8b6f2-c044-4b99-8711-89c655794019,12,0.41078856587409973,/environment/keeping-farmed-animals-import-export,4,Environment,0,0
+187,4d72b9fa-a11a-485e-9c22-8fb426e0feaa,70,0.4100845158100128,/transport/transport-accessibility-and-mobility,2,Transport,0,0
+533,a28530a2-b0a3-46f9-89b9-3d98fc18e39d,126,0.4096835255622864,/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses,3,"Education, training and skills",0,0
+611,8d99749f-e2c5-43a3-a283-0faef4ee8a5d,30,0.4094330072402954,/environment/farming-food-grants-payments-rural-grants-payments,4,Environment,0,0
+784,6c4c443c-2e11-4d25-aa93-2e3a38d9499c,44,0.40932637453079224,/welfare/heating,2,Welfare,0,0
+960,71882e94-5491-49d2-b2f8-9f7e84611080,28,0.4093038737773895,/business-and-industry/running-charity-fundraising,3,Business and industry,0,0
+601,073e9067-e0e3-4864-add2-cb2973ed1de0,48,0.40893733501434326,/transport/aviation-and-the-environment,3,Transport,0,0
+59,4a12dac1-5ac1-4cec-9219-aea8bb2840e6,524,0.4084169268608093,/international/humanitarian-emergencies,3,International,0,0
+57,d84fc2a1-9a91-43a3-b8be-4c1eb0a12289,1571,0.408298134803772,/international/afghanistan,3,International,0,0
+685,58a37206-69ee-42e2-960d-218c3e759e3d,164,0.4079360067844391,/society-and-culture/social-investment,3,Society and culture,0,0
+378,7d55894e-5ba5-4495-8962-e7650e9a0559,122,0.4077501893043518,/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes,3,Health and social care,0,0
+272,2fed9b31-6440-451f-a54b-222f06b4e64e,115,0.4076259136199951,/business-and-industry/running-charity-money-accounts,3,Business and industry,0,0
+11,1407a519-c8b6-4178-ac74-55708a2c5ce9,787,0.4075237214565277,/environment/energy-and-climate-change-evidence-and-analysis,3,Environment,0,0
+975,1cbbf15c-c105-4be7-88c6-38e807fe2b84,9,0.40697285532951355,/health-and-social-care/medicines-medical-devices-blood-herbal-homeopathic-medicines,3,Health and social care,0,0
+344,562132d3-7f14-46e8-953b-d7e0d56cf021,36,0.4066963791847229,/crime-justice-and-law/byelaws,2,"Crime, justice and law",0,0
+385,b3077141-b10b-424c-ba10-5d41640feddb,284,0.40611302852630615,/environment/bovine-tuberculosis,4,Environment,0,0
+735,c419f70a-0986-4f55-b766-3a19216a3e5a,46,0.40538063645362854,/environment/rural-development-land-management,3,Environment,0,0
+339,67f50352-bc30-482f-a2d0-a05714e3cea8,334,0.40502244234085083,/government/cyber-security,2,Government,0,0
+208,55f1135f-2b81-440f-9d5b-52f593f4b9ad,29,0.405009001493454,/housing-local-and-community/land-registration-searches-fees-forms,3,"Housing, local and community",0,0
+835,c2d5f70c-5cec-4618-9e96-7083d8335ba5,39,0.40492135286331177,/health-and-social-care/mental-health,3,Health and social care,0,0
+1198,22ad4441-9fb5-447b-950c-bf33466b31bb,11,0.40470218658447266,/environment/chemicals,2,Environment,0,0
+1009,eb212500-ab57-4c8c-8eb0-4f11493da437,13,0.40462571382522583,/environment/fisheries-funding,3,Environment,0,0
+639,666e7791-1d9a-4b51-8c8d-82f4408fb630,90,0.4043895900249481,/transport/road-maintenance,3,Transport,0,0
+662,c50bd0f5-3077-43cc-8500-8e68b67c8b79,10,0.40437328815460205,/health-and-social-care/medicines-medical-devices-blood-blood-regulation-safety,2,Health and social care,0,0
+522,88b0ec49-b8fc-4fbb-8418-68b88719b8c8,242,0.40417996048927307,/regional-and-local-government/localism,2,Regional and local government,0,0
+891,eaae8f5b-8f16-48cc-94f2-45191a49b274,14,0.40400469303131104,/education/sending-a-child-to-school,3,"Education, training and skills",0,0
+681,98636b54-c677-415d-b2b2-255307ea11b8,64,0.40396642684936523,/education/school-governance,3,"Education, training and skills",0,0
+624,60677783-056b-484d-89cf-f22a12d1980a,21,0.4037381410598755,/transport/air-passenger-duty,3,Transport,0,0
+997,838708d9-324f-4342-a084-ecf8eaac4bad,11,0.4036370515823364,/money/dealing-with-hmrc-paying-hmrc-capital-gains-tax,4,Money,0,0
+725,dcdd3946-113f-4a14-88df-9b5915ecae0c,17,0.4035855233669281,/government/european-union-laws-and-regulation-2,3,Government,0,0
+515,c7fded2a-fedc-4977-be5d-efd4f6a34a73,59,0.4034390449523926,/international/sexual-violence-in-conflict,2,International,0,0
+629,1227db39-e321-4439-a514-10e4d1d0e61d,60,0.40329334139823914,/education/setting-up-or-changing-the-status-of-a-school,3,"Education, training and skills",0,0
+959,68f811fb-a0ae-4ca1-920f-0a01c52bec97,7,0.40328559279441833,/environment/keeping-farmed-animals-cattle-deaths,4,Environment,0,0
+780,ada85ef4-a2b5-446d-a8cf-92da2573b86f,80,0.4030574560165405,/education/pupil-performance-in-schools,4,"Education, training and skills",0,0
+667,1b3b139c-76fe-4bd4-89de-e6dcda134abd,32,0.40305188298225403,/education/recruiting-and-managing-non-teaching-school-staff,3,"Education, training and skills",0,0
+199,17a45117-157f-4b32-98eb-3a1a8933a344,297,0.4027749300003052,/environment/climate-change-international-action,3,Environment,0,0
+705,ccd41790-a498-4cd1-a510-125d67e0f585,11,0.4027073383331299,/government/public-sector-land-use,2,Government,0,0
+314,d762d126-be4c-471d-88f3-6becd8d08e43,932,0.4026693105697632,/housing-local-and-community/planning-system,3,"Housing, local and community",0,0
+445,47b6ce42-0bfa-42ee-9ff1-7a9c71ee9727,159,0.4026535451412201,/education/special-educational-needs-and-disability-send-and-high-needs,2,"Education, training and skills",0,0
+341,9e7ea8b0-dc6d-4d16-a659-58f3f7248792,61,0.4025254249572754,/business/financial-services-regulation,3,Business and industry,0,0
+228,f1d9c348-5c5e-4fc6-9172-13a62537d3ae,133,0.4025183916091919,/childcare-parenting/childcare-and-early-years,2,"Parenting, childcare and children's services ",0,0
+555,f755e7a8-f337-4419-bb10-02db53b771b1,133,0.40243619680404663,/government/deficit-reduction,3,Government,0,0
+103,3b35111d-dedf-47d7-af44-5125a0d9bfd3,647,0.40221670269966125,/housing-local-and-community/house-building,3,"Housing, local and community",0,0
+1149,a119757d-73e8-40c2-940c-1af2ef118bb2,14,0.40189817547798157,/government/legislative-process-2,3,Government,0,0
+763,902af4ff-4a3b-4860-932a-f7d9a47c337e,21,0.40184304118156433,/childcare-parenting/child-maintenance,3,"Parenting, childcare and children's services ",0,0
+890,68eb1698-4302-43cb-abfe-0cea88ca4844,37,0.40156522393226624,/health-and-social-care/disabilities-rights,3,Health and social care,0,0
+411,25bc1af0-33df-40be-a668-d9b05d1dd3e4,142,0.4012857973575592,/education/teacher-training-and-professional-development,3,"Education, training and skills",0,0
+288,9ec092af-0f53-4a82-b4b0-9d016162ba01,305,0.40126940608024597,/international/government-topics-foreign-affairs-conflict-in-fragile-states,3,International,0,0
+623,e7f94005-797c-4d12-b5f5-9646dc04b04b,16,0.4008389115333557,/money/air-passenger-duty,3,Money,0,0
+398,5f1f5537-e9e6-488d-85f6-bd91327987ec,34,0.4008207619190216,/work/trade-unions,2,Work,0,0
+509,eaa2e73e-1130-40a7-95c6-ad02f4f96c84,22,0.40065330266952515,/environment/preventing-and-reporting-disease,4,Environment,0,0
+534,693b7a9e-688f-4278-9375-9841f4187b23,63,0.40062472224235535,/transport/transport-businesses-and-vehicle-operator-licences,3,Transport,0,0
+1019,e9926d96-9bfd-4d8f-ad4e-301254216298,3,0.4004589915275574,/crime-justice-and-law/statutory-rights,2,"Crime, justice and law",1,0
+1025,90c7fbe9-e78e-4b36-b3ba-c1637c28326d,13,0.40029722452163696,/crime-justice-and-law/intellectual-property-law-practice-trade-marks,3,"Crime, justice and law",0,0
+563,576eb670-9e54-4d6e-a1d0-8335cdbd9005,18,0.4000454246997833,/environment/farming-food-grants-payments-rural-grants-payments-rural-development,5,Environment,0,0
+419,9cf64a4b-68cc-4723-8659-cd88523ce910,77,0.3994167745113373,/money/stamp-taxes,3,Money,0,0
+100,864fe969-7d5a-4251-b8b5-a50d57be943f,85,0.39931878447532654,/business-and-industry/company-closure-administration-liquidation-and-insolvency,4,Business and industry,0,0
+740,efe1b041-42dd-4eb5-afdc-18e6ed877249,45,0.39915931224823,/money/business-tax-vat-rules-for-particular-trades,4,Money,0,0
+489,aaeb7f58-d410-4c42-8775-05b0bdeceeea,181,0.39900749921798706,/education/apprenticeships-traineeships-and-internships,3,"Education, training and skills",0,0
+223,d24214de-d6da-46b0-a1f3-374f691ea50e,149,0.3988572657108307,/international/climate-change-impact-in-developing-countries,3,International,0,0
+44,42b04c03-bea5-49b6-85ee-19ab21653725,118,0.3988114893436432,/health-and-social-care/cancer-research-and-treatment,4,Health and social care,0,0
+749,ba1f2f97-5e54-4aaf-8e14-075885ec8093,7,0.39880838990211487,/money/dealing-with-hmrc-paying-hmrc-alcohol-duties,4,Money,0,0
+171,386180ca-4219-478e-8b80-a271dd5ce5f2,260,0.39855679869651794,/money/corporation-tax,3,Money,0,0
+771,6416e4e0-c0c1-457a-8337-4bf8ed9d5f80,28,0.39822208881378174,/business-and-industry/product-safety,3,Business and industry,0,0
+602,5e2be290-4b95-45e4-a362-876340296fe1,46,0.3980189263820648,/money/landfill-tax,3,Money,0,0
+470,b7558ad9-32cf-4d77-92e6-e926fc515e72,143,0.3979763388633728,/housing-local-and-community/high-streets-and-town-centres,3,Business and industry,0,0
+269,35092839-9f4a-4ee0-a1c3-6969d8440d79,106,0.39772263169288635,/money/fuel-duty,3,Money,0,0
+690,a79c77b3-bb31-4b44-90d9-04b6e632124f,101,0.39720019698143005,/health-and-social-care/long-term-health-conditions,4,Health and social care,0,0
+181,d2005b89-352f-4896-aced-1d17504330e6,194,0.3971706032752991,/education/education-of-disadvantaged-children,2,"Education, training and skills",0,0
+482,a2763aed-d4f2-4c51-9ba1-518398149605,50,0.39705824851989746,/environment/climate-change-energy-energy-efficiency,3,Environment,0,0
+438,3bc4ec93-fd86-4c66-98d0-7623cbbaa6be,53,0.3968636691570282,/money/capital-gains-tax,3,Money,0,0
+978,17b10a3e-2530-49cc-8cf6-1e002458b0b0,18,0.39650067687034607,/crime-justice-and-law/data-protection,2,"Crime, justice and law",0,0
+854,e856b21f-4123-44b7-9ef8-7754d2981cd5,55,0.39648982882499695,/environment/marine-licences,3,Environment,0,0
+212,93549580-c134-41a7-9cbc-1797ebc10200,36,0.39643698930740356,/government/technology-guidance-technology-guidance-digital-transformation,3,Government,0,0
+1146,7cd02e03-8f49-48f1-a76a-9d98a14c653f,5,0.39634087681770325,/health-and-social-care/health-conditions,3,Health and social care,1,0
+548,e54fd82a-4c93-4e9e-84d8-0fa167e7f004,51,0.3963359296321869,/environment/environmental-management-wildlife-habitat-conservation-mammals,4,Environment,0,0
+714,521cd7b5-9aab-4888-8709-f661e3b313a8,60,0.39633506536483765,/money/tobacco-products-duty,3,Money,0,0
+485,0366b522-dd0d-41f9-a72f-54a68ae0256d,41,0.39632490277290344,/transport/penalty-points-fines-and-driving-bans,4,Transport,0,0
+883,c657bea7-3b82-4103-9d7c-8d9725f87ede,51,0.396047443151474,/education/funding-for-different-types-of-schools-and-settings,3,"Education, training and skills",0,0
+764,1fb1ae8d-c975-43ba-9672-13ee0993e98b,59,0.3960155248641968,/crime-justice-and-law/young-people-and-the-law,2,"Crime, justice and law",0,0
+912,14b795bd-e695-4068-9aeb-e657b20304d0,38,0.39594566822052,/entering-staying-uk/immigration-penalties,3,Entering and staying in the UK,0,0
+406,43058b66-be0c-4bf5-bb87-0844b7374272,200,0.3958324193954468,/transport/cycling-and-walking,3,Transport,0,0
+287,b1c19cf1-7533-480b-97e2-ab4c4812c7fa,52,0.39553409814834595,/international/anti-corruption,2,International,0,0
+492,b81471a5-d1c3-4bae-8526-71553c248704,5,0.39521080255508423,/environment/treasure-wrecks,3,Environment,1,0
+72,71f685fe-0dc3-469d-92c2-1000ad86d7d9,1510,0.3951253294944763,/environment/river-maintenance-flooding-coastal-erosion,2,Environment,0,0
+911,c1b4353c-c05f-494c-8f94-10f7c6959287,52,0.3950892388820648,/education/key-stage-5-as-and-a-levels,3,"Education, training and skills",0,0
+594,73c19fc1-d7ee-4d6c-b06e-446711ed9240,95,0.39461252093315125,/education/recruiting-inducting-and-managing-teachers,3,"Education, training and skills",0,0
+1224,4f72853c-d9ea-4b34-a986-2f62359e9e40,6,0.3945976495742798,/childcare-parenting/childrens-rights,3,"Parenting, childcare and children's services ",0,0
+727,b2fa241b-d407-427d-9c00-3cb3b1b240e9,160,0.3945312201976776,/business-and-industry/export-finance,4,Business and industry,0,0
+864,ac7b8472-5d09-4679-9551-87847b0ac827,13,0.3942584991455078,/welfare/bereavement,2,Welfare,0,0
+459,6a10a7ae-4729-4941-9889-c2330b6a893b,189,0.39424535632133484,/international/the-commonwealth,2,International,0,0
+508,d69977ab-4fb1-4ad6-b379-e967c5b7528b,20,0.39395880699157715,/health-and-social-care/disabilities,2,Health and social care,0,0
+55,685d131a-5bcc-46e0-b952-8d9a3ffc6f0a,40,0.3938635587692261,/government/technology-guidance-technology-guidance-buying-technology,3,Government,0,0
+929,e4335adc-5dc3-47c0-bb27-4998792212eb,18,0.3938511610031128,/childcare-parenting/pregnancy-and-birth,2,"Parenting, childcare and children's services ",0,0
+1098,6db1a264-32f2-4c64-acff-b3eedca45353,7,0.39379191398620605,/government/technology-guidance-technology-guidance-cloud-security,4,Government,0,0
+215,61b4cb95-d7c9-4c84-a4be-81d941ca11ba,122,0.3932391107082367,/money/savings-investment-tax,3,Money,0,0
+265,d8b83666-c939-48fa-9526-49eb8fe0cffe,115,0.39314866065979004,/education/set-up-a-free-school,4,"Education, training and skills",0,0
+495,3767d89c-b00c-431e-8b0b-b91c8ff26238,60,0.3928813934326172,/transport/careers-in-transport,2,Transport,0,0
+579,6dc91505-fdbd-4b6b-9bd5-fef3dc8baf42,136,0.3928631842136383,/entering-staying-uk/immigration-adviser-services,2,Entering and staying in the UK,0,0
+463,98012a21-7425-47db-8ab7-38e0f1162fd1,128,0.39283454418182373,/environment/climate-change-adaptation,3,Environment,0,0
+902,aee2e8b8-bc23-455d-adad-ed4df14f07fc,5,0.3927827477455139,/money/dealing-with-hmrc-paying-hmrc-corporation-tax,4,Money,1,0
+530,a90b30f7-bd6a-4d49-a7e3-3661e6019f2d,114,0.39233601093292236,/environment/hydrography,3,Environment,0,0
+694,286b5fa1-a89b-42a3-bf29-36ef7c326324,64,0.39221569895744324,/money/business-tax-vat-charging-vat,4,Money,0,0
+682,3695b5b0-f11c-49d1-bb56-01c730c86347,18,0.39169520139694214,/business/environmental-management-water-water-quality,3,Environment,0,0
+359,4f3427ca-b83c-416d-84f6-386328ee3417,73,0.3915935456752777,/transport/hgv-standards-and-checks,4,Transport,0,0
+967,1cfb2ddc-91d1-4a57-8ede-4719c7535bd0,13,0.3913944363594055,/money/business-tax-corporation-tax-reliefs,4,Money,0,0
+291,fae66b20-eacd-4a41-a417-81cae5fa4b8c,121,0.39118269085884094,/crime-justice-and-law/family-justice-system,2,"Crime, justice and law",0,0
+271,7b9b52f3-e403-4844-b22b-879daf1cc776,159,0.390996515750885,/entering-staying-uk/work-and-investor-visas,3,Entering and staying in the UK,0,0
+761,db47ae0e-3443-4c3d-a6cc-fb125848b242,29,0.39076587557792664,/money/aggregates-levy,3,Money,0,0
+292,656ce189-8363-4dff-83f7-d817f9554a4f,342,0.39040693640708923,/housing-local-and-community/energy-efficiency-in-buildings,3,"Housing, local and community",0,0
+1010,2ec0e71c-838f-4d9e-bffa-514cd7fbf863,29,0.39036428928375244,/transport/driving-instruction-and-driving-lessons,3,Transport,0,0
+290,c9fc34e6-bef5-44f6-b1c6-9824ac088dca,23,0.38997790217399597,/crime-justice-and-law/legal-aid-for-providers-crime,3,"Crime, justice and law",0,0
+782,454b3d57-870e-4691-a700-abbf7d883c34,24,0.38983336091041565,/childcare-parenting/childrens-social-care-providers,3,"Parenting, childcare and children's services ",0,0
+860,f867316c-bf18-49d7-b96d-847f6074026a,17,0.38983193039894104,/transport/taxi-and-private-hire-accessiblity,3,Transport,0,0
+999,18cb575a-45a0-4ab8-8bff-12c48a2ee8d4,10,0.38977012038230896,/childcare-parenting/providing-childcare,3,"Parenting, childcare and children's services ",0,0
+322,d7aa2c13-6148-4411-b119-76e6e4ea94ae,92,0.3895842432975769,/business/bank-regulation,3,Business and industry,0,0
+1049,578871e4-b755-4664-b0e6-1b2e8b841600,4,0.3890787363052368,/government/technology-guidance-digital-security,3,Government,1,0
+428,27e57b63-4252-4c49-b103-e73f7c6ed394,71,0.38899070024490356,/education/inspection-of-further-education-and-skills-providers,4,"Education, training and skills",0,0
+619,a923f233-d230-45a7-991a-24e175c9e684,113,0.3886348605155945,/money/business-tax-vat-accounting-for-vat,4,Money,0,0
+576,931dc3bb-827b-4490-8013-111689b25142,63,0.38845694065093994,/education/primary-curriculum-key-stage-2,3,"Education, training and skills",0,0
+19,95202728-fb55-4aac-a53e-6a8f1553348a,415,0.3880085051059723,/transport/road-infrastructure,2,Transport,0,0
+1033,a1119685-ffef-4417-a3e4-116014ad4523,29,0.3877401351928711,/business-and-industry/business-debt-and-bankruptcy,3,Business and industry,0,0
+235,552bc20c-5283-4776-8a32-5cd155f3e64b,88,0.3876810073852539,/environment/environmental-management-land-management-farming,4,Environment,0,0
+524,2dc353bf-d481-4c81-9f8f-25e1d4bc5da9,98,0.3875937759876251,/education/inspection-and-performance-of-further-education-providers,3,"Education, training and skills",0,0
+78,e26c71f7-3ba8-4884-ab4c-93de5a43943f,264,0.38755670189857483,/government/european-single-market,3,Government,0,0
+628,41d3523d-34c4-445f-80c8-d429663cb184,33,0.3870178461074829,/money/trusts,3,Money,0,0
+845,66f7bd95-7e8b-4f33-ad7f-77a13ae92d49,50,0.3868808448314667,/crime-justice-and-law/administrative-justice-reform,2,"Crime, justice and law",0,0
+1037,a1848bca-b5f7-4e72-8e88-63e2847d20d4,38,0.3861813545227051,/health-and-social-care/disabilities-benefits,3,Health and social care,0,0
+131,702b112f-32fb-431c-8fbf-bc38b4419c49,314,0.38606828451156616,/regional-and-local-government/economic-growth-in-wales,3,Regional and local government,0,0
+680,1de432b7-2331-4450-9667-374d56e7f084,86,0.385944128036499,/transport/vehicle-tax,4,Transport,0,0
+862,c99a6f1b-950c-4358-8521-eeb95d09fb36,17,0.3859190046787262,/transport/seat-belts,4,Transport,0,0
+865,6c94d7f9-2270-41e2-b3a1-018cab93cfb7,39,0.385908305644989,/transport/road-transport-emissions,4,Transport,0,0
+1119,a390a1eb-5bc6-4704-b3ac-0615ad957c3c,16,0.38576027750968933,/government/data-usage,4,Government,0,0
+403,0c46aba4-1986-4574-b957-734c6d104546,37,0.38568949699401855,/housing-local-and-community/owning-renting-property,3,"Housing, local and community",0,0
+857,f48188df-8130-4d36-98e0-e72125d016a2,11,0.38533735275268555,/entering-staying-uk/visas-immigration-corporate,2,Entering and staying in the UK,0,0
+111,29480b00-dc4d-49a0-b48c-25dda8569325,350,0.38515716791152954,/entering-staying-uk/visas-entry-clearance,2,Entering and staying in the UK,0,0
+368,d5236abc-dbf3-4d6a-bba6-e89aceb9264b,9,0.3850485384464264,/business-and-industry/digital-trade,3,Business and industry,0,0
+868,5bddffb2-a17e-4933-a3c5-50e90c7869b8,13,0.38432538509368896,/defence/defence-armed-forces-support-services-military-defence-personnel-families-housing-and-accommodation,3,Defence and armed forces,0,0
+407,999f9fbe-3c21-4c53-8801-2c20bb130d28,116,0.3842407763004303,/transport/making-roads-safer,4,Transport,0,0
+1020,7d0d99a7-ab3f-4581-a452-f04c2f598d2d,32,0.3841840624809265,/entering-staying-uk/rights-nationals-from-outside-eu-eea,3,Entering and staying in the UK,0,0
+230,ba3a9702-da22-487f-86c1-8334a730e559,316,0.38405483961105347,/entering-staying-uk,1,Entering and staying in the UK,0,0
+323,44bd4859-8bd7-4cae-b89d-a60b3444dc7c,14,0.38380876183509827,/education/school-buildings-and-land-transactions,4,"Education, training and skills",0,0
+497,27c5c52b-3b36-4119-b461-976197d929bf,69,0.3836354613304138,/education/running-a-further-or-higher-education-institution,3,"Education, training and skills",0,0
+663,974db797-6c7c-4c79-a92e-182dadb62362,50,0.38347625732421875,/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety,3,Health and social care,0,0
+539,906b4bbc-e7e4-416c-bd42-a50b7d5f9574,167,0.38345128297805786,/transport/low-emission-and-electric-vehicles,4,Transport,0,0
+332,6d3201e7-5222-4510-b952-706cbde0721c,101,0.38344213366508484,/education/academy-and-academy-trust-finance-and-reporting,3,"Education, training and skills",0,0
+458,64f089a8-e342-4a93-9a90-db999bb94719,40,0.38333991169929504,/entering-staying-uk/visit-and-transit-visas,3,Entering and staying in the UK,0,0
+394,d7bdaee2-8ea5-460e-b00d-6e9382eb6b61,47,0.38307151198387146,/government/brexit-guidance-for-uk-citizens,3,Government,0,0
+789,6d65a934-1129-4713-9c90-39b235cb1693,56,0.3826754093170166,/transport/parking,3,Transport,0,0
+726,7c4cf197-2dba-4a82-83e2-6c8bb332525c,40,0.382528692483902,/money/court-claims-debt-bankruptcy,2,Money,0,0
+136,89b2ca59-0a37-4576-b226-95bde1e9efc4,13,0.38222163915634155,/childcare-parenting/funding-and-finance-for-childcare-providers,4,"Parenting, childcare and children's services ",0,0
+616,6bf58181-7ebe-4599-8a93-281f9b7af810,45,0.3818245530128479,/life-circumstances/lasting-power-attorney,2,Life circumstances,0,0
+259,c31256e8-f328-462b-993f-dce50b7892e9,421,0.38179901242256165,/health-and-social-care/health-protection-infectious-diseases,3,Health and social care,0,0
+76,431a7fac-a2e8-4ffc-8fc7-bab10fc5e6d4,78,0.38176897168159485,/childcare-parenting/looked-after-children-children-in-care,3,"Parenting, childcare and children's services ",0,0
+814,709a17bc-9e62-4caf-9358-57367bace717,18,0.38153377175331116,/environment/oil-and-gas-exploration-and-production,3,Environment,0,0
+96,e8aba455-679f-4d85-a671-32e5a550211d,172,0.38140231370925903,/transport/fishing,3,Transport,0,0
+679,dbb52b1a-55ba-498c-9097-80787ee74e24,52,0.38118070363998413,/education/school-performance-measures,4,"Education, training and skills",0,0
+672,2ced42be-f650-47d6-809f-cba94a8eb50a,5,0.3811158239841461,/money/business-tax-gambling-duties-gaming-duty,4,Money,1,0
+514,8d48428d-c9e9-40f6-b133-34ed7cb6c1e2,152,0.3808860182762146,/transport/ports-harbours-and-offshore-installations,3,Transport,0,0
+798,73b7b256-23d8-49cb-a234-242c84f5198d,71,0.3806365430355072,/transport/spaceflight,4,Transport,0,0
+560,a34518fb-c418-45da-8551-888ca8bdedd6,58,0.3806155323982239,/money/paying-hmrc,3,Money,0,0
+220,b45bed95-7818-487f-89b3-31e9d8247273,59,0.3805384337902069,/business-and-industry/embargoes-and-sanctions,4,Business and industry,0,0
+300,17fb491a-15f3-4c71-8e25-f645ff8b3ed3,74,0.38036462664604187,/education/school-attendance-and-absence,3,"Education, training and skills",0,0
+60,cb4c8377-6fcb-4022-a7a1-98395eb50508,539,0.38021135330200195,/environment/water-industry,2,Environment,0,0
+702,49322f0a-04e1-4d08-9e18-e096cfa3301c,125,0.3801180422306061,/education/school-performance-tables-and-ofsted-reports,4,"Education, training and skills",0,0
+283,90b0d358-5399-4336-9a02-aaeceb810bbd,238,0.37945544719696045,/business/broadband-investment,3,Business and industry,0,0
+848,f34e6a61-d245-4dbb-824a-9cfdf0cda873,23,0.37901827692985535,/crime-justice-and-law/legal-aid-for-providers-electronic-working,3,"Crime, justice and law",0,0
+198,e16b62e0-9c54-4547-b8c0-7589d8af3906,47,0.37900975346565247,/education/funding-for-special-educational-needs-and-disability-send,3,"Education, training and skills",0,0
+200,40334e3b-8ce3-48d3-96bc-fec16b43da39,139,0.37855321168899536,/education/inspection-of-maintained-schools-and-academies,4,"Education, training and skills",0,0
+175,76fec242-7040-4499-8661-dd823f88fab3,307,0.3782719671726227,/housing-local-and-community/homebuying,3,"Housing, local and community",0,0
+151,4e213ab1-486c-4d80-ac11-2e15fef8976f,122,0.378262460231781,/health-and-social-care/health-and-social-care-integration,3,Health and social care,0,0
+1054,661ebdf1-5683-4f13-9671-50b89086fb4c,8,0.3782467246055603,/environment/environmental-management-chemicals-f-gases-and-hcfcs,3,Environment,0,0
+552,09e13bfe-83ee-4e89-acb8-a9f1971cdb04,198,0.37819409370422363,/housing-local-and-community/planning-reform,3,"Housing, local and community",0,0
+659,2b5a2c65-e176-466a-873e-712bef4f57f1,16,0.3781415820121765,/education/set-up-develop-multi-academy-trust,4,"Education, training and skills",0,0
+968,6949bbe9-60c0-4782-9cdf-873db42514d3,13,0.37801072001457214,/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations,3,Health and social care,0,0
+587,a7b67f4f-1234-4a0c-90ba-eeed4c5183cd,33,0.3778879940509796,/money/money-laundering-regulations,2,Money,0,0
+818,7f3e73e4-f20d-43be-9c80-021f2ac1897f,75,0.37787100672721863,/entering-staying-uk/settlement,3,Entering and staying in the UK,0,0
+1032,dfe808c3-6a58-4266-8f50-a93d931bfaaf,4,0.37774932384490967,/government/government-reform,2,Government,1,0
+932,72aed311-e76e-4b4e-88db-e14d8bedbee1,31,0.377748042345047,/education/careers-guidance-in-schools,3,"Education, training and skills",0,0
+646,c66d9ec0-0455-4cd2-9cc5-becb226206fb,69,0.37755531072616577,/health-and-social-care/end-of-life-care,2,Health and social care,0,0
+1215,7ed17bb3-42cd-432a-80fa-c4ee82ad4f2a,6,0.3770075738430023,/crime-justice-and-law/civil-justice-reform,2,"Crime, justice and law",0,0
+884,c75ff82f-37a9-4aae-bf8b-807e11d92c53,41,0.3769995868206024,/health-and-social-care/obesity,4,Health and social care,0,0
+791,cc195f93-4244-489a-97e9-22480113c770,78,0.37631163001060486,/money/national-insurance,3,Money,0,0
+693,70a8cd19-03f8-4b8a-80bd-b444f402bc9a,42,0.37626707553863525,/transport/maritime-security,3,Transport,0,0
+440,971bcb67-d0df-4c82-9635-7dda95fb4444,37,0.37595176696777344,/transport/eu-and-international-driving-rules,4,Transport,0,0
+1095,b7374969-dfdf-46eb-97f3-7772c011c10d,13,0.37583085894584656,/government/data,3,Government,0,0
+125,7983b980-1bb8-4707-9178-981c12ceb333,603,0.37576597929000854,/transport/major-roads,4,Transport,0,0
+362,cb73ab7b-1062-4ad7-b91c-0e228516b47e,6,0.37565621733665466,/government/technology-guidance-technology-guidance-managing-government-websites,3,Government,0,0
+476,6c8fe95f-1da0-48e0-a474-7e1f0239db80,28,0.3754606544971466,/transport/road-traffic,3,Transport,0,0
+461,df68fd4e-8e6f-4473-a24a-6033d65fb1d0,58,0.37539589405059814,/childcare-parenting/child-and-family-social-work,3,"Parenting, childcare and children's services ",0,0
+412,ca3c2e22-9ba0-4163-b4a6-7dbf355b9846,131,0.37508276104927063,/education/initial-teacher-training-itt,4,"Education, training and skills",0,0
+829,34615cb7-8da8-4ad4-b9f7-759fa4a7afea,46,0.3746580183506012,/money/climate-change-levy,3,Money,0,0
+159,13bba81c-b2b1-4b13-a3de-b24748977198,32,0.37463778257369995,/childcare-parenting/adoption,3,"Parenting, childcare and children's services ",0,0
+13,c0844541-84cf-4850-a532-7c84c97e2251,285,0.37462812662124634,/health-and-social-care/nhs-efficiency,3,Health and social care,0,0
+343,51b699cf-d4dc-488c-a87e-070560d37791,48,0.37450167536735535,/entering-staying-uk/student-visas,3,Entering and staying in the UK,0,0
+880,c2367fdf-a8ca-403f-950c-88ebc3879fec,8,0.3743972182273865,/government/content-publishing,4,Government,0,0
+585,36c7772d-f1ef-4506-a9af-be366bf49af4,59,0.37431421875953674,/employment/health-and-safety-reform,2,Work,0,0
+746,8c9eb069-4c80-4200-a661-99fece37c52e,19,0.3741086423397064,/transport/aviation-and-europe,3,Transport,0,0
+51,2c318ae7-511d-4fcb-8c19-7ff0e355b5a9,58,0.3740794062614441,/transport/aviation-passenger-experience,3,Transport,0,0
+169,81ddcd37-ea05-44b2-b61f-50c9c0c44cfe,146,0.3740692138671875,/transport/hs2-corporate,4,Transport,0,0
+325,a00f964e-f809-499f-9148-c00537437022,47,0.3739872872829437,/transport/psv-standards-and-checks,4,Transport,0,0
+752,251c887f-07b9-4e51-838d-18ac72a52b08,101,0.3736613988876343,/welfare/support-for-families,3,Welfare,0,0
+237,9ac356b8-b6cf-4eff-a6a8-208374f262e0,147,0.37339118123054504,/money/tax-avoidance,3,Money,0,0
+844,bfcc0fcc-1acb-44e0-8d87-1f2918448895,55,0.37333944439888,/business/company-law-reform,4,Business and industry,0,0
+531,b8e50b3d-f507-42e2-96d4-9bdfbd2068cb,116,0.37332651019096375,/transport/road-tolls-and-charges,3,Transport,0,0
+970,fb5b2e66-5b14-497b-b98b-a56b0adfcfd2,11,0.37297511100769043,/environment/environmental-management-wildlife-habitat-conservation-plants,4,Environment,0,0
+483,a7f3005b-a3cd-4060-a127-725accb54f2e,169,0.37261727452278137,/welfare/tax-credits,2,Welfare,0,0
+301,f08c20eb-2c28-41d9-96ef-1678425836cd,47,0.372610867023468,/education/school-discipline-and-exclusions,3,"Education, training and skills",0,0
+637,cd9cbe35-fa63-489e-8b53-20160a5033af,50,0.3719843029975891,/transport/vehicle-registration-log-books-and-number-plates,4,Transport,0,0
+589,4de9ea0e-0203-4d10-a449-45aa5a697514,215,0.3719087541103363,/health-and-social-care/health-emergency-planning,3,Health and social care,0,0
+976,9de4e981-1bce-4d9a-91ae-9fd8b3d41a8e,12,0.3715340793132782,/transport/driving-and-mobile-phones,4,Transport,0,0
+796,bdb7a7e0-c307-4514-a271-d7f76ee8364d,29,0.3715064823627472,/education/performance-data-and-ofsted-reports-of-further-education-providers,4,"Education, training and skills",0,0
+422,03cfc876-f08b-46e1-94eb-81e6e728b1b0,199,0.3713515102863312,/government/major-project-management,3,Government,0,0
+653,899d76d6-4d59-409e-a7a4-2a7e47c9361b,46,0.37121841311454773,/environment/climate-change-energy-energy-infrastructure,3,Environment,0,0
+678,00606228-4865-4210-a740-12e05149ff9a,58,0.37107980251312256,/defence/defence-armed-forces-support-services-military-defence-personnel-families-pensions-and-compensation,3,Defence and armed forces,0,0
+803,fd51d4f6-a8fa-4eaf-a46e-99c2e10053cb,7,0.37107032537460327,/money/dealing-with-hmrc-tax-compliance-disputes,4,Money,0,0
+547,76aa7090-5f26-40a1-8cb1-78a299b4a99a,66,0.3707423806190491,/environment/planning-development-protected-sites-species-land-species,4,Environment,0,0
+1064,6480296a-839a-4e1a-8234-71d1ce999ce9,15,0.37068453431129456,/environment/oil-spills,3,Environment,0,0
+157,e5054ebc-7d1e-4212-81d9-e84852e8ee58,26,0.3706347644329071,/transport/rail-network-and-the-environment,3,Transport,0,0
+148,51bbdf23-292a-4b74-8a66-f7db6b93b163,1123,0.3699352443218231,/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts-alerts-and-recalls,4,Health and social care,0,0
+695,c58fc0b0-50bd-4a5d-9e41-64230e191032,83,0.369783490896225,/education/school-leadership,4,"Education, training and skills",0,0
+418,42350cb9-f4ab-4e4c-abfb-b5662f3d14f4,62,0.3689916431903839,/health-and-social-care/health-improvement,3,Health and social care,0,0
+934,457ca0a6-6532-41a8-85a7-b063bf1db08b,26,0.36896446347236633,/childcare-parenting/childrens-centres-childminders-pre-schools-and-nurseries,4,"Parenting, childcare and children's services ",0,0
+558,d612c61e-22f4-4922-8bb2-b04b9202126e,57,0.368307888507843,/entering-staying-uk/family-visas,3,Entering and staying in the UK,0,0
+277,582b2a51-74a4-40a3-8b78-19b73d16540e,151,0.3682239055633545,/transport/car-motorcycle-and-van-mot-tests,5,Transport,0,0
+815,319687d0-5675-4b6b-a0eb-42a44787fdb8,17,0.3681395649909973,/environment/oil-and-gas-licensing,3,Environment,0,0
+39,99ad06b5-f5ff-4deb-b413-a5d3b0dc2010,152,0.3680306077003479,/transport/coastguard-search-and-rescue,3,Transport,0,0
+841,dad5f9c9-410f-4320-aa14-860ccba2273e,32,0.367933064699173,/housing-local-and-community/homelessness-rough-sleeping,3,"Housing, local and community",0,0
+137,e484667a-d31c-471e-9af5-74f6523d183d,1046,0.36769959330558777,/international/peace-stability-in-me-and-north-africa,3,International,0,0
+347,3894b4d1-bb7f-4c3d-a680-c904ccabd91e,260,0.3673960566520691,/government/sustainable-development,2,Government,0,0
+804,d7dd4470-019c-489b-8978-d06924d021c9,27,0.36731937527656555,/transport/drivers-hours,4,Transport,0,0
+358,9bb10f38-3fab-4c12-9b53-c8674e64a67f,10,0.36723217368125916,/education/european-social-fund-esf-and-skills-funding,4,"Education, training and skills",0,0
+568,3bb5f304-edcd-4e1e-98ce-67ad8149e5eb,16,0.36719027161598206,/government/voting,3,Government,0,0
+1227,8f7df72d-ecfe-45df-a5a1-52bd133aaf82,2,0.3670809864997864,/government/technology-guidance-technology-guidance-design-principles,4,Government,1,0
+766,ef3248d2-2145-4f87-b99a-589433c9b101,28,0.36676162481307983,/education/school-food-accommodation-transport-and-uniform,3,"Education, training and skills",0,0
+977,4a661fcb-955a-4a47-8b11-529f3df39f5c,12,0.3667573928833008,/transport/speeding,4,Transport,0,0
+882,e6e7bd19-e860-45e7-a7f4-b862cb96f3dc,26,0.36663922667503357,/transport/help-on-public-transport,3,Transport,0,0
+994,d2110172-5fff-4b7f-ba21-a317908e7bcf,11,0.3663342595100403,/money/dealing-with-hmrc-paying-hmrc-income-tax-and-national-insurance,4,Money,0,0
+402,651b2ef7-d5fb-4ebb-b6a9-521b3b766b01,107,0.3662455677986145,/education/teacher-pay-pensions-and-conditions,3,"Education, training and skills",0,0
+819,9ff134bb-d201-441d-a485-5fe8b65ad8a4,105,0.36618950963020325,/entering-staying-uk/visa-sponsorship,3,Entering and staying in the UK,0,0
+609,b1b5791e-acb0-4ee2-9343-a0998d381a04,15,0.3661516010761261,/housing-local-and-community/landlords,3,"Housing, local and community",0,0
+1003,31b40150-090b-44df-9555-da254ccd27e8,5,0.3661029040813446,/life-circumstances/births-deaths-marriages-marriage-divorce-help-and-support-if-you-have-children,3,Life circumstances,1,0
+1039,4842335f-2e17-4aa7-ade8-a9f7ca21072d,14,0.3652814030647278,/education/learning-records-service-lrs,3,"Education, training and skills",0,0
+689,df842d4d-e892-46fb-8d8a-eabc866baa0b,132,0.3652585446834564,/transport/driving-instructor-registration-and-renewals,4,Transport,0,0
+830,15492103-227c-47c4-bb98-0380458b81df,31,0.36516374349594116,/crime-justice-and-law/attorney-general-guidance-to-legal-profession,2,"Crime, justice and law",0,0
+816,fa71fba2-a3be-480c-b0a1-359132e67593,7,0.3651150166988373,/environment/oil-and-gas-onshore-oil-and-gas,3,Environment,0,0
+327,23265b25-7ec3-4960-8517-4ff8d4d92cac,73,0.3650587201118469,/education/funding-and-finance-for-students,2,"Education, training and skills",0,0
+772,4788b4b8-2642-47ca-bfc2-bd7e8705a1da,31,0.3649967908859253,/money/business-tax-vat-importing-goods-and-services,4,Money,0,0
+355,2eb09bb6-b069-4604-a55a-08e6cd46d257,182,0.3649235665798187,/health-and-social-care/research-and-innovation-in-health-and-social-care,2,Health and social care,0,0
+721,c8fec9a9-94e0-4d5e-b317-fc926d5e7b1c,29,0.3648768365383148,/housing-local-and-community/council-housing-association,3,"Housing, local and community",0,0
+750,afeebd0f-2494-421e-92b2-d91c3549c432,26,0.3648136854171753,/crime-justice-and-law/intellectual-property-law-practice-patents,3,"Crime, justice and law",0,0
+121,b14a6778-60a2-483a-924c-774d1040cbf4,80,0.3646009564399719,/environment/commercial-fishing-fisheries-and-vessels,2,Environment,0,0
+1076,b82fdbdb-275e-4d84-b17a-390061b6c309,36,0.3645944893360138,/education/early-years-funding,4,"Education, training and skills",0,0
+1118,f4f8cd96-0d45-49fe-8996-c82154b168ee,6,0.3644794225692749,/government/design-and-build-of-government-services,3,Government,0,0
+741,30e14182-efeb-40b8-820d-a320ec514dd4,33,0.36435413360595703,/society-and-culture/community-amateur-sports-clubs,3,Society and culture,0,0
+116,7b710bd4-796c-4b99-933e-1eeb596b27a8,726,0.3639809787273407,/housing-local-and-community/rented-housing-sector,3,"Housing, local and community",0,0
+54,e74af48a-a39f-4cfc-b735-cbb0c7f84c16,64,0.36341893672943115,/transport/tachographs,4,Transport,0,0
+785,0d74fa5d-e56e-4765-904e-2337fa46218e,12,0.3633577525615692,/society-and-culture/citizenship,2,Society and culture,0,0
+762,f517defa-2c7b-4923-8263-eabbcd66ba59,34,0.3631212115287781,/business-and-industry/running-charity-trustee-role-board,3,Business and industry,0,0
+592,d865075a-4130-4719-b56a-110673cf660a,13,0.3631178140640259,/environment/vessel-licensing,4,Environment,0,0
+851,a15cc825-5319-40a9-8396-0153920f8f0b,16,0.36280685663223267,/crime-justice-and-law/domestic-violence,2,"Crime, justice and law",0,0
+94,9206c81a-ab48-4325-b309-1a4e7471bd7e,21,0.36275580525398254,/education/further-education-financial-management-and-data-collection,3,"Education, training and skills",0,0
+388,08a8a69f-2825-4fe2-a4cf-c83458a5629e,99,0.3626413941383362,/entering-staying-uk/refugees-asylum-human-rights,2,Entering and staying in the UK,0,0
+754,a2542401-2043-4ad9-851b-ea886a67b1ff,50,0.36261817812919617,/entering-staying-uk/visa-refusals-appeals,3,Entering and staying in the UK,0,0
+471,b1163697-9b00-44cb-861b-101e541e2ce5,151,0.36227482557296753,/health-and-social-care/mental-health-service-reform,4,Health and social care,0,0
+466,9177c1ca-76ee-4cab-8aee-8b22efbe4c83,129,0.3618045449256897,/regional-and-local-government/northern-ireland-economy,3,Regional and local government,0,0
+573,237b2e72-c465-42fe-9293-8b6af21713c0,4,0.36172088980674744,/childcare-parenting/disagreements-about-parentage,3,"Parenting, childcare and children's services ",1,0
+64,4300d7e7-4b3d-4a67-a4a6-c58f6d6bcbfc,141,0.36167633533477783,/transport/rail-network,3,Transport,0,0
+1065,fd1ec2a5-b65a-4679-92a3-8f3f49c02008,5,0.36162909865379333,/business-and-industry/directorship-disqualification,4,Business and industry,1,0
+773,f6114d3f-c950-424b-8f91-7b437c2992bc,4,0.3613896369934082,/money/dealing-with-hmrc-tax-compliance-clearances-and-approvals,4,Money,1,0
+319,5c76ad4e-4b4d-4f72-a6ef-b277b31b98a1,108,0.3613312244415283,/transport/buses,3,Transport,0,0
+1048,35d3e1b5-5777-4cbb-b4c7-0a20f9d6d7e2,17,0.36125463247299194,/education/primary-curriculum-key-stage-2-english,4,"Education, training and skills",0,0
+1178,28e3bfa0-7148-4ab4-8bd9-a839e0563869,9,0.36103057861328125,/government/technology-guidance-technology-guidance-identity-assurance,4,Government,0,0
+652,714bc7d1-afb0-4e10-9558-268da5dbbbba,65,0.360798180103302,/education/pupil-premium-and-other-school-premiums,3,"Education, training and skills",0,0
+1013,701c759c-af71-4521-8ee4-6a9300aa1909,16,0.36073294281959534,/environment/environmental-management-land-management-commons-and-greens,4,Environment,0,0
+597,56b78356-c7bf-4460-8775-d04b590ec7ca,99,0.360581636428833,/education/hiring-and-training-an-apprentice,4,"Education, training and skills",0,0
+567,a44e9afd-6e09-4dcf-90a3-18e8e8708cb7,62,0.3603426218032837,/transport/vessel-cargo,3,Transport,0,0
+396,3b643153-c4ff-45aa-b923-0be70b083071,546,0.3602604568004608,/regional-and-local-government/local-government-spending,2,Regional and local government,0,0
+474,06e2928c-57b1-4b8d-a06e-3dde9ce63a6f,94,0.3602111041545868,/entering-staying-uk/rights-eu-eea-citizens,3,Entering and staying in the UK,0,0
+434,dd1e5961-65c9-495b-b5e9-06035a1bc9e6,79,0.35992902517318726,/education/funding-for-school-buildings-and-land,3,"Education, training and skills",0,0
+505,4dafe1f8-593c-47da-a3b5-577d96feeee4,30,0.3599134683609009,/education/school-places,4,"Education, training and skills",0,0
+723,0f92387b-f477-4592-85e6-0742f3fcf696,84,0.3598976731300354,/education/support-for-special-educational-needs-and-disability-send,3,"Education, training and skills",0,0
+420,a4822791-855a-4f14-877a-e199b5c58126,165,0.3596234619617462,/welfare/child-maintenance-reform,2,Welfare,0,0
+390,18c7918f-cde5-4e66-b5f4-cd15c33cc1cc,60,0.35844576358795166,/entering-staying-uk/travel-identity-documents-for-foreign-nationals,2,Entering and staying in the UK,0,0
+442,bcefe697-faa6-46e2-a64c-2d249a4bc1e8,18,0.35824859142303467,/transport/vehicle-insurance,4,Transport,0,0
+939,5b85ce16-9b5d-4626-ad27-0dc3c7f31c91,29,0.3581078350543976,/transport/taxi-and-private-hire-vehicle-licensing,5,Transport,0,0
+747,75ba781f-1bbb-4b11-89db-aad08e9a9259,13,0.3580470085144043,/business/environmental-management-water-drought-and-water-availability,3,Environment,0,0
+698,6f204e9a-a634-4942-8486-ecc841388f5c,44,0.3580438494682312,/education/school-buildings-and-land-guidelines,4,"Education, training and skills",0,0
+580,03fa6720-7d9e-4ecb-8afc-3b1f44c9e9f0,26,0.3578921854496002,/money/dealing-with-hmrc-software-development-software-development-support,4,Money,0,0
+179,ccfc50f5-e193-4dac-9d78-50b3a8bb24c5,199,0.35757169127464294,/business/finance-support,3,Business and industry,0,0
+618,4d4b14d5-be3a-4ac9-b755-59d6c951c09d,19,0.3574143052101135,/transport/towing,4,Transport,0,0
+1017,9ed56732-8600-493e-8467-295233529718,8,0.35739731788635254,/childcare-parenting/child-custody,3,"Parenting, childcare and children's services ",0,0
+756,7141c208-70d6-4858-aac2-f59ab52e8b38,38,0.35733523964881897,/transport/employment-of-seafarers,4,Transport,0,0
+1147,1fd4f85d-83f0-46ec-878c-019967490c58,17,0.3571532368659973,/money/stamp-duty-on-shares,3,Money,0,0
+511,93c140af-8bfd-410e-bc0a-a9be0f312ff9,15,0.35683533549308777,/environment/producing-distributing-food-dairy-milk-production,4,Environment,0,0
+109,0d76003d-76ba-4af5-a19e-31ab3f8ba689,93,0.35682639479637146,/education/phonics,4,"Education, training and skills",0,0
+992,3564cf4e-506c-42fa-bdd3-e95e7908645f,7,0.3567727208137512,/employment/business-tax-self-employed-self-assessment,3,Work,0,0
+348,8b68c537-c1ba-47b3-93f7-a2821af2d599,269,0.35657140612602234,/regional-and-local-government/council-tax-reform,4,Regional and local government,0,0
+454,9f5f3106-7145-4f30-a2d5-e3ac1b002289,73,0.3563590347766876,/transport/driving-and-motorcycle-tests,3,Transport,0,0
+794,edb96e44-aeb4-4c2a-817e-f93e8e0c4057,74,0.35633108019828796,/health-and-social-care/health-protection-services-laboratories-and-reference-facilities,3,Health and social care,0,0
+859,7d8a5648-852c-4d5c-9bd6-1e87a480f8cc,58,0.3563060462474823,/transport/blue-badges,3,Transport,0,0
+528,e5f07ff7-b491-4d9f-9106-92aa276ee728,29,0.3559928238391876,/environment/fishing-regulations-monitoring-enforcement,3,Environment,0,0
+107,00eb9a66-ca33-4515-b425-b01bffc43ff1,257,0.3559514582157135,/business-and-industry/free-trade,3,Business and industry,0,0
+885,8e89e8a8-4658-4d97-a8d8-012a87a1ce62,28,0.3553953468799591,/transport/driving-licences-and-medical-conditions,4,Transport,0,0
+114,f7071a5c-d6dc-4f2e-b83d-83414ae15536,151,0.35523954033851624,/transport/maritime-safety,3,Transport,0,0
+1002,645d4bd6-84a2-49e0-bc38-f0d5459f583e,15,0.35516244173049927,/health-and-social-care/antimicrobial-resistance,3,Health and social care,0,0
+938,e92e4670-aa56-4404-9120-44500f160c41,8,0.355141282081604,/education/help-with-school-costs,3,"Education, training and skills",0,0
+536,a99fc39c-997a-4b1a-9e6d-8cf63a3100be,39,0.35480207204818726,/employment/workplace-personal-pensions,3,Work,0,0
+569,bcb4bdf3-5807-4421-a427-7dfe78d5f6d5,40,0.35479724407196045,/education/local-authority-schools-financial-reporting-and-assurance,3,"Education, training and skills",0,0
+202,1f0d0dcf-a5c0-4116-9ece-b7d7d46b3e3e,59,0.3546432554721832,/environment/boats-waterways,3,Environment,0,0
+263,e699a773-e089-4167-9e92-2c5096b720f5,219,0.35438403487205505,/business/local-enterprise-partnerships-leps-and-enterprise-zones,4,Business and industry,0,0
+156,ef01a97b-fe09-40bb-87af-d6b38a86195c,272,0.3542097806930542,/transport/rail-infrastructure,3,Transport,0,0
+758,a0774926-fa64-4ecf-84aa-1341b638933a,113,0.353989839553833,/health-and-social-care/dementia,4,Health and social care,0,0
+1106,e122c1bf-6b8a-4145-975c-31612a3f344c,18,0.3539004921913147,/government/technology-guidance-technology-guidance-open-standards,4,Government,0,0
+872,e486f44b-2af1-4bc2-ba5a-418f0a771413,25,0.35346248745918274,/housing-local-and-community/planning-permission,3,"Housing, local and community",0,0
+877,b422afa3-8349-4bb8-a36a-81d63a19507e,26,0.3530525267124176,/education/alternative-provision-and-pupil-referral-units,3,"Education, training and skills",0,0
+510,0398a361-7c0d-49dd-beb3-4e405571f627,59,0.3529285490512848,/transport/hs2,3,Transport,0,0
+336,27af9b0f-9ddf-47e2-9103-2f6f72d9ddf7,214,0.35289227962493896,/education/further-education-funding,3,"Education, training and skills",0,0
+636,e957194d-ba66-4bca-a8e6-2959e00fe89c,32,0.35280880331993103,/money/employment-related-securities,3,Money,0,0
+315,c0e3093c-fd53-4129-ac76-a869b1bb8c21,16,0.35276806354522705,/housing-local-and-community/land-development-opportunities,3,"Housing, local and community",0,0
+429,e2b37c87-3af0-45d7-8a39-6f15fa70408b,31,0.35242709517478943,/education/further-education-provider-performance-measures,4,"Education, training and skills",0,0
+554,81186333-f811-4983-b882-903bc7d32a3e,29,0.35241663455963135,/business/consumer-credit-market,4,Business and industry,0,0
+5,357110bb-cbc5-4708-9711-1b26e6c63e86,24155,0.35237613320350647,/crime-justice-and-law/courts-sentencing-tribunals,2,"Crime, justice and law",0,0
+1008,88c55513-b473-4627-a856-6ae95b6b4e08,13,0.3523413836956024,/health-and-social-care/technology-in-health-and-social-care,2,Health and social care,0,0
+1068,a8bffaae-5c8c-439f-92f0-c9fbf32ce1d9,6,0.35229936242103577,/education/starting-and-attending-school,2,"Education, training and skills",0,0
+954,a44b1c68-807c-45fe-bc7b-a47586617863,6,0.3511016070842743,/childcare-parenting/financial-help-if-you-have-children,2,"Parenting, childcare and children's services ",0,0
+820,1d9ac892-220f-4a21-89fa-e1a0e1f512ef,27,0.3508029878139496,/transport/driver-and-vehicle-record,4,Transport,0,0
+161,6391a4bc-6109-4da4-b311-f78954334969,14,0.3507564961910248,/childcare-parenting/financial-support-for-childcare,3,"Parenting, childcare and children's services ",0,0
+8,90e8a226-8d40-4c1f-91e4-36a712b34e57,235,0.35040000081062317,/education/school-and-academy-funding,2,"Education, training and skills",0,0
+371,3d9346ff-57d9-49db-bc49-f42e2101ca79,13,0.35037294030189514,/business-and-industry/outward-investment,3,Business and industry,0,0
+217,c7b6e458-8f7f-4ad0-a12c-c3bfdfe322b7,315,0.3502078652381897,/transport/motorways,4,Transport,0,0
+776,904cfd73-2707-47b8-8754-5765ec5a5b68,69,0.3501928448677063,/education/primary-curriculum-key-stage-1,3,"Education, training and skills",0,0
+821,783cf728-cd63-47ce-aa63-b466b2ea3982,9,0.3500785827636719,/crime-justice-and-law/forced-marriage,2,"Crime, justice and law",0,0
+264,25511b5f-2799-4141-9444-d08e9ebc0a8a,263,0.34948062896728516,/transport/road-improvement-and-investment,3,Transport,0,0
+828,6fe00099-9771-4889-8638-c7f4247a168c,21,0.3494269549846649,/education/primary-curriculum-key-stage-2-maths,4,"Education, training and skills",0,0
+895,0c5fc8b5-bf51-4a9b-abc3-512d78d719cb,31,0.34929484128952026,/transport/vehicle-import-and-export,4,Transport,0,0
+724,ff0e8e1f-4dea-42ff-b1d5-f1ae37807af2,33,0.34890177845954895,/education/becoming-an-apprentice,4,"Education, training and skills",0,0
+1031,e43d1806-a61e-4c22-9c37-4321f513bf81,5,0.3484230041503906,/environment/environmental-management-marine-harbours,3,Environment,1,0
+802,b67afac3-0bfc-4e44-9893-951be4d05e4c,32,0.34805411100387573,/education/safeguarding-pupils,3,"Education, training and skills",0,0
+1103,68607356-927a-4d99-a4da-cd21c6c34204,8,0.3478076457977295,/environment/producing-distributing-food-egg-production-marketing,4,Environment,0,0
+1055,492484cf-41a2-4297-bad3-95e643198cfe,10,0.3477877080440521,/crime-justice-and-law/legal-aid-for-providers-high-cost-complex-cases,3,"Crime, justice and law",0,0
+875,75d02e8b-e382-4d0a-933b-bcae70a577dd,35,0.3474850654602051,/employment/state-pension-age,3,Work,0,0
+700,7348fafc-bb80-4143-a55c-04238e04f377,38,0.3474375009536743,/defence/defence-armed-forces-ministry-of-defence-estate-public-access,3,Defence and armed forces,0,0
+933,39e60ce9-5b21-49e9-919f-2cf3ffa4b075,35,0.34742555022239685,/childcare-parenting/becoming-a-childcare-provider,4,"Parenting, childcare and children's services ",0,0
+1018,d7297215-a71a-4cd2-8e54-8405ed040901,16,0.34737592935562134,/regional-and-local-government/finance-capital-assets,3,Regional and local government,0,0
+836,65c540b3-0b1d-424e-8869-4f23a254235d,13,0.3473486304283142,/health-and-social-care/disabilities-carers,3,Health and social care,0,0
+858,64d18c5f-9038-4b90-a10f-30e3c94f5657,16,0.34734290838241577,/education/funding-for-school-places,3,"Education, training and skills",0,0
+480,c796b28c-d129-4037-9fee-e89e3a22d0a6,91,0.34713971614837646,/employment/state-pension-simplification,3,Work,0,0
+502,f431414e-ff30-42ba-812b-a4df1d68a0b4,39,0.3469218611717224,/business/management-of-the-european-regional-development-fund,4,Business and industry,0,0
+210,23941096-abfd-4997-8111-646a7c5e9813,212,0.34687158465385437,/transport/airport-capacity-and-expansion,3,Transport,0,0
+1123,c7111466-d961-466f-adce-eccbda93b7d8,7,0.34684038162231445,/environment/keeping-farmed-animals-pig-identity-registration-movements,4,Environment,0,0
+66,1a26ae19-00f2-4be1-b9b6-aa72876a0278,127,0.3468199074268341,/education/school-and-academy-financial-management-and-assurance,2,"Education, training and skills",0,0
+165,030d7e01-c82a-4e28-afe4-176409807028,111,0.34678295254707336,/transport/local-transport-funding,3,Transport,0,0
+1212,7e51374b-a3c4-45a4-bf8e-e6b5bc31ae8b,8,0.34674954414367676,/money/personal-tax-savings-investment-tax-guidance-for-financial-institutions,4,Money,0,0
+88,8969ecd4-15d2-4066-8ca2-7f72fa4cde61,17,0.34673529863357544,/environment/planning-development-protected-sites-species-marine-sites-and-species,4,Environment,0,0
+1203,f5babf0a-9e91-4a70-97fb-7e4ffaee33a0,9,0.34671056270599365,/education/primary-curriculum-key-stage-2-science,4,"Education, training and skills",0,0
+1107,34dfe08a-a416-4052-9952-4266ffb08dba,2,0.34663012623786926,/government/apis-and-app-development,3,Government,1,0
+262,a2b7ae2a-4e00-47ef-8d13-77e395cce800,264,0.34645766019821167,/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector,3,Business and industry,0,0
+728,1127bf21-8774-4c58-9ac7-0906b96cfb59,83,0.3464038372039795,/transport/vehicle-manufacturing-and-modification,4,Transport,0,0
+501,425efa13-b989-4058-847b-c40985767792,145,0.3462269604206085,/health-and-social-care/compassionate-care-in-the-nhs,3,Health and social care,0,0
+651,ce8f2272-2a01-4c0c-850e-b824f5fe823d,28,0.3461419343948364,/education/functional-skills,4,"Education, training and skills",0,0
+964,68068ced-fa8c-4fb5-80b5-9b1543f3bb8c,15,0.3459298014640808,/environment/keeping-farmed-animals-sheep-identity-registration,4,Environment,0,0
+812,f40a63ce-ac0c-4102-84d1-f1835cb7daac,36,0.34575048089027405,/childcare-parenting/fostering,3,"Parenting, childcare and children's services ",0,0
+138,a930add5-b2d8-406b-8368-80b961766f0d,101,0.34573590755462646,/transport/road-accidents-and-serious-accidents,4,Transport,0,0
+469,70487388-9db0-465b-a53c-fd96c6aedb0b,47,0.34542927145957947,/money/investment-schemes,3,Money,0,0
+971,85e30de3-a8e4-4b44-a904-dfeaaa697ff1,8,0.3453727960586548,/crime-justice-and-law/legal-aid-for-providers-payments-processing,3,"Crime, justice and law",0,0
+21,f37542ca-a728-42dc-aaa2-801b03daba33,242,0.3453620970249176,/transport/road-works-and-streetworks,3,Transport,0,0
+599,ccb40a29-34ca-4a4c-b4ea-a78279047774,64,0.34500476717948914,/entering-staying-uk/visa-applications,3,Entering and staying in the UK,0,0
+559,f41ababe-749f-4524-b8e9-845ad5d3e632,82,0.34485429525375366,/transport/maritime-navigation,3,Transport,0,0
+370,35e19b12-3e76-48c7-8b39-4214c28a1a2a,47,0.34460052847862244,/business-and-industry/inward-investment,3,Business and industry,0,0
+526,b508d8eb-de70-4e08-b7d9-9e4a9f5bedae,17,0.3442893326282501,/childcare-parenting/Early-years-curriculum-0-to-5,4,"Parenting, childcare and children's services ",0,0
+1016,124256da-af20-4eb4-ae5b-28894c56dee0,8,0.3440430462360382,/defence/defence-armed-forces-military-awards-commemorations-honours-and-awards,3,Defence and armed forces,0,0
+729,8af13fba-d969-4d87-a02e-2e71783d47be,22,0.3439491093158722,/money/business-tax-vat-exporting-goods-and-services,4,Money,0,0
+503,7511030e-3c79-44ee-a1c3-1627a6ec0570,190,0.34394267201423645,/government/job-roles-and-talent-acquisition,4,Government,0,0
+985,576e8b97-1a70-40b1-994c-3062e23057e7,58,0.34314262866973877,/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests,4,Transport,0,0
+304,b376d700-3928-4540-b216-683dd39fb75c,29,0.34299007058143616,/education/school-bullying,3,"Education, training and skills",0,0
+925,45c29c6b-1bc4-4b3b-af9d-0d05e019269d,17,0.3428382873535156,/defence/nuclear-disarmament,2,Defence and armed forces,0,0
+720,bd191af7-cb8b-47d5-bcd5-82e7f95fe96d,91,0.34277790784835815,/transport/rail-franchise-procurement,4,Transport,0,0
+1071,ed77b584-f8b0-4e9e-9027-ed3aadd9feac,8,0.34276872873306274,/childcare-parenting/incidents-concerns-feedback-about-childrens-social-care-providers,5,"Parenting, childcare and children's services ",0,0
+1181,f98caaaa-cfc5-452e-a8e5-1a27efcdeffa,6,0.34270691871643066,/government/technology-guidance-technology-guidance-risk-management,4,Government,0,0
+173,e796e3fb-35ac-420c-bd1b-964eec7d06a6,278,0.3426972031593323,/environment/water-and-sewerage-services,3,Environment,0,0
+481,93aa62fb-0969-41c6-894a-96bbcf2612d5,201,0.3426670432090759,/employment/automatic-enrolment-in-workplace-pensions,3,Work,0,0
+556,af89d06d-db1c-4a37-a8df-63d1e308c183,335,0.34252941608428955,/education/key-stage-3-and-4-exam-marking-qualifications-and-results,4,"Education, training and skills",0,0
+1126,02fdbc1c-89ff-493c-a150-2a2b5e40cc5d,8,0.34244170784950256,/money/leaving-uk,3,Money,0,0
+887,b19e0be5-22a3-4d79-b693-e42d7f3a608f,106,0.34197285771369934,/health-and-social-care/health-protection-services-research-testing-and-standards,3,Health and social care,0,0
+822,d5e38302-6bb2-4b49-a99e-1ffab30e1e1e,21,0.3415795862674713,/education/financial-management-for-further-education-providers,4,"Education, training and skills",0,0
+982,261d0114-fe5c-4dcc-b38a-7983bfc19499,13,0.3413386642932892,/money/shared-workspace,3,Money,0,0
+881,332f8cd6-5d79-41dd-b6a6-b09ac071b768,17,0.3411058783531189,/transport/bus-accessibility,4,Transport,0,0
+240,c6a19bb4-1264-4abe-9f1c-6c30f8dea5f7,681,0.34105029702186584,/transport/rail-accidents-and-serious-incidents,3,Transport,0,0
+1113,200ed049-9820-436f-ae39-a50061243d1a,12,0.34080708026885986,/education/dealing-with-problems-at-school,3,"Education, training and skills",0,0
+384,9ede3dd9-b3ea-4b35-bf51-dbd5ddc11d23,72,0.34024715423583984,/regional-and-local-government/welsh-devolution,3,Regional and local government,0,0
+1196,2b9e8702-50e3-48fc-9f70-60ebd96e39c8,9,0.3396748900413513,/environment/environmental-management-environmental-risk-management-contaminated-land,4,Environment,0,0
+778,568b53ae-bfb3-4e8b-8f02-cf333af97edd,50,0.339263916015625,/government/postal-service-reform,3,Government,0,0
+952,8f5feade-aa1e-476b-8acc-84103b24d51e,7,0.3391737639904022,/money/dealing-with-hmrc-tax-compliance-compliance-checks,4,Money,0,0
+604,86aaefa2-52db-4d8d-911d-5fff034ed035,22,0.33895379304885864,/education/student-performance-in-further-education,4,"Education, training and skills",0,0
+630,04902d6e-5ac7-491b-9c4b-27b8277485e8,5,0.33875373005867004,/money/dealing-with-hmrc-tax-compliance-international-agreements-and-fatca,4,Money,1,0
+1166,ec824038-05c2-4ba1-83ec-b7947fd8fdc6,7,0.3385443389415741,/government/technology-guidance-technology-guidance-email,4,Government,0,0
+850,07299ca5-bc4d-48dd-a3f1-edd3b170bb4a,46,0.3379278779029846,/education/early-years-curriculum,3,"Education, training and skills",0,0
+6,09e40fac-beaa-4ca9-b84e-db3bbf2c9536,253,0.33780843019485474,/education/key-stage-5-exam-marking-qualifications-and-results,4,"Education, training and skills",0,0
+614,df0bf539-3c18-48d2-ac72-8d811369c9ae,88,0.3377109169960022,/transport/hs2-legislation,4,Transport,0,0
+1125,5118a02f-4c09-41ca-a9fe-78e07c196c12,5,0.33720120787620544,/money/dealing-with-hmrc-paying-hmrc-pension-schemes,4,Money,1,0
+213,1ddd7a85-6c64-4b1e-9e54-55b50a0ae3f3,210,0.33695879578590393,/education/primary-curriculum-key-stage-1-tests-and-assessments,4,"Education, training and skills",0,0
+535,d1e5dcf5-5f36-4838-bcb6-f0068eddb8a7,45,0.3366129696369171,/transport/buying-selling-registering-and-scrapping-a-vehicle,4,Transport,0,0
+276,58244357-ef02-4431-907c-415d65de8e76,60,0.3365003764629364,/transport/maritime-and-the-environment,3,Transport,0,0
+214,bf9ba557-b3d8-4c4e-8e39-0d09466808b4,268,0.3361446261405945,/education/primary-curriculum-key-stage-2-tests-and-assessments,4,"Education, training and skills",0,0
+620,efb5d1e8-5dd8-4b6f-9b9a-de8b098e8046,37,0.3361002504825592,/government/technology-guidance-technology-guidance-digital-marketplace,4,Government,0,0
+414,87d0bee6-dcc0-4cc1-bc5e-f033f0ab620b,152,0.3360954523086548,/transport/traffic-signs-signals-and-markings,3,Transport,0,0
+1011,6426d1c5-93c8-4659-85d5-1f0d3368a124,17,0.33552050590515137,/education/education-in-prisons,3,"Education, training and skills",0,0
+1026,9104dfd2-4da9-4309-98dc-dc54f7d8d2db,14,0.3351643979549408,/education/primary-curriculum-key-stage-1-maths,4,"Education, training and skills",0,0
+379,cf1a5c02-ed35-48f3-9e17-c702cc23ea92,220,0.3340453803539276,/education/gcse-changes-and-reforms,4,"Education, training and skills",0,0
+162,44509d44-824f-40a2-babe-6388b6136b7b,33,0.33401715755462646,/childcare-parenting/support-for-children-with-send,3,"Parenting, childcare and children's services ",0,0
+1162,45365268-7f50-4fb8-a651-6fb64ca42ca1,11,0.3336314260959625,/money/foreign-entertainer-rules,3,Money,0,0
+916,50904cbc-3cde-4a3b-92ba-b75117671574,27,0.3335883915424347,/childcare-parenting/childrens-homes-and-other-accommodation,4,"Parenting, childcare and children's services ",0,0
+801,09a7fc9f-c9d8-45fe-8066-1bf7a6dd4a22,43,0.3331342935562134,/education/school-to-school-support,3,"Education, training and skills",0,0
+329,43fcdde6-59c5-487f-a969-a046b334cbec,49,0.3324892222881317,/childcare-parenting/youth-employment-and-social-issues,2,"Parenting, childcare and children's services ",0,0
+543,26b71ec6-c395-4e24-b456-9490cb38d74b,35,0.3324652314186096,/education/free-school-meals-fsm-funding,3,"Education, training and skills",0,0
+958,46b7fa4a-0282-48e7-ad7c-92929510ae15,16,0.33227238059043884,/housing-local-and-community/environmental-planning,3,"Housing, local and community",0,0
+273,1c36710f-d41d-4bd8-ae19-6c69d9230307,348,0.3317038118839264,/transport/hs2-phase-one,4,Transport,0,0
+904,98d9143e-174f-4a72-9a9d-5c8eef101cb6,15,0.33144766092300415,/education/further-education-building-and-premises,4,"Education, training and skills",0,0
+129,8ad140ec-4784-483b-82a1-326f91bd29ff,31,0.33141472935676575,/health-and-social-care/population-screening-programmes-sickle-cell-thalassaemia,3,Health and social care,0,0
+913,71e4a0c3-41fc-43e4-9f4c-e3702a34d227,28,0.33135145902633667,/transport/air-routes,3,Transport,0,0
+551,acd7834d-1a21-4ea7-a208-bec78ec941d8,74,0.33127737045288086,/education/academy-funding,4,"Education, training and skills",0,0
+677,c69bef42-a59e-419c-ba8f-9e53a3b46018,45,0.33125734329223633,/transport/rail-freight,3,Transport,0,0
+631,e08f3bc0-8522-4104-b90f-e21db4af56fb,82,0.3311482071876526,/transport/maritime-surveying,3,Transport,0,0
+89,bf3906da-359c-4366-9e1b-2e5b5334167e,257,0.3311436176300049,/money/pension-scheme-administration,3,Money,0,0
+744,dcdfd0c3-d669-49d8-b6ce-3c09842d481f,63,0.3309995234012604,/transport/driving-motorcycle-and-lgv-instructor-qualification-process,4,Transport,0,0
+468,c7db172f-74d0-4224-9868-2dfa3110411d,182,0.3309200406074524,/regional-and-local-government/scottish-constitution,3,Regional and local government,0,0
+253,db5233ee-216a-4969-909a-147719a27af0,61,0.3308779299259186,/transport/hs2-construction-and-engineering,4,Transport,0,0
+1101,70505387-138c-431c-a82d-94ff81f97e18,24,0.3308451473712921,/crime-justice-and-law/sentencing-reform,2,"Crime, justice and law",0,0
+261,374b4837-cf2a-4529-a7f1-559d92b3d90d,44,0.33081647753715515,/employment/payroll,2,Work,0,0
+748,d42da535-63de-4c5f-85fe-db2b3aff9f48,17,0.33063805103302,/money/business-tax-alcohol-duties-payments-and-reliefs,4,Money,0,0
+150,107b4fd7-fef4-4a86-9796-2967c95f3f3c,27,0.3305340111255646,/regional-and-local-government/local-government-council-tax,3,Regional and local government,0,0
+1027,91e476e9-e1df-4c81-acd1-c86c5bf9898d,5,0.3304992616176605,/money/ir35,3,Money,1,0
+710,76af3d10-f1ff-4129-aad9-7c69edf7bb60,33,0.32993119955062866,/regional-and-local-government/local-government-business-rates,3,Regional and local government,0,0
+876,8e9e3f2c-45c3-4b8b-84b9-a16af77636f3,16,0.3298555016517639,/transport/driving-licence-categories,4,Transport,0,0
+972,d77fe1b6-b609-4498-a321-94a41857019a,10,0.32947027683258057,/education/financial-management-reporting-and-assurances-for-16-to-19-year-olds-funding,3,"Education, training and skills",0,0
+793,538c61de-1de6-4fc3-8e72-a06de44e1b04,10,0.3292655050754547,/education/local-authority-further-education-financial-reporting-and-assurance,4,"Education, training and skills",0,0
+337,532905a6-84fe-42cc-8c83-77750f0baa3d,73,0.3289174735546112,/society-and-culture/recreation,3,Society and culture,0,0
+404,733034e3-37a8-4a2e-9c6b-cf4508eeade0,11,0.3285849094390869,/housing-local-and-community/repossessions-evictions,3,"Housing, local and community",0,0
+991,dd238797-cc99-4144-ad8c-e6d16f8e2176,12,0.3285101056098938,/transport/surface-access-to-airports,3,Transport,0,0
+381,2c62f8f9-7fec-4623-a6ff-a7ecf3057051,108,0.32809978723526,/transport/bus-operators,4,Transport,0,0
+813,d3df7728-db52-411f-afd2-44dbd09f553b,28,0.32802462577819824,/entering-staying-uk/visa-application-centres,3,Entering and staying in the UK,0,0
+1041,6720acc7-14c8-42ba-890c-dfe97db4249d,16,0.3277575969696045,/money/business-tax-paye-expenses-and-benefits,4,Money,0,0
+973,d6ecea97-16a9-485b-ad56-fa9c2dc75df7,11,0.3275648355484009,/childcare-parenting/childrens-homes-other-residential-care-inspections,5,"Parenting, childcare and children's services ",0,0
+1108,ef9e3404-3771-4077-8f76-ad20b8d27bd5,21,0.32742932438850403,/transport/air-navigation,3,Transport,0,0
+1001,f9581ec6-e4d2-4a68-b187-b364d3f90e76,44,0.32740336656570435,/transport/seafarer-management-training-and-certification,3,Transport,0,0
+415,af28c09d-4c29-4534-8755-fc4ec2a35f1a,12,0.3273638188838959,/education/hiring-and-training-and-intern-or-trainee,4,"Education, training and skills",0,0
+612,a3144050-6bb6-4174-847c-671f69ea1e7f,12,0.32735809683799744,/environment/environmental-management-wildlife-habitat-conservation-reptiles-and-amphibians,4,Environment,0,0
+608,2682bef9-0963-43e3-8610-30b31ec1c4d0,33,0.3270524740219116,/education/apprenticeships-funding,4,"Education, training and skills",0,0
+479,98f4b5d8-48cf-4a60-a395-7cba32a09325,164,0.32680556178092957,/transport/hs2-stakeholder-and-community-engagement,4,Transport,0,0
+453,087ef463-b802-49c8-a107-b99b5bc725d5,148,0.32655850052833557,/transport/theory-tests,4,Transport,0,0
+516,3d796637-9c22-4b65-a24f-a01a31586fbb,63,0.3261406719684601,/health-and-social-care/population-screening-programmes,2,Health and social care,0,0
+163,862ff370-cde8-47b7-83b7-a878f579e2aa,13,0.32579442858695984,/transport/mobility-scooters-and-wheelchairs,3,Transport,0,0
+1179,23d93175-0074-4270-a003-ada97b619646,4,0.3257646858692169,/government/technology-guidance-technology-guidance-passwords,4,Government,1,0
+1176,926408e1-1d54-493c-a458-9907eb3743da,4,0.3257646858692169,/government/technology-guidance-technology-guidance-digital-service-security,4,Government,1,0
+527,b52d05ab-bc36-4a68-9bbf-63417788af3c,62,0.32553017139434814,/childcare-parenting/performance-and-inspection-of-childcare-providers,4,"Parenting, childcare and children's services ",0,0
+1130,c9a4751f-875b-4a22-aa6d-dbc4c5b39186,16,0.3248187303543091,/education/adult-education-funding,4,"Education, training and skills",0,0
+15,3cf97f69-84de-41ae-bc7b-7e2cc238fa58,6444,0.3246411383152008,/environment,1,Environment,0,0
+826,98a946dc-adf6-4b24-a25b-9210b632680b,4,0.3243180513381958,/money/business-tax-aggregates-levy-payments-and-reliefs,4,Money,1,0
+113,42e6e5c3-3a06-4a6f-abd4-a4b85d9c6b16,780,0.3242894113063812,/education/running-and-managing-a-school,2,"Education, training and skills",0,0
+340,c2f971d6-e0b4-4b00-87a4-074d6c96b2c9,48,0.32323920726776123,/education/data-collection-and-censuses-for-schools,3,"Education, training and skills",0,0
+324,662d14a1-3757-40d5-8c8b-071d7ca97149,75,0.3230668604373932,/health-and-social-care/health-protection-chemical-and-environmental-hazards,3,Health and social care,0,0
+473,2170a0e2-603e-4385-b929-4b17b9ecc343,49,0.3229793906211853,/entering-staying-uk/Foreign-nationals-working-in-UK,3,Entering and staying in the UK,0,0
+584,2a101a76-32c5-4781-8cec-85e65a95c041,48,0.3221921920776367,/environment/marine-planning,3,Environment,0,0
+683,735f4865-8b48-4ea8-99c2-94f121839367,77,0.32184886932373047,/defence/stability-in-the-western-balkans,2,Defence and armed forces,0,0
+160,1bd8be6f-fe5b-4b0b-a780-db1d873951b4,11,0.3217131197452545,/childcare-parenting/working-time-off-when-having-a-baby,3,"Parenting, childcare and children's services ",0,0
+334,7fd6fd0f-92d7-4f3c-ad03-97d12220552e,75,0.32157638669013977,/transport/rolling-stock-passenger-trains,3,Transport,0,0
+79,7a5e878e-2b0f-4c3f-9079-586590a1a194,1119,0.3215160071849823,/transport/maritime-accidents-and-serious-incidents,3,Transport,0,0
+596,c8250d67-1e19-440c-9198-37221364d4fa,14,0.32147088646888733,/transport/bus-passenger-experience,4,Transport,0,0
+243,c428fe9a-2726-4630-8d4e-fc656236cf20,163,0.3214482367038727,/transport/hs2-phase-2a,5,Transport,0,0
+513,86db0cbd-a1f9-4218-b571-ca0550265e33,159,0.32082900404930115,/transport/ship-crew-health-and-safety,4,Transport,0,0
+1061,943981a6-2737-4fa7-abab-465d8ee04ed1,4,0.32069283723831177,/money/large-midsize-business,3,Money,1,0
+807,f37dc367-079f-414a-8afe-6953582f62b6,89,0.32063859701156616,/transport/motorcycle-and-moped-tests,4,Transport,0,0
+943,cdff65df-d830-4337-9450-d5f1888e0361,5,0.3205321431159973,/regional-and-local-government/local-government-business-rates-relief-refunds-and-rebates,4,Regional and local government,1,0
+855,3a6a6a84-cef8-4013-9fc2-0ed2f80f3e20,15,0.3205101788043976,/money/complaints-appeals,3,Money,0,0
+1153,0abc0956-a322-43d6-ab44-884d8210767c,3,0.32041746377944946,/environment/environmental-management-land-management-hedgerows,4,Environment,1,0
+546,5c9372ef-8cac-4c41-b95b-6117ea052b78,75,0.320121169090271,/education/student-loans-bursaries-and-sponsorship,3,"Education, training and skills",0,0
+399,d14d4855-b62a-4a5b-893f-f5d421838f85,19,0.31992799043655396,/environment/parks-trails-nature-reserves,4,Environment,0,0
+1040,2dae523e-478e-4f67-af29-8e96efcbf562,6,0.3198782503604889,/environment/farming-food-grants-payments-rural-grants-payments-common-agricultural-policy-cap-reform,5,Environment,0,0
+650,26aac667-6c29-4570-ad74-33f8e2e72a18,32,0.31977665424346924,/environment/oil-and-gas-finance-and-taxation,3,Environment,0,0
+532,c71f6a1e-2bcd-407e-b0da-6728cb55e4db,24,0.31975752115249634,/transport/driving-licences,3,Transport,0,0
+613,4601a835-042a-4e96-afcc-fbf6a40bb9c6,117,0.31967970728874207,/transport/safe-and-compliant-operation-of-vessels,4,Transport,0,0
+238,8ff8cf05-a6e6-4757-a896-4fabd9f3229a,593,0.31942814588546753,/defence/working-armed-forces,2,Defence and armed forces,0,0
+919,091e8308-ff3c-4c11-89bb-ac4b1d35d246,5,0.31872814893722534,/environment/harbour-orders,3,Environment,1,0
+154,e190334d-ba97-4f70-b74e-acc9f43bf66b,93,0.31831681728363037,/entering-staying-uk/immigration-detention,3,Entering and staying in the UK,0,0
+506,91486f5f-37b0-401a-8e16-22be5dd1a6e9,255,0.31823205947875977,/housing-local-and-community/building-regulation,3,"Housing, local and community",0,0
+965,b80b4aeb-3868-483b-a0f5-9ea8feb1cc47,35,0.31821155548095703,/transport/improvements-to-buses,4,Transport,0,0
+37,48884dec-6f44-43b2-ae45-9392ff604959,65,0.31766605377197266,/housing-local-and-community/land-registration-data,3,"Housing, local and community",0,0
+908,fbe2ce17-9ee6-4dcb-a523-ae5383d2cf4c,8,0.31737470626831055,/childcare-parenting/refugee-runaway-and-homeless-children,4,"Parenting, childcare and children's services ",0,0
+993,426bf4a1-865b-4e4a-81ef-b2abeab6a39d,18,0.3171749413013458,/money/business-tax-vat-vat-returns,4,Money,0,0
+1060,1d7e4c59-69bd-4db9-a260-5e88f42b3af0,6,0.31716388463974,/housing-local-and-community/freehold-leasehold-property,3,"Housing, local and community",0,0
+538,72241f43-600b-4c34-9205-5a07060a2711,16,0.317161500453949,/defence/military-awards-commemorations,2,Defence and armed forces,0,0
+224,1f3d1ae8-aba7-4e02-abbc-6b54e6ff66aa,118,0.31686002016067505,/money/personal-tax-inheritance-tax,3,Money,0,0
+846,ff24cafc-c478-40e6-8a5d-754caf3659eb,8,0.31684422492980957,/housing-local-and-community/land-registration-business-mortgage-services,3,"Housing, local and community",0,0
+416,07d3b133-dc99-47a9-8213-0a3c14993561,210,0.31659385561943054,/transport/local-roads,4,Transport,0,0
+523,66d84061-2900-406b-950a-683a1d908642,35,0.31650254130363464,/environment/environmental-management-wildlife-habitat-conservation-birds,4,Environment,0,0
+707,4d18c236-0124-4083-b39d-8da5226fa5c9,18,0.3164401352405548,/education/qualified-teacher-status-qts,4,"Education, training and skills",0,0
+1093,8a2141ae-2493-491c-8e5f-2bd23c1a6afe,6,0.3161362409591675,/education/primary-curriculum-key-stage-1-science,4,"Education, training and skills",0,0
+251,258c6e6d-4e4e-42f1-a554-30b22f2aebab,347,0.3156696856021881,/education/exam-regulation-and-administration,3,"Education, training and skills",0,0
+906,f58ba5d0-5b45-43e4-a374-c2b8b3513b1f,41,0.31553739309310913,/education/data-collection-for-further-education-providers,4,"Education, training and skills",0,0
+308,8d767f40-a880-4b03-b6bf-c20799d34b97,113,0.3154086470603943,/transport/speed-limits-and-traffic-cameras,3,Transport,0,0
+1073,12c20fab-30e0-40a7-aa33-290eeba4bcca,4,0.3152015209197998,/money/personal-tax-income-tax-special-types-of-pay,4,Money,1,0
+307,c1306fc1-117b-477b-acd4-20f3dcf98534,39,0.31494230031967163,/transport/autonomous-road-vehicles,3,Transport,0,0
+444,5a345486-f6ab-43a6-bced-52a7301f7273,61,0.31489434838294983,/education/funding-for-16-to-19-year-olds-in-schools,4,"Education, training and skills",0,0
+753,66cc145f-9dfd-47db-bb98-457a61668d14,51,0.3144177496433258,/education/further-education-funding-data,4,"Education, training and skills",0,0
+293,588f7593-4dd8-46c2-bcaa-c3e99c28d541,187,0.31436020135879517,/transport/rail-franchising,3,Transport,0,0
+1152,6a1688d6-c0ed-4b2f-a5ea-aac3748c8394,12,0.3142634630203247,/childcare-parenting/recruiting-and-managing-early-years-staff,4,"Parenting, childcare and children's services ",0,0
+581,9300a567-f395-4017-ac88-dd9ce56f676a,80,0.31397709250450134,/transport/lorry-bus-and-trailer-mot-tests,5,Transport,0,0
+827,f42cdcd7-2bbe-4fa2-9edc-081a9acda57c,3,0.3138059079647064,/money/business-tax-tobacco-products-duty-payments-and-reliefs,4,Money,1,0
+861,bdf22162-6602-431d-820c-fd12611f71e0,21,0.3129430115222931,/crime-justice-and-law/prisons-probation-healthcare,3,"Crime, justice and law",0,0
+915,d7adaaf5-cac8-4781-a224-930afd37f174,33,0.31285741925239563,/transport/motorcycle-training,4,Transport,0,0
+1150,821b4c29-1ed9-44e1-b22d-a5b3ead1de14,4,0.31263065338134766,/employment/public-service-pensions,3,Work,1,0
+1143,d58bd4de-3fee-4953-9654-7551333eebf1,10,0.31256985664367676,/childcare-parenting/child-abduction-cross-border-child-protection,4,"Parenting, childcare and children's services ",0,0
+661,ff8f4cd7-05dd-4478-b37b-a9dcd984a810,10,0.31249111890792847,/money/coming-to-uk,3,Money,0,0
+905,e9ef07fa-4c34-4126-89c1-6eabfeb92dd3,8,0.31242799758911133,/money/business-tax-investment-schemes-collective-investment-schemes,4,Money,0,0
+657,f5c0bf33-6a7f-4c47-aac7-3b8a85a4641e,92,0.3124198913574219,/transport/hs2-business-case,4,Transport,0,0
+182,e1d2032c-6a59-4a1a-919c-dc149847dffb,99,0.3118991255760193,/entering-staying-uk/asylum-decisions-appeals,3,Entering and staying in the UK,0,0
+1063,1da1c700-cef8-45c4-9bb7-11a4b0003e10,11,0.3116101324558258,/childcare-parenting/local-authorities-early-years,3,"Parenting, childcare and children's services ",0,0
+936,a1c6c263-e4ef-4b96-b82f-e070ff157367,10,0.31146058440208435,/business-and-industry/dismissals-redundancies,4,Business and industry,0,0
+654,ee2b56e7-7cbe-4e8b-8797-1961240e7c80,11,0.3113155663013458,/education/special-schools-funding,4,"Education, training and skills",0,0
+421,7f398764-7f69-4978-8029-373a823ded67,118,0.3110044598579407,/transport/renewable-fuels,4,Transport,0,0
+1260,efa6099d-c5a8-4adc-83b7-f149b0d8d6ee,2,0.3108026385307312,/money/business-tax-fuel-duty-payments-and-reliefs,4,Money,1,0
+670,7cfca009-f311-43a5-8b44-145ce26986e7,150,0.31065839529037476,/entering-staying-uk/citizenship,3,Entering and staying in the UK,0,0
+878,f2c9ec1e-bbdd-45b8-afd7-fab0c9371d4b,10,0.3106362223625183,/regional-and-local-government/devolution,2,Regional and local government,0,0
+413,70f0f726-9894-49c2-ad9f-14d59ac70311,91,0.3098197281360626,/regional-and-local-government/scottish-devolution,3,Regional and local government,0,0
+1038,3e337520-40a5-46bd-b0a5-6e2464707392,3,0.3097902536392212,/government/technology-guidance-technology-guidance-govuk-verify,4,Government,1,0
+866,eccd6ddc-48bb-4707-92e7-fa2a8e0f1aeb,38,0.3097445070743561,/entering-staying-uk/support-asylum-claimants-refugees,3,Entering and staying in the UK,0,0
+633,a5db2720-b993-4920-b1c9-cd1014fde5a5,26,0.3090979754924774,/transport/vehicle-recalls,4,Transport,0,0
+571,49f0ada8-39f2-482a-8c90-5de0f99b9f5a,123,0.3088127672672272,/business-and-industry/city-deals-and-growth-deals,3,Business and industry,0,0
+1029,2bab4a2e-4cee-4849-b6de-828bbd5d98c8,6,0.3087354600429535,/environment/oil-and-gas-fields-and-wells,3,Environment,0,0
+108,216cb66b-5da1-4fea-99f1-b2a47d738bb0,197,0.30871114134788513,/transport/rail-passenger-experience,3,Transport,0,0
+834,c05fe902-f519-459a-b20d-2a9318d5e1d1,8,0.3086576461791992,/business/business-tax-import-export-customs-freight-simplified-procedures,4,Business and industry,0,0
+1070,d5c58fc7-dc3f-4142-a337-039d244b6105,16,0.30847352743148804,/housing-local-and-community/housing-design-and-sustainability,3,"Housing, local and community",0,0
+357,7d04af85-f92c-45d5-9472-d2d290f49513,135,0.3077305555343628,/education/as-and-a-level-changes-and-reforms,4,"Education, training and skills",0,0
+335,3e460ecf-07eb-4a42-af6a-fca0356a548c,60,0.30763310194015503,/transport/rail-ticketing-and-fares,3,Transport,0,0
+541,962df1ac-da3c-4bbc-9cc7-b24df055f543,42,0.3075963854789734,/transport/light-rail-and-trams,3,Transport,0,0
+853,a4d954b4-3a64-488c-a0fc-fa91ecb8cf2b,22,0.30715155601501465,/employment/redundancies-dismissals,3,Work,0,0
+186,8ac03ef6-84a1-4ab0-8fde-1125599d160d,52,0.30700287222862244,/transport/driver-cpc-training,4,Transport,0,0
+1012,792441e6-9c05-4991-beb6-9970d15a5acd,28,0.3067823052406311,/transport/transporting-dangerous-goods,3,Transport,0,0
+863,f050ce66-7f5d-4114-bf4b-fe7987561ccc,14,0.30668455362319946,/transport/maritime-passenger-rights,3,Transport,0,0
+1111,3ad1e2a6-dfdc-4150-a469-5f4b3cfcf3b5,22,0.3065229654312134,/government/technology-guidance-technology-guidance-digital-outcomes-and-specialists-framework,4,Government,0,0
+447,90f19461-cda0-4bd2-bdca-a20f08554c86,6,0.306486576795578,/defence/defence-armed-forces-military-awards-commemorations-veterans,3,Defence and armed forces,0,0
+755,99dd7843-4520-4df9-9d47-b2a9aac96981,23,0.30629628896713257,/international/government-topics-foreign-affairs-falkland-islanders-right-to-self-determination,3,International,0,0
+450,940fdb1c-495a-4120-a864-f204b3c5c917,45,0.3060268759727478,/business/economic-development-in-coastal-and-seaside-areas,4,Business and industry,0,0
+1216,509f422b-de2a-4630-a503-495d6afd4fae,3,0.3060205280780792,/government/technology-guidance-technology-guidance-open-source,4,Government,1,0
+809,597de04e-0faa-41e7-9bd7-cf09309d79c4,9,0.3058520555496216,/life-circumstances/births-deaths-marriages-marriage-divorce-child-maintenance,3,Life circumstances,0,0
+346,a2a21bb3-15bf-4347-b4db-ceaaabfd9715,217,0.30558186769485474,/transport/hs2-and-the-environment,4,Transport,0,0
+990,73a9f875-3715-4661-a643-a7275de80ac8,9,0.30550163984298706,/education/school-complaints-and-whistleblowing,3,"Education, training and skills",0,0
+178,0ba27d1c-cfb9-4b0b-a8b9-dc633506096a,192,0.30483362078666687,/transport/ship-crew-training-and-certification,4,Transport,0,0
+260,2f4d2d6b-e023-4933-bfdf-a23537783f20,50,0.3047908544540405,/business-and-industry/payroll,4,Business and industry,0,0
+615,b408576b-3910-4599-9cfa-d407184e9067,85,0.30436134338378906,/transport/advice-for-drivers,3,Transport,0,0
+838,090f8b0b-02f6-446b-b2ec-6000d7cd8322,8,0.3041437864303589,/childcare-parenting/financial-help-when-having-a-baby,3,"Parenting, childcare and children's services ",0,0
+734,f55e6f46-32e8-4f5e-9130-8eb58dadf70b,16,0.30409005284309387,/transport/waterways-maritime,3,Transport,0,0
+266,fef7e737-6f1a-4ef4-b844-aa24b630ad03,48,0.3040194511413574,/entering-staying-uk/permanent-stay-uk,2,Entering and staying in the UK,0,0
+765,02c066d1-658e-4257-95b0-d9af0a358e5d,3,0.30319011211395264,/health-and-social-care/medicines-medical-devices-blood-conferences-and-events,3,Health and social care,1,0
+1145,598b403a-b16d-470e-acca-74b7e1d2ed3f,3,0.3031599521636963,/business-and-industry/trade-restrictions-on-exports,4,Business and industry,1,0
+668,5605545e-03ca-4520-9519-163ea341bc86,50,0.3028947412967682,/money/expenses-employee-benefits,2,Money,0,0
+737,c79ea67b-54f1-46d6-85e6-fd5914cdfe76,13,0.30287808179855347,/environment/farming-food-grants-payments-rural-grants-payments-basic-payment-scheme-bps,5,Environment,0,0
+718,6fae7839-999f-4df4-bf13-7ccb75190806,50,0.30285394191741943,/transport/vessel-registration,4,Transport,0,0
+946,1fb9f6f4-973c-4279-8310-2655fe339e1f,31,0.30251380801200867,/health-and-social-care/oral-health,4,Health and social care,0,0
+155,689bb0dd-bd50-42e0-9195-cfb020bc3ee7,69,0.3022676706314087,/childcare-parenting/inspection-of-childrens-social-care-providers,4,"Parenting, childcare and children's services ",0,0
+478,c27bc8d5-f29e-456e-86d2-b52979728dc2,97,0.30107951164245605,/transport/hs2-property,4,Transport,0,0
+634,c23cae1f-1084-481b-93f5-6130381bf471,20,0.30072227120399475,/transport/drones,4,Transport,0,0
+158,f0ef5339-63d9-4549-9e17-a4372f8c0477,47,0.3005993366241455,/transport/safe-transport-of-dangerous-goods-by-road-and-rail,4,Transport,0,0
+456,779a3cc9-2c75-43b9-abc4-435a5cdb5cdc,72,0.30046236515045166,/transport/vessel-design,4,Transport,0,0
+310,9129d716-365b-44ba-9856-383423fe1e41,247,0.30021509528160095,/environment/countryside,3,Environment,0,0
+130,03c31099-1b0d-41ec-834d-2460a7e2992b,18,0.30013859272003174,/education/inspection-of-boarding-and-residential-schools,4,"Education, training and skills",0,0
+920,a4f7ecb6-457a-4b93-bd41-8328652de474,7,0.3000720739364624,/money/personal-tax-savings-investment-tax-tax-efficient-savings-and-investments,4,Money,0,0
+974,fc2412f2-77d1-4559-96db-b467cda93990,9,0.2997574806213379,/childcare-parenting/help-for-children-with-a-long-term-illness-or-disability,3,"Parenting, childcare and children's services ",0,0
+867,74ad91b0-08f6-438e-af6c-3dabb798fd9e,7,0.2993592321872711,/money/business-tax-money-laundering-regulations-your-role-under-the-regulations,3,Money,0,0
+1074,8fd9c1af-16d1-4523-a402-a12593906b61,8,0.29899710416793823,/education/alternative-provision-funding,4,"Education, training and skills",0,0
+969,c3096102-cbd6-4af4-b7e6-c82f80774b97,4,0.2979886829853058,/environment/environmental-management-land-management-weeds-and-invasive-non-native-plants,4,Environment,1,0
+286,6690703b-ce48-4108-b5f0-75807ff3202e,224,0.2976328730583191,/education/inspection-of-independent-schools,4,"Education, training and skills",0,0
+1021,0327386a-a69e-4533-86d0-9f16f7ffa6f7,8,0.2974132299423218,/money/personal-tax-inheritance-tax-working-out-the-tax,4,Money,0,0
+797,73e7b79f-398e-46ee-9757-34df58bcfed0,30,0.2972397208213806,/transport/driving-examination,4,Transport,0,0
+1043,31be8a8c-38b5-4f73-9567-2eaf468ca286,11,0.2970871031284332,/money/business-tax-paye-registering-and-getting-started,4,Money,0,0
+1258,bff7d236-c320-4ea5-87ca-21e1c2a89131,2,0.296795517206192,/environment/oil-and-gas-carbon-capture-and-storage,3,Environment,1,0
+1102,0a246667-8d98-45be-af88-2c24e185c9fd,7,0.2967018187046051,/environment/keeping-farmed-animals-shows-fairs-markets,4,Environment,0,0
+673,79d0727b-4beb-4a61-8cfe-20a8a54b166a,20,0.2959950864315033,/transport/general-aviation,3,Transport,0,0
+562,738e53f4-97df-4d9e-a2f1-8f733d526d84,64,0.2959495186805725,/education/local-authority-schools-funding,4,"Education, training and skills",0,0
+320,bce0ea5a-c737-48fe-9bd4-4a76da4e458d,279,0.29455795884132385,/transport/car-driving-tests,4,Transport,0,0
+352,06f00af6-3c5a-48bc-ba62-c91d11ad0836,97,0.2944734990596771,/transport/hs2-additional-provisions,4,Transport,0,0
+738,3c33e0e1-b6cf-4caf-a38f-0eb0ad6cd907,23,0.2944563925266266,/transport/rail-interoperability,3,Transport,0,0
+600,377d3d35-4bc8-45a5-99be-d0ac4f25437f,38,0.29444292187690735,/transport/driving-licence-applications-and-renewals,4,Transport,0,0
+389,46d01d88-d6ef-4eb9-aa44-1992c1deacb8,128,0.29428723454475403,/transport/hs2-phase-2b,5,Transport,0,0
+1096,6ccfa37d-11b5-4aaf-bd2c-e05e0220c0a9,9,0.29400908946990967,/money/personal-tax-income-tax-rates-allowances-and-reliefs,4,Money,0,0
+185,c0d1efd0-0033-4ad3-8f98-9e4a988b0ca5,15,0.2936500310897827,/transport/driver-cpc-training-centres,4,Transport,0,0
+176,43994d58-a38e-4f9b-9027-feba44453173,23,0.292969286441803,/transport/personal-driving-licence-information,4,Transport,0,0
+1116,be716909-efa9-4c86-a084-6461595aea68,11,0.2927309274673462,/health-and-social-care/dentistry,3,Health and social care,0,0
+1046,0eeabf35-794f-44d6-b0aa-ab0e7aed0cb9,8,0.2916218042373657,/transport/wrecks,3,Transport,0,0
+922,cc8ee3a9-3fe5-4e72-bc98-5a4d602d3e4f,29,0.29139989614486694,/housing-local-and-community/funding-programmes,3,"Housing, local and community",0,0
+1044,c6da0a94-6a82-47c3-97bb-308efda37312,8,0.29097980260849,/education/inspection-of-non-maintained-schools,4,"Education, training and skills",0,0
+1210,65deb7be-e3ce-49f3-b72e-547d4727fd00,3,0.29053109884262085,/environment/keeping-farmed-animals-deer-farming,4,Environment,1,0
+401,e6e60c46-26da-49b6-8f43-c77f2e27d1f0,59,0.2901316285133362,/transport/ship-equipment,4,Transport,0,0
+443,76c256d5-0cfe-4a43-b80f-598922195d13,44,0.2900375425815582,/transport/rail-accessibility,3,Transport,0,0
+1104,c5b994b2-29dd-4c7a-973d-3eee43a60c2d,17,0.2897201180458069,/childcare-parenting/health-wellbeing-and-education-of-looked-after-children,4,"Parenting, childcare and children's services ",0,0
+928,0edc28be-da72-4b33-8ecf-e83455eeaced,15,0.28950926661491394,/childcare-parenting/mental-health-of-children-and-young-people,3,"Parenting, childcare and children's services ",0,0
+209,197ae5ae-7922-4dba-9104-2b0d78ec472e,151,0.2895001769065857,/education/as-and-a-level-subject-content-and-requirements,4,"Education, training and skills",0,0
+426,27db05a4-8204-495f-b622-737ced17d2c7,27,0.28938037157058716,/life-circumstances/births-deaths-marriages-marriage-divorce-getting-married,3,Life circumstances,0,0
+449,7c1c4dbe-d925-4071-965f-8779d504bd47,28,0.28925126791000366,/health-and-social-care/screening-quality-assurance,3,Health and social care,0,0
+1193,f6d035f3-313f-4c10-aa17-ce1853fd9685,7,0.28919026255607605,/money/personal-tax-savings-investment-tax-tax-on-savings,4,Money,0,0
+537,2d2607aa-b86e-4ddc-8bef-95e82f964242,46,0.2889414429664612,/transport/hs2-supply-chain,4,Transport,0,0
+1209,ef67434e-e406-4b3f-ad51-65e08cbdd291,6,0.2888077199459076,/transport/new-aviation-technology,3,Transport,0,0
+1156,89d857bf-11ef-4062-ae69-4272a2eb788d,6,0.2884906530380249,/environment/oil-and-gas-infrastructure-and-decommissioning,3,Environment,0,0
+1083,72ae8c45-7817-45a8-94c2-f1257ea6519a,9,0.287788450717926,/money/personal-tax-capital-gains-tax-shares-and-investments,4,Money,0,0
+424,f8b6d54b-cc94-4b32-aac4-8cd344087407,31,0.28776368498802185,/employment/working-state-pension,3,Work,0,0
+643,4834c569-0259-413c-960b-dccb274fff51,25,0.2873682379722595,/health-and-social-care/population-screening-programmes-infectious-diseases-in-pregnancy,3,Health and social care,0,0
+1004,eb6c325f-09b7-4873-86f0-6b2eacc4d27f,6,0.2873328924179077,/childcare-parenting/child-poverty,3,"Parenting, childcare and children's services ",0,0
+641,7178bed9-3c8c-40a3-bf98-bda077e4ce68,65,0.2868533432483673,/transport/maritime-enforcement-and-prosecution,3,Transport,0,0
+577,79f8bd1c-1ac1-4bd2-b487-3cf2ac1ac331,28,0.28608906269073486,/crime-justice-and-law/legal-aid-for-providers-contracts,3,"Crime, justice and law",0,0
+792,520e5c39-ab50-499b-90e0-37cfbd87f784,25,0.28608331084251404,/education/administering-student-funding,4,"Education, training and skills",0,0
+1050,7c96a678-25a6-40f3-a170-ce63f9174d00,17,0.2857378125190735,/money/business-tax-vat-paying,4,Money,0,0
+448,e883852d-03e7-4490-96d2-7646e82e7745,33,0.28566160798072815,/health-and-social-care/population-screening-programmes-fetal-anomaly,3,Health and social care,0,0
+1208,1309a4b3-17b5-40ec-9747-16cd2ef65dc6,4,0.28539395332336426,/health-and-social-care/health-workforce,3,Health and social care,1,0
+788,78cfdb08-0629-42d9-80eb-edbf9b36e0c3,44,0.28495705127716064,/education/funding-for-high-needs,3,"Education, training and skills",0,0
+981,460718d9-82e4-40a7-bbe8-8824a4a05590,2,0.28461241722106934,/employment/secondments-with-government,2,Work,1,0
+75,26b5cfbd-1677-4629-8674-223b67b480c7,26,0.2843538522720337,/childcare-parenting/inspections-of-local-authority-childrens-services,5,"Parenting, childcare and children's services ",0,0
+118,cb910f96-f842-4cfc-9e20-d99683504529,255,0.28407594561576843,/education/school-admissions,3,"Education, training and skills",0,0
+948,190f2077-b295-4339-b865-729a0283595c,34,0.2839132249355316,/transport/safe-transport-of-dangerous-goods-by-sea,4,Transport,0,0
+1088,7cc28ee9-706f-4bbf-99ec-2b26f7d94621,9,0.28373512625694275,/government/technology-guidance-technology-guidance-psn,3,Government,0,0
+1177,bff2d196-a07c-4734-98a1-eb2e26a2a33f,3,0.2835043668746948,/government/technology-guidance-technology-guidance-end-user-devices,4,Government,1,0
+1180,1ffcf105-c245-427a-9d01-7726a1e6b218,3,0.2835043668746948,/government/technology-guidance-phishing,4,Government,1,0
+843,1423ec9f-d62c-40f7-b10e-a2bdf020d8b7,17,0.2833056151866913,/childcare-parenting/divorce-separation-and-legal-issues,2,"Parenting, childcare and children's services ",0,0
+800,2a87e67e-3294-4753-9561-511f8a2cbd1a,18,0.28328925371170044,/education/principal-learning-qualifications,4,"Education, training and skills",0,0
+544,316c46b0-8bb0-44ce-a6ba-87c1c23ae13b,7,0.2831086218357086,/environment/environmental-management-land-management-pollution,4,Environment,0,0
+647,d03f25cd-990e-4883-8ca4-9434b145eb8d,62,0.2826601564884186,/entering-staying-uk/deportation-removals-curtailment,3,Entering and staying in the UK,0,0
+1087,96d35811-538f-43cf-9e8a-34202f550785,3,0.2815305292606354,/money/business-tax-stamp-taxes-pay-your-sdlt-bill,4,Money,1,0
+697,9bc1fd7a-bf0e-4d94-85cf-07fee4d80d5a,2,0.2806124985218048,/government/govuk-services,3,Government,1,0
+219,8dca7d9b-b2de-4224-b2ad-2bfc3943561c,39,0.2799451947212219,/transport/life-saving-appliances,4,Transport,0,0
+542,1beeb297-c6fc-40a5-b133-aac3f260a9a2,44,0.2794634699821472,/transport/buses-and-the-environment,4,Transport,0,0
+893,26e5c6b4-1d88-4e5d-a365-ee81577eee64,11,0.27943527698516846,/money/business-tax-vat-overseas-businesses-and-uk-vat,4,Money,0,0
+649,42c1a780-a448-4653-9892-68e3981a000f,11,0.27853089570999146,/business/environmental-management-water-impound-store-water,3,Environment,0,0
+1133,acda4c63-5d0b-45ae-a748-8dae7bc9bcd4,6,0.27822059392929077,/environment/coal-property-development,4,Environment,0,0
+425,729ce50a-2439-430e-bbd6-ea6f970ea4bf,9,0.27797266840934753,/business-and-industry/company-registration-filing-running-company-partnerships,4,Business and industry,0,0
+955,bf391f7e-19a6-4442-9398-2b68ff9b1f8f,5,0.27751651406288147,/money/dealing-with-hmrc-tax-compliance-non-payment-and-fraud,4,Money,1,0
+255,185f0356-a7c8-4c5c-a3fa-9c4d17084d25,12,0.27731335163116455,/money/business-tax-insurance-premium-tax,3,Money,0,0
+842,1d0173d8-c1d6-47b4-a6e3-d9638637010f,21,0.2771082818508148,/entering-staying-uk/asylum-children,3,Entering and staying in the UK,0,0
+188,4e561949-4a26-49c2-918d-6ad2972c4d33,746,0.27697786688804626,/environment/environmental-permits,2,Environment,0,0
+625,080e8f8f-2504-4770-bce8-961b0496aa01,9,0.276363730430603,/business/environmental-management-water-discharge-water,3,Environment,0,0
+998,69b9b406-a426-4d54-ba7f-5ef1e44b0827,13,0.27552157640457153,/environment/environmental-management-wildlife-habitat-conservation-invertebrates,4,Environment,0,0
+258,43d071e7-a450-4bb6-b34a-c4ed256a226d,369,0.27486640214920044,/health-and-social-care/health-protection-immunisation,3,Health and social care,0,0
+783,d93d4641-dd03-4eef-a791-c11146419a30,5,0.2748071849346161,/money/life-insurance-policies,3,Money,1,0
+1140,4713d510-9dd1-479f-a2f3-9b2ec5cde0e3,6,0.2745918035507202,/childcare-parenting/data-collection-for-early-years-and-childcare,3,"Parenting, childcare and children's services ",0,0
+372,53f410bb-846b-4cfc-8d2a-ba304046beca,6,0.27442094683647156,/business-and-industry/trade-barriers,3,Business and industry,0,0
+1170,b39c4582-9106-46af-951d-59d621e92959,3,0.2737572193145752,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-fisheries-statistics,4,Environment,1,0
+962,b4337707-3195-4d43-b313-0c52eb33450e,3,0.2730723023414612,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-sales-notes-and-electronic-recording-systems,4,Environment,1,0
+980,b90e86de-2b62-493f-b7dd-31b89ccc97f7,10,0.27301573753356934,/money/personal-tax-income-tax-pensions,4,Money,0,0
+930,806df5bb-d913-4ae9-b68e-e7d8a6e740f5,8,0.27286189794540405,/money/dealing-with-hmrc-tax-compliance-disclosing-offshore-income,4,Money,0,0
+84,f1e4aad3-bb4c-4850-94ff-8ea5490e9188,47,0.2720126509666443,/transport/crossrail,3,Transport,0,0
+1259,e7d5960c-a472-4a4c-b584-52ad49402343,2,0.27185648679733276,/environment/farming-food-grants-payments-state-aid,4,Environment,1,0
+586,3addc68e-a3b3-402a-9149-d5a7477e94f8,13,0.271797239780426,/money/dealing-with-hmrc-tax-agent-guidance-money-laundering-regulations,4,Money,0,0
+326,5653692e-6f2f-49f0-813a-9301f32e8de9,111,0.27170732617378235,/international/government-topics-foreign-affairs-iran-s-nuclear-programme,3,International,0,0
+518,feed3ea6-a235-4405-86fa-00a6e32e9746,16,0.27158015966415405,/regional-and-local-government/pensions,3,Regional and local government,0,0
+896,1ce5b33c-b94a-465a-a5ba-267de7da6f70,4,0.27085232734680176,/money/dealing-with-hmrc-tax-agent-guidance-working-with-hmrc-joint-initiatives,4,Money,1,0
+491,2fa4db40-ad2e-4797-a7e2-ab37520c68fd,7,0.27011314034461975,/government/technology-guidance-technology-guidance-cloud-strategy,4,Government,0,0
+910,f81590ba-856a-4c81-9380-8bb2804120c1,23,0.2697578966617584,/education/initial-teacher-training-funding,3,"Education, training and skills",0,0
+1090,1255e19a-f02d-485f-8d5f-000688312bd9,9,0.2696530520915985,/education/financial-help-for-students-who-are-parents-or-carers,3,"Education, training and skills",0,0
+1042,bf21a720-6cbc-45d5-ae92-eac2f67781d7,4,0.2691273093223572,/regional-and-local-government/local-government-data-collection-reporting,3,Regional and local government,1,0
+439,35887441-acd2-4ec6-ba07-19914ed70961,12,0.26910701394081116,/transport/driving-abroad,4,Transport,0,0
+465,230a94c8-362a-4e3f-9a83-823472aa202a,110,0.26877349615097046,/transport/transport-modelling-and-appraisal,2,Transport,0,0
+392,dd696d59-982a-4e51-90e2-461d8061fcbc,41,0.26828840374946594,/health-and-social-care/population-screening-programmes-abdominal-aortic-aneurysm,3,Health and social care,0,0
+909,a6a0ba0b-d4a8-46bc-8c68-4c62ca04183b,11,0.2678646445274353,/money/dealing-with-hmrc-paying-hmrc-vat,4,Money,0,0
+364,1f7c6bfc-30cd-4cbd-8995-c91bc4a101a4,127,0.26780644059181213,/entering-staying-uk/asylum-refugee-human-rights-claims,3,Entering and staying in the UK,0,0
+1185,f15d007c-39ab-4e13-a2d8-d33e2dd3ef8b,5,0.26731494069099426,/government/data-provisioning,4,Government,1,0
+318,c45f0901-ce44-4e99-a947-fdca0ec92130,16,0.2670404314994812,/transport/travel-passes-and-concessions,3,Transport,0,0
+817,b5d80b89-fa33-454b-81bc-fd613b29deff,7,0.266596257686615,/money/personal-tax-self-assessment-paying-your-tax-bill,4,Money,0,0
+564,cbf65210-01e2-4761-b2af-31455ac6010c,37,0.2660883665084839,/health-and-social-care/population-screening-programmes-newborn-hearing,3,Health and social care,0,0
+504,98c52943-4e22-4481-a83d-f2f5b32a5d20,85,0.26590287685394287,/business-and-industry/company-names,4,Business and industry,0,0
+642,ba6c4d92-b050-4b9a-8a52-e72247951d29,15,0.26526013016700745,/money/business-tax-alcohol-duties-moving-and-storing-goods,4,Money,0,0
+1085,eca6eef8-4529-47db-8ba9-daa6305f15d3,3,0.26436665654182434,/regional-and-local-government/local-government-councils-elections,3,Regional and local government,1,0
+455,5c5e40c7-6e46-4997-956b-bc4b7d5e121c,46,0.26372021436691284,/health-and-social-care/population-screening-programmes-bowel,3,Health and social care,0,0
+244,fc8d14fd-8904-4391-a23f-33a61fddaf3b,197,0.2636040449142456,/transport/hs2-planning,4,Transport,0,0
+963,bdf9835b-d492-4706-b0de-1f6fff69ebdb,22,0.26353612542152405,/transport/hs2-design,4,Transport,0,0
+553,9e404eb0-5a2a-41ec-bace-c62407a604bc,4,0.26266780495643616,/government/technology-guidance-technology-guidance-user-research,3,Government,1,0
+234,013fc5e0-280c-4f73-9598-47de68f13dcd,227,0.26233983039855957,/environment/countryside-stewardship,5,Environment,0,0
+900,288d5fe9-bf7c-48f2-b644-a7e911daee95,9,0.2620871365070343,/money/business-tax-stamp-taxes-annual-tax-on-enveloped-dwellings,4,Money,0,0
+380,e8f17408-2d81-468f-aad8-7486a05cd0bf,201,0.26141121983528137,/education/gcse-subject-content-and-requirements,4,"Education, training and skills",0,0
+847,13afc950-0182-429f-a7c0-e02f1fcb04a5,7,0.26105931401252747,/housing-local-and-community/land-registration-business-mortgage-services-conveyancing-services,4,"Housing, local and community",0,0
+645,f5f2d57d-8381-4566-a983-c5df615d7647,45,0.25935909152030945,/health-and-social-care/population-screening-programmes-newborn-blood-spot,3,Health and social care,0,0
+1139,29d4837a-c6e8-44e7-8ff6-4027b400fe42,9,0.25931990146636963,/money/business-tax-international-tax-double-taxation,4,Money,0,0
+879,f40880fe-982a-469f-b0cb-248d06d7c7e7,17,0.25865447521209717,/money/business-tax-paye-employees-joining-leaving-or-changing-their-circumstances,4,Money,0,0
+777,0133b1b3-9ecd-48ad-b226-538b46a17ff4,54,0.25802555680274963,/employment/government-graduate-schemes,2,Work,0,0
+1023,5a73303d-0c74-4115-9c3e-7d0e925cb1ae,16,0.2578495144844055,/childcare-parenting/early-years-census,4,"Parenting, childcare and children's services ",0,0
+1114,0db50d22-b906-4850-bf48-cf4a1477eafc,9,0.2576637864112854,/employment/business-tax-self-employed-tax-and-national-insurance,3,Work,0,0
+540,91fd5145-255f-4525-ae99-1f5f9abe9a49,81,0.2568837106227875,/transport/smart-motorways,3,Transport,0,0
+688,c73891d9-1ead-4075-8681-8189de727cb9,19,0.2565210163593292,/childcare-parenting/child-benefit,3,"Parenting, childcare and children's services ",0,0
+660,1e6ec387-71d7-42d2-ad15-28adc5e1a172,46,0.2550889849662781,/transport/hs2-phase-two,4,Transport,0,0
+1135,5bd34564-2ae0-4cc5-a6c8-416a9cbaa29c,6,0.25416886806488037,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-vessel-monitoring-systems,4,Environment,0,0
+769,cb5342f7-4a48-4abb-ac43-53e2eb534324,15,0.25409767031669617,/environment/planning-development-protected-sites-species-land-sites,4,Environment,0,0
+578,895732d7-177b-4def-8997-f1afc4364415,7,0.2536710202693939,/money/personal-tax-self-assessment-filing-a-tax-return,4,Money,0,0
+1000,bc2b7f1a-25b2-4115-8b8d-9b7822d11377,12,0.2536698579788208,/housing-local-and-community/local-plans,3,"Housing, local and community",0,0
+607,e43c90fb-e2d1-4c35-9a82-955b3f695047,5,0.253082275390625,/education/inspection-of-residential-provision-in-further-education-colleges,4,"Education, training and skills",1,0
+703,e0ba0572-62f2-4f4e-9bfa-ede46bd10bc9,8,0.2527316212654114,/environment/oil-and-gas-finance-and-taxation-tax-and-profits,4,Environment,0,0
+1155,62072d08-8552-4b0e-9efe-bf8641c30958,16,0.2520768940448761,/transport/bus-services-routes-and-timetables,4,Transport,0,0
+460,0737968c-68b5-440e-9a45-b5802017234c,92,0.25162220001220703,/health-and-social-care/population-screening-programmes-breast,3,Health and social care,0,0
+1066,cf634f7f-2015-4f6a-8b29-4e9312b317a6,5,0.25142818689346313,/government/technology-guidance-technology-guidance-govwifi,4,Government,1,0
+736,f4e08965-70f8-40ca-88bb-84ee0094f714,24,0.24945344030857086,/transport/community-rail,3,Transport,0,0
+924,f38e6317-1916-4e57-a7ed-60b2005485b1,19,0.24903570115566254,/transport/professional-development-for-approved-driving-instructors,4,Transport,0,0
+1014,f6eef892-c962-4500-8ff6-adbeaf6e32e4,6,0.24894839525222778,/money/business-tax-gambling-duties-general-betting-duty-pool-betting-duty-and-remote-gaming-duty,4,Money,0,0
+644,b5350a91-6d42-4eb1-9eff-d11460180137,40,0.24801254272460938,/health-and-social-care/population-screening-programmes-newborn-infant-physical-examination,3,Health and social care,0,0
+595,ffd3a6b0-acfb-4c6b-8eff-7082988510dd,42,0.24706172943115234,/education/school-censuses-and-slasc,4,"Education, training and skills",0,0
+1089,7f07b585-89bc-4f04-a890-f46bffc030a9,2,0.24656493961811066,/government/technology-guidance-technology-guidance-application-development,4,Government,1,0
+360,1b8de292-b0d4-414c-a54e-75c6e11023f3,53,0.2464660406112671,/health-and-social-care/population-screening-programmes-diabetic-eye,3,Health and social care,0,0
+1214,04627536-a2e3-4ffd-9279-180feee5295a,4,0.24643534421920776,/money/business-tax-gambling-duties-paying-hmrc,4,Money,1,0
+1069,a9ee1e37-96af-4e52-91ca-b4d1930f52df,7,0.24630694091320038,/money/business-tax-employment-related-securities-returns-and-notifications,4,Money,0,0
+986,8c8aac58-992a-4f88-9dd6-1c8283a22588,14,0.2463003695011139,/government/technology-guidance-technology-guidance-telecommunications,4,Government,0,0
+666,c359fa76-88ff-4298-817e-5cf974473853,30,0.24613571166992188,/childcare-parenting/data-collection-for-looked-after-children,4,"Parenting, childcare and children's services ",0,0
+719,07160f26-9be6-4c30-93d5-f4017ea21284,76,0.24528241157531738,/transport/rail-stations,3,Transport,0,0
+937,06e146ec-c1a3-4a93-b889-9c4d790954d8,20,0.24509656429290771,/money/non-resident-landlord-scheme,3,Money,0,0
+1109,7966b917-60ea-4276-981e-84c59dfc5f7a,4,0.24434185028076172,/childcare-parenting/savings-accounts-for-children,3,"Parenting, childcare and children's services ",1,0
+1137,2285b71b-31c2-4413-af4f-a2cf32913ccc,3,0.24403047561645508,/money/business-tax-gambling-duties-machine-games-duty,4,Money,1,0
+759,fa1f3afb-4de4-40d3-b5de-184f5cac0665,4,0.24387618899345398,/money/personal-tax-inheritance-tax-reliefs,4,Money,1,0
+1028,6fa4cfe6-1753-4256-ad2a-8d866a04eef3,9,0.2433205097913742,/transport/night-flights,3,Transport,0,0
+1223,652532c7-dfb1-440a-a37e-215420ed3110,7,0.24188022315502167,/money/business-tax-corporation-tax-working-out-your-corporation-tax,4,Money,0,0
+496,e86e90e0-af4f-4cd9-8b6a-f2d177575290,6,0.24185384809970856,/education/home-schooling,3,"Education, training and skills",0,0
+945,82bb6ae4-dc73-4e60-80bc-3c722997abfe,5,0.24155843257904053,/business-and-industry/company-registration-filing-running-company-overseas-companies-and-european-companies,4,Business and industry,1,0
+1225,9af66eaa-52b6-4239-a3b1-ba1e57afa16c,3,0.2415463924407959,/money/business-tax-gambling-duties-bingo-duty,4,Money,1,0
+1127,65a25d2c-a0e5-4283-921d-c928babfb6e4,17,0.24151046574115753,/childcare-parenting/tax-credits-if-you-have-children,3,"Parenting, childcare and children's services ",0,0
+869,88b4980f-af23-41a0-9fc6-027dda49643c,9,0.24145877361297607,/money/dealing-with-hmrc-paying-hmrc-insurance-premium-tax,4,Money,0,0
+598,d36f331f-ef4e-48e2-81e5-c4ed6c94a1f9,22,0.24137131869792938,/childcare-parenting/data-collection-safeguarding-child-protection,4,"Parenting, childcare and children's services ",0,0
+944,31024c7d-70a3-4d5b-bf53-a375cdab3b63,13,0.23969611525535583,/education/types-of-apprenticeships,4,"Education, training and skills",0,0
+1236,9da8f2ea-2729-4928-ac03-7ebe090f7c05,3,0.23967832326889038,/money/business-tax-ir35-employment-intermediaries,4,Money,1,0
+1201,6883a521-919b-4796-8a98-d319cf354169,9,0.23961347341537476,/money/business-tax-investment-schemes-venture-capital-schemes,4,Money,0,0
+806,3ef207e1-26d3-41c4-94f5-e2957f3fb1a9,12,0.23914401233196259,/life-circumstances/births-deaths-marriages-marriage-divorce-getting-separated-or-divorced,3,Life circumstances,0,0
+68,24f22965-542e-4ed0-82fa-2e54ca95b35d,186,0.23899665474891663,/money/living-working-abroad-offshore,3,Money,0,0
+1169,9a478c16-193c-400b-9a7b-9f5f9bc3f6c6,4,0.23866042494773865,/money/dealing-with-hmrc-tax-agent-guidance-appeals-and-penalties,4,Money,1,0
+588,7bf5c281-681a-4ea3-bd22-d1ed96d421aa,58,0.23751294612884521,/transport/vehicle-operator-licences,4,Transport,0,0
+712,fe6904d9-2190-48c9-a89a-7976803674b0,32,0.23738862574100494,/education/further-education-intervention-notices-and-reports,4,"Education, training and skills",0,0
+870,e8fc8b3b-6ee3-42f9-844d-4ee7977d69c9,7,0.23673845827579498,/money/business-tax-insurance-premium-tax-paying-insurance-premium-tax,4,Money,0,0
+888,b1a1a288-948d-459a-b64b-94d773492792,15,0.23644576966762543,/housing-local-and-community/planning-development-planning-permission-appeals-make-an-appeal,4,"Housing, local and community",0,0
+1115,8197d980-7a34-4017-a507-c32ba1797368,8,0.23554497957229614,/housing-local-and-community/tenancies-leases,3,"Housing, local and community",0,0
+242,f421b9c8-bc31-43d5-b443-6148731a10fd,12,0.23542697727680206,/education/subject-knowledge-enhancement-ske,4,"Education, training and skills",0,0
+1058,981bbe5a-3b03-4d06-b15a-c8fe297381c9,4,0.23486152291297913,/money/dealing-with-hmrc-paying-hmrc-inheritance-tax,4,Money,1,0
+987,ee010898-2f43-4a4c-8618-51916922d112,7,0.23418216407299042,/money/business-tax-large-midsize-business-guidance-large-businesses,4,Money,0,0
+67,f98bece0-dfc0-4db3-9374-dd629bcffdd7,198,0.2336023449897766,/money/international-tax,3,Money,0,0
+1235,c5147b3e-2f6c-4fc8-99cc-c58c3c901200,7,0.2331380695104599,/entering-staying-uk/right-to-rent-in-the-UK,3,Entering and staying in the UK,0,0
+1172,dd26c813-5a16-478b-a680-d56ee57a6f97,2,0.23250186443328857,/environment/environmental-management-chemicals-polychlorinated-biphenyl-pcbs,3,Environment,1,0
+627,4abd1756-3c5c-4af1-adc3-8456ab84acd6,216,0.2319338470697403,/transport/driving-and-medical-conditions,4,Transport,0,0
+1136,1756186f-3c7a-4112-a7ad-52a369baa01f,3,0.23148506879806519,/environment/environmental-management-water-hydropower,3,Environment,1,0
+704,af289618-dfe2-463c-94cb-0ac41ee827eb,2,0.2313166856765747,/defence/defence-armed-forces-ministry-of-defence-estate-sale-of-land,3,Defence and armed forces,1,0
+126,b2bb17ba-4bbb-42b6-9439-432b487f3830,108,0.23070020973682404,/transport/road-closures,4,Transport,0,0
+427,45a38712-a3d6-42a7-a3ef-70c37665f429,268,0.23051853477954865,/housing-local-and-community/regulation,3,"Housing, local and community",0,0
+1232,d7c7489a-07f4-4c3f-af97-acacff6619ef,4,0.23032146692276,/transport/vessel-registration-and-design,3,Transport,1,0
+311,92c89e09-9814-410d-b8e1-fdb86e4b3be1,3,0.23023360967636108,/money/dealing-with-hmrc-software-development-working-in-partnership,4,Money,1,0
+811,e8e4b901-c862-4e04-b581-2d3357a81a74,15,0.22946235537528992,/money/business-tax-pension-scheme-administration-administering-a-pension-scheme,4,Money,0,0
+1022,57c6ba08-a31a-4a7a-9cd6-3d571e91f1ab,4,0.22813689708709717,/education/schools-forums,3,"Education, training and skills",1,0
+1006,0fab9131-f877-4286-b4d8-922fbfb402b6,9,0.2273102104663849,/entering-staying-uk/inspections-of-border-immigration-asylum-services,2,Entering and staying in the UK,0,0
+1175,de978199-11e8-49b9-965e-4fa6a7ae79a8,3,0.22708408534526825,/life-circumstances/death-registration-disclosure,3,Life circumstances,1,0
+1187,ffedc568-ce84-43f6-b2a8-d749f24c13c7,3,0.22705470025539398,/defence/defence-armed-forces-support-services-military-defence-personnel-families-british-forces-post-office,3,Defence and armed forces,1,0
+400,9ea4261c-127e-4086-a96e-16faf6789a4e,7,0.2260214388370514,/environment/environmental-management-land-management-protected-sites,4,Environment,0,0
+1206,e626b2fd-203e-4e2e-b8a5-121896ae22e7,5,0.22588035464286804,/childcare-parenting/serious-case-reviews,4,"Parenting, childcare and children's services ",1,0
+1197,01377da4-3f72-401a-ad3b-9355ec89ee7a,11,0.22504426538944244,/health-and-social-care/abortion,3,Health and social care,0,0
+1112,dd102a74-7f97-4525-9c19-ffb9037677e7,6,0.22343799471855164,/money/dealing-with-hmrc-tax-avoidance-disguised-remuneration-schemes,4,Money,0,0
+1237,8b1f6057-6133-4e36-a81d-d66e20bf0467,4,0.22168907523155212,/environment/farming-food-grants-payments-rural-grants-payments-online-applications-and-payments,5,Environment,1,0
+767,057f67af-e7f6-4698-8592-681e87c42a8a,67,0.22152650356292725,/health-and-social-care/population-screening-programmes-cervical,3,Health and social care,0,0
+1097,9ea62430-3c48-440d-b29d-32f0d75878a3,3,0.22138704359531403,/government/open-source-and-open-standards,3,Government,1,0
+648,8e16dfc3-74b1-41a1-a9bb-219155bccf78,55,0.2178565114736557,/business/environmental-management-water-abstract-take-water,3,Environment,0,0
+886,a9394b1e-43e8-488d-b0a5-c01f6ff58315,17,0.2171855866909027,/education/phonics-screening-checks,4,"Education, training and skills",0,0
+252,3573b024-5c47-43e2-b95f-85f4562fe62c,26,0.21602319180965424,/transport/hs2-stations,4,Transport,0,0
+774,3cec0ac5-8a19-42b9-9468-fe5e384b3662,29,0.21593260765075684,/education/inspection-of-local-authority-support-for-schools,4,"Education, training and skills",0,0
+956,c6e45d10-27e7-49f9-967d-8e1f2e10daaf,2,0.21497994661331177,/business/business-imports-wood-packaging,4,Business and industry,1,0
+927,e2f53bc3-2bd0-4356-89fe-73e44f09fafa,3,0.2120102494955063,/money/dealing-with-hmrc-paying-hmrc-construction-industry-scheme-through-paye,4,Money,1,0
+363,264b70fc-8063-480e-8652-9297d40efd2d,66,0.2117478847503662,/transport/uk-sea-passengers,3,Transport,0,0
+1045,4a69baa5-f368-4f96-8a93-81b2abeb5849,10,0.2107667326927185,/environment/keeping-farmed-animals-poultry-registration,4,Environment,0,0
+889,1210b08c-a45c-4b76-ad25-c48b9d4ffac2,4,0.2104257047176361,/money/business-tax-tobacco-products-duty-moving-and-storing-goods,4,Money,1,0
+658,8d54e876-06e8-464c-b6bd-1118b3dda01b,16,0.2098737210035324,/health-and-social-care/health-protection-emergency-response,3,Health and social care,0,0
+1157,610be2c0-f078-4e8c-85bd-327ff5b6d0c9,10,0.20984424650669098,/transport/foreign-driving-licences,4,Transport,0,0
+795,e0f61ec3-1f7e-4611-8457-ea4d639c1444,11,0.20959314703941345,/education/school-capacity-surveys,4,"Education, training and skills",0,0
+892,2abe81f4-5301-4897-a6f6-ffe82b220de6,6,0.20939446985721588,/health-and-social-care/ophthalmology,3,Health and social care,0,0
+1005,acb26bb8-9a3b-481d-9516-f2426333da66,10,0.20888610184192657,/money/business-tax-paye-paying-hmrc,4,Money,0,0
+1151,ab258996-8ad7-4311-b6ad-ff5d26a3aaa3,5,0.20876114070415497,/money/business-tax-money-laundering-regulations-registration-for-specific-business-types,3,Money,1,0
+1186,b550d284-fafe-4ee6-9682-734e7cfabde5,5,0.20865009725093842,/money/dealing-with-hmrc-tax-compliance-reporting-tax-evasion,4,Money,1,0
+914,94202603-1c71-4daa-9568-d180fb9bb13e,13,0.20768308639526367,/crime-justice-and-law/legal-aid-for-providers-tenders,3,"Crime, justice and law",0,0
+825,a69a4bab-aebd-4701-9579-5b65a264a3fc,10,0.2074393779039383,/government/technology-guidance-technology-guidance-green-technology,4,Government,0,0
+1174,d518f282-3389-4252-b7aa-8aadb468c25c,4,0.2070607841014862,/money/business-tax-paye-changes-to-the-business-that-affect-paye,4,Money,1,0
+635,45a65707-11c7-4e58-88b7-164f83d073e6,24,0.20673087239265442,/childcare-parenting/becoming-a-childrens-social-care-provider,4,"Parenting, childcare and children's services ",0,0
+1059,cea828a3-7695-40d6-9e4f-76bb16880d4b,4,0.20589390397071838,/money/personal-tax-inheritance-tax-paying-hmrc,4,Money,1,0
+899,e853bed1-2386-49e3-8773-ae2eb89f9de1,4,0.2053443193435669,/government/technology-guidance-technology-guidance-networking,4,Government,1,0
+1142,84230b48-93db-45f9-a374-0a82bba90f4e,11,0.2050975114107132,/childcare-parenting/early-years-foundation-stage-profile-return,4,"Parenting, childcare and children's services ",0,0
+216,60dac5ef-1ca0-42ed-aa57-d0a9082a6101,136,0.20456093549728394,/transport/property-affected-by-roadworks-and-streetworks,4,Transport,0,0
+901,c0064369-d4a1-4440-9949-e75c02b77221,3,0.20436711609363556,/money/dealing-with-hmrc-paying-hmrc-property-taxes,4,Money,1,0
+1132,c1ef5274-d19b-4921-8d5e-aa4d3f52b252,4,0.2037029266357422,/transport/employing-drivers,4,Transport,1,0
+1173,bcd39976-255b-4cb7-88cd-c83aae9ef1fe,6,0.2031615525484085,/environment/coal-reports-data,4,Environment,0,0
+1171,77de6443-ae86-41cd-a78f-ac656704021a,7,0.20254552364349365,/money/business-tax-paye-special-types-of-employee-pay,4,Money,0,0
+331,a725e228-1680-4d82-a1bf-e3e5b8fe20e1,154,0.20192517340183258,/transport/road-resurfacing,4,Transport,0,0
+947,d3b9b84a-ec8e-4b80-9058-ef20891fe837,3,0.20186461508274078,/money/personal-tax-income-tax-company-benefits-and-share-schemes,4,Money,1,0
+1099,b42ec0f9-d161-4be6-85c5-bf3933c1cca4,4,0.20145389437675476,/childcare-parenting/intercountry-adoption,3,"Parenting, childcare and children's services ",1,0
+1128,c0be924a-3cee-4200-b4e2-2de4b8ea9dc1,4,0.20069706439971924,/money/business-tax-vat-vat-moss,4,Money,1,0
+333,51631b37-84c4-4a47-b839-2ea34cdd1894,7,0.1987430453300476,/transport/hs2-costs,4,Transport,0,0
+446,e4afab5d-f00c-42ec-bf5a-8157f882e2c0,3,0.19720558822155,/money/business-tax-employment-related-securities-saye-bonus-rates,4,Money,1,0
+996,71440b25-319a-4a42-b755-2d5369091a45,11,0.19624370336532593,/education/school-preference-admission-appeals-data-collection,4,"Education, training and skills",0,0
+204,64020283-cc0a-4e52-8124-81d81e9ba974,8,0.19589759409427643,/money/dealing-with-hmrc-tax-avoidance-identifying-avoidance-schemes,4,Money,0,0
+824,999bb84a-2bed-434c-a6d1-63868100c3b1,6,0.1955753117799759,/environment/farming-food-grants-payments-school-milk-scheme,4,Environment,0,0
+686,580b5b3e-a2d2-4b98-8ebf-d4fab298d601,5,0.1954570710659027,/money/phishing-scams,3,Money,1,0
+1167,cc60b435-6e25-4200-8b78-ed53eef6aa41,5,0.1937522441148758,/money/business-tax-construction-industry-scheme-contractors,4,Money,1,0
+281,2894668d-0c21-491a-9069-a271e67f6025,1170,0.19357898831367493,/government/european-funds,3,Government,0,0
+1084,f28485d1-2492-46b0-a258-2cd9f8c20638,7,0.19350330531597137,/money/business-tax-pension-scheme-administration-pension-scheme-trustees,4,Money,0,0
+1234,0dafec49-e649-4f44-b6ef-d9b537896354,4,0.19348734617233276,/housing-local-and-community/land-registration-business-mortgage-services-mortgage-services,4,"Housing, local and community",1,0
+745,6b2b33de-1cf7-49fb-880d-01336ba48959,5,0.19269099831581116,/government/technology-guidance-technology-guidance-govuk-registers,4,Government,1,0
+1051,b0fcf462-e6b9-44e1-9145-48f66d53c81f,12,0.19082874059677124,/education/primary-curriculum-key-stage-1-programmes-of-study,4,"Education, training and skills",0,0
+1154,6d98ba4d-af6f-4e8f-b7ab-8855c90ad015,3,0.1900576800107956,/regional-and-local-government/local-government-business-rates-your-rateable-value,4,Regional and local government,1,0
+1078,6f0f8db1-9fe9-4f6a-92c7-7f9ce48117ab,14,0.18999241292476654,/education/school-workforce-censuses,4,"Education, training and skills",0,0
+921,8254de8e-bd68-4b6b-b4ed-7a635bdac407,6,0.18905684351921082,/money/dealing-with-hmrc-tax-avoidance-disclosing-avoidance-schemes,4,Money,0,0
+239,89aff4c6-c79a-40b2-91ad-270fdb16b8cb,6,0.18678215146064758,/money/business-tax-paye-statutory-pay-and-leave,4,Money,0,0
+85,8ce85f33-03ba-4e30-bf85-8a485c32fb30,144,0.18498006463050842,/health-and-social-care/health-protection-migrant-health-guide,3,Health and social care,0,0
+1220,467815e0-af2a-4a6a-9560-2713a51c4cfc,5,0.1845741719007492,/regional-and-local-government/local-government-council-tax-appeals-and-reductions,4,Regional and local government,1,0
+1182,1f2bc59a-b5d0-431b-bcd7-4644ffae2043,2,0.18434709310531616,/money/business-tax-pension-scheme-administration-overseas-schemes,4,Money,1,0
+926,88423dd7-0bcd-4058-96fd-5f69f186e8b2,2,0.18354889750480652,/money/business-tax-construction-industry-scheme-payments,4,Money,1,0
+984,6b34b0b7-abe9-4877-88da-2ff59074f511,5,0.18327316641807556,/money/personal-tax-living-working-abroad-offshore-rules-for-specific-occupations,4,Money,1,0
+989,4e4e1b9e-c32e-466b-9d6f-384f00249b68,4,0.18261000514030457,/money/dealing-with-hmrc-tax-agent-guidance-agent-authorisation,4,Money,1,0
+393,eb882d51-9e14-4fa4-b9d4-67889532aa73,74,0.1797720044851303,/entering-staying-uk/tuberculosis-testing,3,Entering and staying in the UK,0,0
+191,ac4c872a-5850-4cdd-aff8-45daf0d6d229,6,0.17909371852874756,/education/special-educational-needs-surveys,4,"Education, training and skills",0,0
+894,b6a5a98d-34dc-4388-8bb6-4c8025b9c0e4,10,0.17839539051055908,/education/alternative-provision-censuses,4,"Education, training and skills",0,0
+898,4def8626-632e-4aeb-bc18-e5201e0faf65,6,0.17769846320152283,/childcare-parenting/inspections-fostering-adoption-agencies,5,"Parenting, childcare and children's services ",0,0
+953,f54f469f-7afa-4080-a8d2-6994e738fdf4,11,0.17745177447795868,/education/key-stage-1-and-2-assessments-data-collection,4,"Education, training and skills",0,0
+1080,29698d17-8ce4-46e6-b173-bde2b5977970,3,0.17716360092163086,/childcare-parenting/special-guardianship,3,"Parenting, childcare and children's services ",1,0
+1241,e9106b40-4b74-4c3f-8054-4d36fe5f154c,2,0.17656177282333374,/money/business-tax-landfill-tax-payments-and-reliefs,4,Money,1,0
+1205,6ea41ea1-6523-43fd-8f82-5121f0e070f1,2,0.17594218254089355,/money/personal-tax-national-insurance-voluntary-contributions,4,Money,1,0
+233,9bc2276d-5f65-4b29-b7ac-00379004cfec,6,0.1757642924785614,/health-and-social-care/autism,4,Health and social care,0,0
+711,13e88e11-5ed4-45b6-ae4a-8e07fdcb65e8,5,0.17559577524662018,/money/business-tax-corporation-tax-preparing-accounts-for-corporation-tax,4,Money,1,0
+918,de3203c9-8f36-49a1-a8d5-d08ee9bc8c22,7,0.17549151182174683,/money/business-tax-pension-scheme-administration-tax-on-pensions,4,Money,0,0
+1007,41fc3c68-6b28-4bd5-ab2d-125638137cf0,8,0.17308925092220306,/environment/farming-food-grants-payments-rural-grants-payments-cross-compliance,5,Environment,0,0
+1164,912584b4-d8a1-447c-aa63-45d692d7ac32,5,0.17286616563796997,/housing-local-and-community/land-registration-business-mortgage-services-spatial-data,4,"Housing, local and community",1,0
+1218,9996acc5-1fd5-4bd0-a869-6d1ff1bf969a,2,0.16942894458770752,/money/dealing-with-hmrc-software-development-new-to-hmrc-development,4,Money,1,0
+951,df13e4ae-305e-4a85-9567-b0d19d5763ce,4,0.1667623072862625,/money/dealing-with-hmrc-tax-agent-guidance-compliance-checks,4,Money,1,0
+1141,e324abdb-7100-49f7-bc22-0eba2ba1e890,6,0.166147843003273,/education/dance-and-drama-funding-for-16-to-19-year-olds,4,"Education, training and skills",0,0
+574,8da62d85-47c0-42df-94c4-eaaeac329671,6,0.165749192237854,/childcare-parenting/register-the-birth-of-a-child,3,"Parenting, childcare and children's services ",0,0
+1100,df824788-d1c7-469c-a43d-841136b58fdf,2,0.16554832458496094,/environment/environmental-management-chemicals-contaminated-land,3,Environment,1,0
+1075,690ac909-3bb5-44c6-8374-0e76dc00a15b,6,0.1642613559961319,/education/inspection-of-british-schools-overseas,4,"Education, training and skills",0,0
+275,0d3aafca-241b-4977-8967-f47418913e0e,25,0.16308356821537018,/transport/rail-franchise-public-register,4,Transport,0,0
+923,50b51f5d-0387-4c11-aa09-5d1290259b79,6,0.16277876496315002,/money/business-tax-stamp-duty-on-shares-stamp-tax-on-electronic-shares,4,Money,0,0
+1148,5e0e15fa-a293-494d-a5b6-db4e9276351f,3,0.16262514889240265,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-vessel-licensing-and-lists,4,Environment,1,0
+1250,a05ec3d4-e403-483c-8781-8cf1351fc352,2,0.1619650423526764,/money/personal-tax-income-tax-student-jobs-and-loans,4,Money,1,0
+832,3ac8bc3b-4b7e-44f3-99a0-527eadc52ce6,2,0.15962499380111694,/money/business-tax-gambling-duties-lottery-duty,4,Money,1,0
+1163,5476b424-b273-481d-9f86-19feeda2c58b,6,0.15859460830688477,/transport/tube,3,Transport,0,0
+452,c64eb759-93ff-4bfd-86f2-16753fc1e062,210,0.15682820975780487,/entering-staying-uk/immigration-rules,2,Entering and staying in the UK,0,0
+742,5f058872-552f-40fa-a606-f3b9a7a2fd06,4,0.15604358911514282,/environment/vessel-crew-safety-certification,4,Environment,1,0
+949,7a2b6588-d734-4057-8d2f-f80a47123f17,3,0.15499892830848694,/childcare-parenting/financial-help-if-you-have-a-disabled-child,3,"Parenting, childcare and children's services ",1,0
+1015,ee6d175d-e7af-417a-9f42-d2c69df9698f,5,0.1544790118932724,/education/school-direct-funding,4,"Education, training and skills",1,0
+1226,3cd17485-f0d6-4de8-ba15-57b29c9d6f7d,4,0.15439359843730927,/money/business-tax-stamp-taxes-file-your-sdlt-return,4,Money,1,0
+1081,e66907e0-7da9-49fa-8bcc-26d32c608135,3,0.1541999876499176,/money/business-tax-corporation-tax-changes-to-your-company,4,Money,1,0
+1105,b25ec9c2-90e3-4826-90d3-283e4e2ac7eb,7,0.153916597366333,/money/personal-tax-capital-gains-tax-property,4,Money,0,0
+983,e9dc54fc-2942-4fa6-bb28-c3a47e83599e,2,0.15371131896972656,/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-catch-quota-trials,4,Environment,1,0
+1082,b554cd34-bad2-4fbb-b6df-6dae0a276bb4,3,0.15289531648159027,/money/business-tax-paye-annual-paye-and-payroll-tasks,4,Money,1,0
+1052,fed09305-c819-4139-8b05-4b5375a1a582,12,0.1524277925491333,/education/primary-curriculum-key-stage-2-programmes-of-study,4,"Education, training and skills",0,0
+1067,4a5c08c6-8eed-48d3-99f8-cee23ed300d0,4,0.1517632007598877,/money/business-tax-construction-industry-scheme-subcontractors,4,Money,1,0
+1204,2f9e3f9e-e2f0-4654-88a6-7ba0f251d76e,5,0.1512884497642517,/money/personal-tax-national-insurance-national-insurance-numbers,4,Money,1,0
+1158,9f41fccc-5723-4039-b7a0-02528a5491c5,6,0.15116910636425018,/money/dealing-with-hmrc-paying-hmrc-paye,4,Money,0,0
+1256,a22b6a91-e1a8-4345-8cdd-68d6dbcec849,2,0.15011882781982422,/housing-local-and-community/landscape,3,"Housing, local and community",1,0
+1159,339e31d9-378c-419d-9e78-84e33c8a5e41,9,0.1488824039697647,/environment/coal-water-management,4,Environment,0,0
+1117,e942477a-bb00-44e9-97c3-f52d6f8f1dcc,3,0.14844202995300293,/money/personal-tax-national-insurance-rates-and-classes,4,Money,1,0
+966,f2e1a04f-c019-4727-a7f5-e123c6acc286,6,0.1483735889196396,/money/business-tax-stamp-taxes-sdlt-on-specific-transactions,4,Money,0,0
+1249,b500ab05-19a2-491b-b7c8-90729118c244,2,0.1466171145439148,/regional-and-local-government/local-government-council-tax-council-tax-bands,4,Regional and local government,1,0
+995,1333a669-9deb-4433-956d-f89e293b33d2,46,0.14621242880821228,/transport/weekend-closures,4,Transport,0,0
+691,d9622b3b-d8a7-4274-9d44-17afebd86ca6,5,0.14271175861358643,/money/business-tax-stamp-duty-on-shares-stamp-tax-on-paper-shares,4,Money,1,0
+1129,b6eac040-8084-483c-a248-edea08955799,3,0.14100725948810577,/money/business-tax-employment-related-securities-asset-valuation,4,Money,1,0
+1228,e19a4a42-727d-4d97-aca7-fbf449a3bd72,5,0.139017254114151,/money/business-tax-corporation-tax-payments-and-refunds,4,Money,1,0
+1240,760c5c1f-223e-4640-9caa-a8a81d8610a9,4,0.13743576407432556,/money/personal-tax-capital-gains-tax-paying-hmrc,4,Money,1,0
+1183,f8415414-4d98-466e-a991-5d97aa4733de,3,0.13573254644870758,/money/personal-tax-self-assessment-refunds-appeals-and-penalties,4,Money,1,0
+1134,e69dc613-58af-47aa-8d8e-79708fbfe677,5,0.13454660773277283,/education/free-meals-for-16-to-18-year-olds,4,"Education, training and skills",1,0
+256,720f650a-331f-4575-9c56-376d1eaa9ca0,757,0.13231909275054932,/education/teaching-standards-misconduct-and-practice,3,"Education, training and skills",0,0
+790,b81abd86-9d71-4645-b010-349400ae243e,5,0.131169855594635,/money/business-tax-ir35-off-payroll-working-rules,4,Money,1,0
+145,ee851490-dd5a-4163-b337-9628795dee0a,218,0.1296193152666092,/transport/overnight-works,4,Transport,0,0
+979,a47819ad-9f57-4976-ac7e-f1586553d3e7,5,0.12948474287986755,/money/business-tax-pension-scheme-administration-paying-into-a-pension-scheme,4,Money,1,0
+1138,d1704b8c-343e-48b2-a477-767147783199,2,0.12775802612304688,/housing-local-and-community/land-registration-business-mortgage-services-ownership-verification,4,"Housing, local and community",1,0
+1056,9e500421-3185-4032-82ae-e77a94b18da9,3,0.12202060222625732,/defence/defence-armed-forces-military-awards-commemorations-medals,3,Defence and armed forces,1,0
+1144,f7bfbd46-3403-4b71-9cdd-2e4826794218,2,0.12149864435195923,/money/business-tax-stamp-taxes-stamp-duty-before-december-2003,4,Money,1,0
+1229,df7477b4-7ee3-4fcc-8a48-450cc35a535a,2,0.11900070309638977,/money/business-tax-money-laundering-regulations-problems-and-compliance-checks,3,Money,1,0
+1242,3194fc96-e298-497d-9f3c-9dc04394ea14,3,0.11378330737352371,/education/parental-responsibility-measures-attendance-censuses,4,"Education, training and skills",1,0
+856,ce4b939e-614d-4754-bf20-86347cc56c4b,3,0.11270002275705338,/money/dealing-with-hmrc-paying-hmrc-payment-problems,4,Money,1,0
+1072,49043bab-0075-414b-969b-b144539eef05,3,0.11182799935340881,/childcare-parenting/social-care-provider-complaints,4,"Parenting, childcare and children's services ",1,0
+1190,3deb7ca6-27ad-4aa1-b1b2-e9187c601740,3,0.10965576767921448,/environment/environmental-management-chemicals-reach-regulations,3,Environment,1,0
+127,e436669d-6f01-41ed-8401-23af7b15c758,975,0.10907559841871262,/transport/planned-roadworks,4,Transport,0,0
+1110,5a39596c-801f-477f-b574-43f8f16daecd,4,0.10838571190834045,/money/business-tax-corporation-tax-filing-your-return,4,Money,1,0
+1255,51054a90-7681-45f1-bb1b-455b25ad4083,3,0.10833259671926498,/employment/business-tax-self-employed-managing-expenses,3,Work,1,0
+1202,83014cce-0d8f-4ade-8697-9e108e0c1a71,2,0.10447394847869873,/money/dealing-with-hmrc-paying-hmrc-transport-and-environmental-duties,4,Money,1,0
+1091,9797d693-65f2-4e74-b652-2dae0ce7e4d4,3,0.10434196144342422,/childcare-parenting/financial-help-if-youre-a-student-with-children,3,"Parenting, childcare and children's services ",1,0
+1195,a7041d98-c40a-46de-80c8-e45a421c4f95,5,0.1039554625749588,/education/school-exclusion-reviews,4,"Education, training and skills",1,0
+1239,d9f7763a-d189-4f5b-a1ff-478da82b64a3,4,0.10202641785144806,/employment/business-tax-self-employed-paying-hmrc,3,Work,1,0
+1053,a9d68a43-fc33-4ff1-8c4f-f511b7cb1e22,2,0.10194295644760132,/housing-local-and-community/land-registration-business-mortgage-services-property-portfolio-management,4,"Housing, local and community",1,0
+708,1129721d-78ad-4795-ab16-920b0b851ee8,13,0.09813545644283295,/business/business-tax-import-export-exchange-rates,4,Business and industry,0,0
+1222,60492cbe-01c7-4226-87a6-b36cd58a41bd,2,0.09670841693878174,/environment/vessel-surveys-inspections,4,Environment,1,0
+1189,15c02dff-cb8b-4aa6-8fc5-4d3e73de001d,3,0.09229056537151337,/money/personal-tax-savings-investment-tax-tax-on-shares,4,Money,1,0
+1035,59ceb6a5-8cb3-4671-bee2-9b392e916298,2,0.09071600437164307,/education/teacher-records,3,"Education, training and skills",1,0
+1245,0f446ccf-1b3d-4a6e-b1e5-c812cd6073ac,2,0.08910819888114929,/environment/farming-food-grants-payments-intervention-schemes,4,Environment,1,0
+1194,9398e6cc-dd17-42ce-b52c-b0639a66887d,2,0.08863738179206848,/environment/farming-food-grants-payments-private-storage-aid,4,Environment,1,0
+436,229ff51f-60db-4bea-84f7-c156c36e2a6b,2,0.08732485771179199,/money/personal-tax-income-tax-scottish-rate-of-income-tax,4,Money,1,0
+1131,f695028c-ca84-41e4-ba72-d17878eadf35,2,0.08295397460460663,/government/technology-guidance-technology-guidance-apis,4,Government,1,0
+1217,6b0e810c-84e4-4527-9c96-70abd2e4922f,2,0.08195739984512329,/regional-and-local-government/local-government-business-rates-submit-your-rent-or-lease-details,4,Regional and local government,1,0
+1253,dae0c91a-d4ba-4262-a639-e1e0719e658c,2,0.07755233347415924,/environment/coal-permits-licences,4,Environment,1,0
+1165,4b118ae1-d783-47a8-bdec-905a1bf2ca9e,2,0.07458710670471191,/money/personal-tax-inheritance-tax-wills-and-probate,4,Money,1,0
+1247,c81c1fa0-686f-4168-a939-f65b976effca,2,0.07377779483795166,/regional-and-local-government/local-government-council-tax-renting,4,Regional and local government,1,0
+1233,4045babc-d429-4492-974e-daf1a822db32,2,0.07292962074279785,/education/general-hospital-school-censuses,4,"Education, training and skills",1,0
+1188,ad06699f-5543-4d96-9016-ba252e1a00a7,3,0.07127179205417633,/money/personal-tax-income-tax-overpayments-and-underpayments,4,Money,1,0
+1230,deec10aa-e68b-4bcc-9361-a0be605479de,2,0.06862640380859375,/employment/business-tax-self-employed-stopping-or-selling-your-business,3,Work,1,0
+1199,702a503b-850f-4c6a-b111-0071a2e08e6b,2,0.05652704834938049,/housing-local-and-community/party-walls,3,"Housing, local and community",1,0
+692,d4dece0b-f8cd-4c2d-91aa-1a3e180cbcc7,2,0.034005045890808105,/money/dealing-with-hmrc-paying-hmrc-shares,4,Money,1,0
+1246,bdcfeeac-8482-46c1-8a8a-7fb746fb289c,2,0.023102521896362305,/welfare/benefits-credits-child-benefit-high-income-tax-charge,3,Welfare,1,0
+1252,b0c0b3c6-6ee2-4fce-9abd-4a73be10c483,1,2.384185791015625e-07,/childcare-parenting/surrogacy,3,"Parenting, childcare and children's services ",1,0
+1243,930f5c6c-1788-4e64-961e-ed8bf22e5627,1,1.7881393432617188e-07,/money/business-tax-employment-related-securities-national-insurance-transfers,4,Money,1,0
+1122,421d530e-14cc-4403-b020-eb2d6295e3ae,1,1.1920928955078125e-07,/defence/defence-armed-forces-ministry-of-defence-estate-film-locations,3,Defence and armed forces,1,0
+1213,ab7aae60-474a-4ada-b1fb-e825983c1c13,1,1.1920928955078125e-07,/money/dealing-with-hmrc-paying-hmrc-child-benefit-overpayments,4,Money,1,0
+805,cb501a60-9413-4bf9-beae-92f71ce66534,1,1.1920928955078125e-07,/money/personal-tax-capital-gains-tax-divorce-and-separation,4,Money,1,0
+1121,bdb1c221-d4e5-45c3-8c22-079b8b3c831e,1,1.1920928955078125e-07,/money/oil-and-gas,4,Money,1,0
+1244,a3a95dd0-65b1-4811-a6ff-a81af1b569b8,1,5.960464477539063e-08,/employment/workplace-bullying-and-harassment,3,Work,1,0
+1168,6f11b0b8-ab44-4545-8e76-a94adc3935f0,1,5.960464477539063e-08,/money/personal-tax-self-assessment-records-you-must-keep,4,Money,1,0
+1161,670fb1d9-8ae5-4912-9121-6e0eb226b760,1,5.960464477539063e-08,/defence/defence-armed-forces-ministry-of-defence-estate-military-crash-sites,3,Defence and armed forces,1,0
+1221,7dc33d07-93e7-4c5d-aa26-7270db1e8209,1,5.960464477539063e-08,/environment/environmental-management-chemicals-mercury,3,Environment,1,0
+1262,373e6e1c-d73f-41a7-ac8c-0da991abbedb,1,0.0,/money/business-tax-vat-reclaiming-vat-on-a-new-home,4,Money,1,0
+1257,69311d87-0a19-47f0-b8f6-828146990cfb,1,0.0,/government/technology-guidance-technology-guidance-govuk-notify,4,Government,1,0
+1263,66acfe61-6c51-4cd9-90e0-34e47358020c,1,0.0,/environment/fishing-vessels,3,Environment,1,0
+1254,0f0ba370-1824-4326-85a3-c4038a0a3783,1,0.0,/money/business-tax-international-tax-shipping,4,Money,1,0
+1251,e1530b83-d797-4b05-b601-96bb8950fbc3,1,0.0,/environment/oil-and-gas-finance-and-taxation-market-values,4,Environment,1,0
+1261,2368b8b1-9405-4e66-b396-a5d54b777a0a,1,0.0,/environment/farming-food-grants-payments,3,Environment,1,0
+1211,ead6c3d2-7087-4f0f-821d-3313f072f4a2,1,0.0,/business-and-industry/business-exports-licences-and-special-rules,4,Business and industry,1,0
+1248,8da9b722-fa09-42be-aa0c-0d20fdf35a63,1,0.0,/money/dealing-with-hmrc-paying-hmrc-tax-credit-overpayments,4,Money,1,0
+1238,713fe1da-e59d-41af-b06d-fbf2fd2a9b7e,1,0.0,/environment/producing-distributing-food-sugar,4,Environment,1,0
+1034,4eb7fc94-9bf9-4578-aca1-737cbaaed516,1,0.0,/money/personal-tax-self-assessment-registering-for-self-assessment,4,Money,1,0
+1231,73153251-39a7-45a7-b5d0-ee7e79566ca7,1,0.0,/money/personal-tax-national-insurance-refunds,4,Money,1,0
+1047,631f2a09-9bee-4911-898c-3a3c3568c737,1,0.0,/money/business-tax-large-midsize-business-guidance-mid-sized-businesses,4,Money,1,0
+1219,4d4ca1ea-a38c-4add-89c7-24e2bfa66ad0,1,0.0,/money/dealing-with-hmrc-software-development-hmrc-recognition-scheme,4,Money,1,0
+779,ee750852-0173-4cf6-9cbf-3650ef535296,1,0.0,/money/business-tax-vat-exchange-rates,4,Money,1,0
+1200,5c2be44d-4007-446a-99c4-a45f92923314,1,0.0,/government/technology-guidance-technology-guidance-smarter-working,4,Government,1,0
+1092,ed162339-1b37-4cc4-9154-a8da7233b36a,1,0.0,/housing-local-and-community/land-registration-business-mortgage-services-risk-management,4,"Housing, local and community",1,0
+1191,c52607de-10f8-4dc7-9adb-6e29ac5947f3,1,0.0,/transport/mots,4,Transport,1,0
+1184,9031a0b6-67df-4bf0-a5b3-53cf9d78b8a4,1,0.0,/money/business-tax-ir35-employment-status,4,Money,1,0
+665,fd7a5216-1dd4-4753-8abd-3da8c6e495e1,1,0.0,/defence/defence-armed-forces-ministry-of-defence-estate-art-collection,3,Defence and armed forces,1,0
+1124,42014518-98a0-4d42-94c4-fa019d0b5baf,1,0.0,/money/dealing-with-hmrc-paying-hmrc-money-laundering-regulation-fees,4,Money,1,0
+1264,51522bef-3147-4d85-a4e9-ad3d94743183,1,0.0,/money/personal-tax-capital-gains-tax-personal-possessions,4,Money,1,0
